@@ -1,0 +1,1959 @@
+Quarter,Month,Week,Product Type,Territory,Sales Channel,Customer Type,Revenue,Cost
+Q1/2011,11-Jan,W1-2011,Computers & Tablets,North America,Direct,Entertainment Venues,10130,20809
+Q1/2011,11-Jan,W1-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,411,356
+Q1/2011,11-Jan,W1-2011,Cameras,North America,Internet,Branded Stores,5137,5695
+Q1/2011,11-Jan,W1-2011,Mobile,North America,Retail,Entertainment Venues,455,413
+Q1/2011,11-Jan,W1-2011,Office Supplies,North America,Internet,Branded Stores,68936,40628
+Q1/2011,11-Jan,W1-2011,Repairs,North America,Internet,Retail,12350,10849
+Q1/2011,11-Jan,W2-2011,Computers & Tablets,North America,Direct,Entertainment Venues,11764,16063
+Q1/2011,11-Jan,W2-2011,Computers & Tablets,North America,Direct,Retail,4088,11450
+Q1/2011,11-Jan,W2-2011,Computers & Tablets,North America,Internet,Entertainment Venues,5203,5630
+Q1/2011,11-Jan,W2-2011,Computers & Tablets,North America,Internet,Branded Stores,15392,17557
+Q1/2011,11-Jan,W2-2011,Computers & Tablets,North America,Internet,Retail,80957,90161
+Q1/2011,11-Jan,W2-2011,Computers & Tablets,North America,Retail,Entertainment Venues,1563,1760
+Q1/2011,11-Jan,W2-2011,Computers & Tablets,North America,Retail,Retail,2191,4166
+Q1/2011,11-Jan,W2-2011,TV & Home Theatre,North America,Internet,Internet Direct,2447,953
+Q1/2011,11-Jan,W2-2011,TV & Home Theatre,North America,Retail,Retail,15695,49800
+Q1/2011,11-Jan,W2-2011,Cameras,North America,Internet,Entertainment Venues,131,86
+Q1/2011,11-Jan,W2-2011,Cameras,North America,Retail,Internet Direct,19746,20734
+Q1/2011,11-Jan,W2-2011,Mobile,North America,Direct,Entertainment Venues,1216,1262
+Q1/2011,11-Jan,W2-2011,Mobile,North America,Retail,Branded Stores,45451,81149
+Q1/2011,11-Jan,W2-2011,Mobile,North America,Retail,Retail,3161,6603
+Q1/2011,11-Jan,W2-2011,Office Supplies,North America,Direct,Branded Stores,10656,10492
+Q1/2011,11-Jan,W2-2011,Office Supplies,North America,Direct,Retail,2359,3819
+Q1/2011,11-Jan,W2-2011,Office Supplies,North America,Internet,Entertainment Venues,217,103
+Q1/2011,11-Jan,W2-2011,Office Supplies,North America,Internet,Retail,39020,44550
+Q1/2011,11-Jan,W2-2011,Repairs,North America,Retail,Branded Stores,22588,17399
+Q1/2011,11-Jan,W2-2011,Portable Electronics,North America,Internet,Retail,518,788
+Q1/2011,11-Jan,W3-2011,Computers & Tablets,North America,Direct,Entertainment Venues,3152,5222
+Q1/2011,11-Jan,W3-2011,Computers & Tablets,North America,Direct,Retail,8184,20317
+Q1/2011,11-Jan,W3-2011,Computers & Tablets,North America,Retail,Branded Stores,23586,51333
+Q1/2011,11-Jan,W3-2011,TV & Home Theatre,North America,Retail,Entertainment Venues,6551,7963
+Q1/2011,11-Jan,W3-2011,Cameras,North America,Direct,Entertainment Venues,16010,16921
+Q1/2011,11-Jan,W3-2011,Cameras,North America,Internet,Retail,2714,4546
+Q1/2011,11-Jan,W3-2011,Cameras,North America,Retail,Entertainment Venues,1998,2504
+Q1/2011,11-Jan,W3-2011,Cameras,North America,Retail,Branded Stores,3293,6591
+Q1/2011,11-Jan,W3-2011,Cameras,North America,Retail,Internet Direct,34728,25015
+Q1/2011,11-Jan,W3-2011,Mobile,North America,Direct,Entertainment Venues,23241,14818
+Q1/2011,11-Jan,W3-2011,Mobile,North America,Internet,Retail,12373,10955
+Q1/2011,11-Jan,W3-2011,Mobile,North America,Retail,Internet Direct,5890,4471
+Q1/2011,11-Jan,W3-2011,Office Supplies,North America,Direct,Entertainment Venues,734,484
+Q1/2011,11-Jan,W3-2011,Office Supplies,North America,Internet,Entertainment Venues,5641,1867
+Q1/2011,11-Jan,W3-2011,Office Supplies,North America,Retail,Entertainment Venues,3634,2107
+Q1/2011,11-Jan,W3-2011,Repairs,North America,Internet,Entertainment Venues,5120,1975
+Q1/2011,11-Jan,W3-2011,Portable Electronics,North America,Direct,Retail,236,312
+Q1/2011,11-Jan,W3-2011,Portable Electronics,North America,Internet,Internet Direct,6581,3690
+Q1/2011,11-Jan,W4-2011,Computers & Tablets,North America,Direct,Entertainment Venues,5838,8763
+Q1/2011,11-Jan,W4-2011,Computers & Tablets,North America,Direct,Branded Stores,7274,20028
+Q1/2011,11-Jan,W4-2011,Computers & Tablets,North America,Direct,Retail,31776,90151
+Q1/2011,11-Jan,W4-2011,Computers & Tablets,North America,Internet,Retail,1275,2000
+Q1/2011,11-Jan,W4-2011,TV & Home Theatre,North America,Internet,Retail,2259,3587
+Q1/2011,11-Jan,W4-2011,TV & Home Theatre,North America,Retail,Retail,4619,14465
+Q1/2011,11-Jan,W4-2011,Cameras,North America,Direct,Entertainment Venues,25601,26553
+Q1/2011,11-Jan,W4-2011,Mobile,North America,Direct,Entertainment Venues,2182,1823
+Q1/2011,11-Jan,W4-2011,Mobile,North America,Direct,Retail,5989,7311
+Q1/2011,11-Jan,W4-2011,Mobile,North America,Internet,Entertainment Venues,28448,16907
+Q1/2011,11-Jan,W4-2011,Mobile,North America,Internet,Retail,1623,1796
+Q1/2011,11-Jan,W4-2011,Mobile,North America,Retail,Retail,2093,5123
+Q1/2011,11-Jan,W4-2011,Office Supplies,North America,Direct,Entertainment Venues,7678,5726
+Q1/2011,11-Jan,W4-2011,Office Supplies,North America,Internet,Entertainment Venues,133,43
+Q1/2011,11-Jan,W4-2011,Office Supplies,North America,Retail,Retail,8033,12019
+Q1/2011,11-Jan,W4-2011,Repairs,North America,Internet,Entertainment Venues,33784,11489
+Q1/2011,11-Jan,W4-2011,Portable Electronics,North America,Direct,Entertainment Venues,19953,16943
+Q1/2011,11-Jan,W4-2011,Portable Electronics,North America,Direct,Internet Direct,27651,11225
+Q1/2011,11-Jan,W4-2011,Portable Electronics,North America,Internet,Retail,1279,1686
+Q1/2011,11-Jan,W4-2011,Portable Electronics,North America,Retail,Branded Stores,29486,39755
+Q1/2011,11-Jan,W5-2011,Computers & Tablets,North America,Direct,Entertainment Venues,351,414
+Q1/2011,11-Jan,W5-2011,Computers & Tablets,North America,Internet,Entertainment Venues,840,624
+Q1/2011,11-Jan,W5-2011,Computers & Tablets,North America,Internet,Branded Stores,326,390
+Q1/2011,11-Jan,W5-2011,TV & Home Theatre,North America,Internet,Entertainment Venues,11541,6065
+Q1/2011,11-Jan,W5-2011,TV & Home Theatre,North America,Retail,Entertainment Venues,250,363
+Q1/2011,11-Jan,W5-2011,Cameras,North America,Direct,Retail,12762,27605
+Q1/2011,11-Jan,W5-2011,Cameras,North America,Internet,Entertainment Venues,9909,6499
+Q1/2011,11-Jan,W5-2011,Cameras,North America,Retail,Entertainment Venues,9859,16558
+Q1/2011,11-Jan,W5-2011,Mobile,North America,Internet,Entertainment Venues,22146,17049
+Q1/2011,11-Jan,W5-2011,Mobile,North America,Retail,Entertainment Venues,835,1148
+Q1/2011,11-Jan,W5-2011,Mobile,North America,Retail,Internet Direct,41134,23028
+Q1/2011,11-Jan,W5-2011,Office Supplies,North America,Direct,Entertainment Venues,2203,1587
+Q1/2011,11-Jan,W5-2011,Office Supplies,North America,Internet,Retail,360,306
+Q1/2011,11-Jan,W5-2011,Office Supplies,North America,Retail,Entertainment Venues,14411,12001
+Q1/2011,11-Jan,W5-2011,Portable Electronics,North America,Direct,Entertainment Venues,803,910
+Q1/2011,11-Jan,W5-2011,Portable Electronics,North America,Retail,Entertainment Venues,11040,11776
+Q1/2011,11-Jan,W5-2011,Portable Electronics,North America,Retail,Internet Direct,45131,39383
+Q1/2011,11-Jan,W6-2011,TV & Home Theatre,North America,Retail,Retail,291,888
+Q1/2011,11-Jan,W6-2011,Mobile,North America,Direct,Entertainment Venues,6612,5359
+Q1/2011,11-Feb,W6-2011,Computers & Tablets,North America,Direct,Retail,7128,18847
+Q1/2011,11-Feb,W6-2011,Computers & Tablets,North America,Retail,Entertainment Venues,2534,2361
+Q1/2011,11-Feb,W6-2011,Computers & Tablets,North America,Retail,Retail,37297,75311
+Q1/2011,11-Feb,W6-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,4875,3871
+Q1/2011,11-Feb,W6-2011,TV & Home Theatre,North America,Internet,Branded Stores,16490,13173
+Q1/2011,11-Feb,W6-2011,Cameras,North America,Internet,Retail,1490,2087
+Q1/2011,11-Feb,W6-2011,Mobile,North America,Direct,Entertainment Venues,1167,547
+Q1/2011,11-Feb,W6-2011,Mobile,North America,Internet,Entertainment Venues,6117,2676
+Q1/2011,11-Feb,W6-2011,Mobile,North America,Internet,Retail,1816,2087
+Q1/2011,11-Feb,W6-2011,Mobile,North America,Retail,Retail,36392,54308
+Q1/2011,11-Feb,W6-2011,Office Supplies,North America,Internet,Entertainment Venues,6902,2387
+Q1/2011,11-Feb,W6-2011,Repairs,North America,Internet,Retail,21878,11516
+Q1/2011,11-Feb,W6-2011,Portable Electronics,North America,Internet,Entertainment Venues,8061,2843
+Q1/2011,11-Feb,W6-2011,Portable Electronics,North America,Internet,Branded Stores,36009,25896
+Q1/2011,11-Feb,W6-2011,Portable Electronics,North America,Internet,Retail,5900,4914
+Q1/2011,11-Feb,W7-2011,Computers & Tablets,North America,Direct,Entertainment Venues,8724,9153
+Q1/2011,11-Feb,W7-2011,Computers & Tablets,North America,Direct,Retail,14370,41650
+Q1/2011,11-Feb,W7-2011,Computers & Tablets,North America,Internet,Entertainment Venues,12313,6353
+Q1/2011,11-Feb,W7-2011,Computers & Tablets,North America,Retail,Entertainment Venues,31490,36486
+Q1/2011,11-Feb,W7-2011,Computers & Tablets,North America,Retail,Branded Stores,12146,12999
+Q1/2011,11-Feb,W7-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,676,656
+Q1/2011,11-Feb,W7-2011,TV & Home Theatre,North America,Internet,Entertainment Venues,1002,622
+Q1/2011,11-Feb,W7-2011,Cameras,North America,Internet,Entertainment Venues,10964,7567
+Q1/2011,11-Feb,W7-2011,Mobile,North America,Retail,Entertainment Venues,4128,3730
+Q1/2011,11-Feb,W7-2011,Office Supplies,North America,Direct,Entertainment Venues,1878,933
+Q1/2011,11-Feb,W7-2011,Office Supplies,North America,Internet,Retail,10571,7533
+Q1/2011,11-Feb,W7-2011,Office Supplies,North America,Retail,Entertainment Venues,3627,1538
+Q1/2011,11-Feb,W7-2011,Office Supplies,North America,Retail,Internet Direct,30581,9607
+Q1/2011,11-Feb,W7-2011,Portable Electronics,North America,Direct,Entertainment Venues,5665,4399
+Q1/2011,11-Feb,W7-2011,Portable Electronics,North America,Direct,Retail,797,1170
+Q1/2011,11-Feb,W7-2011,Portable Electronics,North America,Direct,Internet Direct,23456,11323
+Q1/2011,11-Feb,W7-2011,Portable Electronics,North America,Internet,Entertainment Venues,2291,1671
+Q1/2011,11-Feb,W7-2011,Portable Electronics,North America,Internet,Retail,3727,2955
+Q1/2011,11-Feb,W8-2011,Computers & Tablets,North America,Direct,Branded Stores,26938,28848
+Q1/2011,11-Feb,W8-2011,Computers & Tablets,North America,Internet,Entertainment Venues,27839,20026
+Q1/2011,11-Feb,W8-2011,Computers & Tablets,North America,Internet,Retail,1001,1096
+Q1/2011,11-Feb,W8-2011,TV & Home Theatre,North America,Direct,Retail,31035,38718
+Q1/2011,11-Feb,W8-2011,Cameras,North America,Internet,Branded Stores,511,474
+Q1/2011,11-Feb,W8-2011,Mobile,North America,Direct,Branded Stores,205,253
+Q1/2011,11-Feb,W8-2011,Mobile,North America,Direct,Retail,408,442
+Q1/2011,11-Feb,W8-2011,Mobile,North America,Internet,Entertainment Venues,6754,2914
+Q1/2011,11-Feb,W8-2011,Mobile,North America,Internet,Branded Stores,14794,9508
+Q1/2011,11-Feb,W8-2011,Office Supplies,North America,Direct,Entertainment Venues,3006,1544
+Q1/2011,11-Feb,W8-2011,Office Supplies,North America,Direct,Branded Stores,24394,19758
+Q1/2011,11-Feb,W8-2011,Office Supplies,North America,Direct,Retail,7504,6965
+Q1/2011,11-Feb,W8-2011,Office Supplies,North America,Internet,Entertainment Venues,17249,7918
+Q1/2011,11-Feb,W8-2011,Office Supplies,North America,Internet,Branded Stores,20349,13188
+Q1/2011,11-Feb,W8-2011,Repairs,North America,Direct,Entertainment Venues,10033,2841
+Q1/2011,11-Feb,W8-2011,Portable Electronics,North America,Direct,Entertainment Venues,1291,937
+Q1/2011,11-Feb,W8-2011,Portable Electronics,North America,Internet,Entertainment Venues,7898,3765
+Q1/2011,11-Feb,W9-2011,Computers & Tablets,North America,Internet,Entertainment Venues,31149,20617
+Q1/2011,11-Feb,W9-2011,Computers & Tablets,North America,Internet,Internet Direct,17150,6510
+Q1/2011,11-Feb,W9-2011,Computers & Tablets,North America,Retail,Retail,14880,29943
+Q1/2011,11-Feb,W9-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,29503,21585
+Q1/2011,11-Feb,W9-2011,TV & Home Theatre,North America,Internet,Branded Stores,153241,100273
+Q1/2011,11-Feb,W9-2011,TV & Home Theatre,North America,Retail,Branded Stores,109689,131375
+Q1/2011,11-Feb,W9-2011,TV & Home Theatre,North America,Retail,Retail,11979,22644
+Q1/2011,11-Feb,W9-2011,Cameras,North America,Direct,Entertainment Venues,628,495
+Q1/2011,11-Feb,W9-2011,Cameras,North America,Internet,Entertainment Venues,5073,3166
+Q1/2011,11-Feb,W9-2011,Cameras,North America,Internet,Retail,36192,54387
+Q1/2011,11-Feb,W9-2011,Cameras,North America,Retail,Retail,13466,19661
+Q1/2011,11-Feb,W9-2011,Cameras,North America,Retail,Internet Direct,101025,83434
+Q1/2011,11-Feb,W9-2011,Mobile,North America,Direct,Entertainment Venues,558,346
+Q1/2011,11-Feb,W9-2011,Mobile,North America,Direct,Retail,1641,2436
+Q1/2011,11-Feb,W9-2011,Mobile,North America,Internet,Retail,14444,10621
+Q1/2011,11-Feb,W9-2011,Mobile,North America,Retail,Entertainment Venues,2876,2373
+Q1/2011,11-Feb,W9-2011,Mobile,North America,Retail,Retail,8020,16374
+Q1/2011,11-Feb,W9-2011,Office Supplies,North America,Direct,Retail,807,588
+Q1/2011,11-Feb,W9-2011,Office Supplies,North America,Internet,Entertainment Venues,14178,6143
+Q1/2011,11-Feb,W9-2011,Office Supplies,North America,Internet,Retail,25288,17811
+Q1/2011,11-Feb,W9-2011,Office Supplies,North America,Retail,Entertainment Venues,676,522
+Q1/2011,11-Feb,W9-2011,Portable Electronics,North America,Direct,Retail,12867,19880
+Q1/2011,11-Feb,W9-2011,Portable Electronics,North America,Direct,Internet Direct,3430,1467
+Q1/2011,11-Feb,W9-2011,Portable Electronics,North America,Internet,Retail,4065,4871
+Q1/2011,11-Feb,W9-2011,Portable Electronics,North America,Retail,Retail,14306,25502
+Q1/2011,11-Feb,W10-2011,Computers & Tablets,North America,Internet,Entertainment Venues,13105,10280
+Q1/2011,11-Feb,W10-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,906,564
+Q1/2011,11-Feb,W10-2011,Cameras,North America,Internet,Entertainment Venues,691,321
+Q1/2011,11-Feb,W10-2011,Mobile,North America,Internet,Retail,1176,1589
+Q1/2011,11-Feb,W10-2011,Mobile,North America,Retail,Entertainment Venues,20642,23014
+Q1/2011,11-Feb,W10-2011,Repairs,North America,Direct,Retail,2777,1792
+Q1/2011,11-Feb,W10-2011,Repairs,North America,Internet,Retail,15846,6153
+Q1/2011,11-Feb,W10-2011,Repairs,North America,Retail,Internet Direct,67379,14117
+Q1/2011,11-Mar,W10-2011,Computers & Tablets,North America,Retail,Retail,44739,97899
+Q1/2011,11-Mar,W10-2011,Cameras,North America,Direct,Entertainment Venues,32676,26318
+Q1/2011,11-Mar,W10-2011,Cameras,North America,Internet,Retail,16557,22531
+Q1/2011,11-Mar,W10-2011,Office Supplies,North America,Internet,Entertainment Venues,4104,1381
+Q1/2011,11-Mar,W10-2011,Repairs,North America,Retail,Entertainment Venues,2063,1374
+Q1/2011,11-Mar,W10-2011,Portable Electronics,North America,Direct,Entertainment Venues,13666,11674
+Q1/2011,11-Mar,W10-2011,Portable Electronics,North America,Retail,Entertainment Venues,3501,4224
+Q1/2011,11-Mar,W10-2011,Portable Electronics,North America,Retail,Internet Direct,10048,6106
+Q1/2011,11-Mar,W11-2011,Computers & Tablets,North America,Direct,Entertainment Venues,25099,32114
+Q1/2011,11-Mar,W11-2011,Computers & Tablets,North America,Retail,Retail,10227,14150
+Q1/2011,11-Mar,W11-2011,TV & Home Theatre,North America,Retail,Internet Direct,68209,44133
+Q1/2011,11-Mar,W11-2011,Cameras,North America,Direct,Entertainment Venues,22675,18688
+Q1/2011,11-Mar,W11-2011,Cameras,North America,Direct,Internet Direct,89182,40102
+Q1/2011,11-Mar,W11-2011,Cameras,North America,Internet,Retail,10061,11930
+Q1/2011,11-Mar,W11-2011,Cameras,North America,Retail,Entertainment Venues,2331,2305
+Q1/2011,11-Mar,W11-2011,Cameras,North America,Retail,Internet Direct,70199,47393
+Q1/2011,11-Mar,W11-2011,Mobile,North America,Direct,Entertainment Venues,4446,2305
+Q1/2011,11-Mar,W11-2011,Mobile,North America,Direct,Internet Direct,9717,5755
+Q1/2011,11-Mar,W11-2011,Mobile,North America,Internet,Branded Stores,24473,17020
+Q1/2011,11-Mar,W11-2011,Mobile,North America,Internet,Retail,27858,30563
+Q1/2011,11-Mar,W11-2011,Office Supplies,North America,Internet,Entertainment Venues,640,152
+Q1/2011,11-Mar,W11-2011,Office Supplies,North America,Retail,Internet Direct,34453,18684
+Q1/2011,11-Mar,W11-2011,Repairs,North America,Retail,Branded Stores,37241,26640
+Q1/2011,11-Mar,W11-2011,Portable Electronics,North America,Direct,Entertainment Venues,13525,7753
+Q1/2011,11-Mar,W11-2011,Portable Electronics,North America,Direct,Retail,2305,3688
+Q1/2011,11-Mar,W11-2011,Portable Electronics,North America,Internet,Entertainment Venues,4953,2744
+Q1/2011,11-Mar,W11-2011,Portable Electronics,North America,Internet,Retail,29065,26074
+Q1/2011,11-Mar,W11-2011,Portable Electronics,North America,Retail,Retail,22270,43944
+Q1/2011,11-Mar,W12-2011,Computers & Tablets,North America,Internet,Entertainment Venues,19260,12964
+Q1/2011,11-Mar,W12-2011,Computers & Tablets,North America,Internet,Branded Stores,21557,16358
+Q1/2011,11-Mar,W12-2011,Computers & Tablets,North America,Internet,Retail,47592,43991
+Q1/2011,11-Mar,W12-2011,Computers & Tablets,North America,Retail,Entertainment Venues,14639,16246
+Q1/2011,11-Mar,W12-2011,Computers & Tablets,North America,Retail,Branded Stores,730,1134
+Q1/2011,11-Mar,W12-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,16807,8965
+Q1/2011,11-Mar,W12-2011,TV & Home Theatre,North America,Internet,Branded Stores,59969,61245
+Q1/2011,11-Mar,W12-2011,TV & Home Theatre,North America,Retail,Entertainment Venues,27221,20046
+Q1/2011,11-Mar,W12-2011,Cameras,North America,Direct,Entertainment Venues,5547,5319
+Q1/2011,11-Mar,W12-2011,Cameras,North America,Direct,Retail,17443,36538
+Q1/2011,11-Mar,W12-2011,Mobile,North America,Direct,Entertainment Venues,11886,9090
+Q1/2011,11-Mar,W12-2011,Mobile,North America,Internet,Entertainment Venues,4754,1765
+Q1/2011,11-Mar,W12-2011,Mobile,North America,Retail,Entertainment Venues,5509,5835
+Q1/2011,11-Mar,W12-2011,Office Supplies,North America,Direct,Branded Stores,15197,7871
+Q1/2011,11-Mar,W12-2011,Office Supplies,North America,Direct,Retail,2571,1627
+Q1/2011,11-Mar,W12-2011,Office Supplies,North America,Internet,Internet Direct,7235,1582
+Q1/2011,11-Mar,W12-2011,Office Supplies,North America,Retail,Entertainment Venues,41360,25108
+Q1/2011,11-Mar,W12-2011,Office Supplies,North America,Retail,Branded Stores,39404,31005
+Q1/2011,11-Mar,W12-2011,Repairs,North America,Direct,Entertainment Venues,13680,5515
+Q1/2011,11-Mar,W12-2011,Repairs,North America,Direct,Retail,23291,12948
+Q1/2011,11-Mar,W12-2011,Repairs,North America,Internet,Retail,7637,3946
+Q1/2011,11-Mar,W12-2011,Portable Electronics,North America,Direct,Retail,28017,35535
+Q1/2011,11-Mar,W12-2011,Portable Electronics,North America,Internet,Internet Direct,73832,30119
+Q1/2011,11-Mar,W12-2011,Portable Electronics,North America,Retail,Retail,3456,5835
+Q1/2011,11-Mar,W13-2011,Computers & Tablets,North America,Direct,Entertainment Venues,2357,2487
+Q1/2011,11-Mar,W13-2011,TV & Home Theatre,North America,Retail,Entertainment Venues,13239,17876
+Q1/2011,11-Mar,W13-2011,Cameras,North America,Direct,Entertainment Venues,10516,8116
+Q1/2011,11-Mar,W13-2011,Cameras,North America,Internet,Internet Direct,23834,11654
+Q1/2011,11-Mar,W13-2011,Mobile,North America,Internet,Entertainment Venues,6849,2882
+Q1/2011,11-Mar,W13-2011,Mobile,North America,Internet,Retail,18658,19330
+Q1/2011,11-Mar,W13-2011,Office Supplies,North America,Direct,Entertainment Venues,5511,2209
+Q1/2011,11-Mar,W13-2011,Office Supplies,North America,Direct,Branded Stores,5144,2957
+Q1/2011,11-Mar,W13-2011,Portable Electronics,North America,Internet,Entertainment Venues,8248,6071
+Q1/2011,11-Mar,W13-2011,Portable Electronics,North America,Internet,Branded Stores,16664,11336
+Q1/2011,11-Mar,W13-2011,Portable Electronics,North America,Retail,Retail,5161,11613
+Q1/2011,11-Mar,W14-2011,Computers & Tablets,North America,Direct,Entertainment Venues,7054,8842
+Q1/2011,11-Mar,W14-2011,Computers & Tablets,North America,Retail,Entertainment Venues,9989,10304
+Q1/2011,11-Mar,W14-2011,Computers & Tablets,North America,Retail,Branded Stores,110022,163655
+Q1/2011,11-Mar,W14-2011,Computers & Tablets,North America,Retail,Retail,21509,44341
+Q1/2011,11-Mar,W14-2011,TV & Home Theatre,North America,Retail,Entertainment Venues,42183,37760
+Q1/2011,11-Mar,W14-2011,Cameras,North America,Internet,Entertainment Venues,2353,1310
+Q1/2011,11-Mar,W14-2011,Cameras,North America,Retail,Entertainment Venues,12895,16146
+Q1/2011,11-Mar,W14-2011,Mobile,North America,Direct,Branded Stores,7587,7918
+Q1/2011,11-Mar,W14-2011,Mobile,North America,Direct,Retail,8477,11171
+Q1/2011,11-Mar,W14-2011,Mobile,North America,Internet,Retail,1959,2217
+Q1/2011,11-Mar,W14-2011,Office Supplies,North America,Direct,Entertainment Venues,16933,10068
+Q1/2011,11-Mar,W14-2011,Office Supplies,North America,Internet,Entertainment Venues,2509,996
+Q1/2011,11-Mar,W14-2011,Office Supplies,North America,Retail,Retail,10825,9434
+Q2/2011,11-Apr,W14-2011,Computers & Tablets,North America,Internet,Retail,741,704
+Q2/2011,11-Apr,W14-2011,TV & Home Theatre,North America,Direct,Retail,5618,6797
+Q2/2011,11-Apr,W14-2011,Cameras,North America,Retail,Entertainment Venues,26203,25523
+Q2/2011,11-Apr,W14-2011,Office Supplies,North America,Internet,Internet Direct,34220,9167
+Q2/2011,11-Apr,W15-2011,Computers & Tablets,North America,Direct,Entertainment Venues,543,561
+Q2/2011,11-Apr,W15-2011,Computers & Tablets,North America,Retail,Internet Direct,8637,4201
+Q2/2011,11-Apr,W15-2011,TV & Home Theatre,North America,Direct,Retail,368,527
+Q2/2011,11-Apr,W15-2011,TV & Home Theatre,North America,Retail,Entertainment Venues,52869,63616
+Q2/2011,11-Apr,W15-2011,TV & Home Theatre,North America,Retail,Retail,205897,387283
+Q2/2011,11-Apr,W15-2011,Cameras,North America,Internet,Entertainment Venues,21187,10235
+Q2/2011,11-Apr,W15-2011,Cameras,North America,Retail,Entertainment Venues,230,287
+Q2/2011,11-Apr,W15-2011,Mobile,North America,Direct,Entertainment Venues,293,200
+Q2/2011,11-Apr,W15-2011,Mobile,North America,Internet,Entertainment Venues,37153,18615
+Q2/2011,11-Apr,W15-2011,Mobile,North America,Retail,Retail,7619,13456
+Q2/2011,11-Apr,W15-2011,Office Supplies,North America,Direct,Retail,21794,13737
+Q2/2011,11-Apr,W15-2011,Office Supplies,North America,Internet,Retail,2375,1403
+Q2/2011,11-Apr,W15-2011,Office Supplies,North America,Internet,Internet Direct,13174,3285
+Q2/2011,11-Apr,W15-2011,Repairs,North America,Internet,Internet Direct,60481,11001
+Q2/2011,11-Apr,W15-2011,Repairs,North America,Retail,Retail,18915,16929
+Q2/2011,11-Apr,W15-2011,Portable Electronics,North America,Direct,Entertainment Venues,24782,17288
+Q2/2011,11-Apr,W15-2011,Portable Electronics,North America,Direct,Branded Stores,1552,1365
+Q2/2011,11-Apr,W15-2011,Portable Electronics,North America,Direct,Retail,18799,27207
+Q2/2011,11-Apr,W15-2011,Portable Electronics,North America,Retail,Entertainment Venues,20060,14968
+Q2/2011,11-Apr,W16-2011,Computers & Tablets,North America,Direct,Entertainment Venues,90,91
+Q2/2011,11-Apr,W16-2011,Computers & Tablets,North America,Internet,Retail,53401,73088
+Q2/2011,11-Apr,W16-2011,Computers & Tablets,North America,Retail,Retail,35723,69205
+Q2/2011,11-Apr,W16-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,39519,25454
+Q2/2011,11-Apr,W16-2011,TV & Home Theatre,North America,Retail,Entertainment Venues,3846,4199
+Q2/2011,11-Apr,W16-2011,Cameras,North America,Internet,Entertainment Venues,3276,2166
+Q2/2011,11-Apr,W16-2011,Mobile,North America,Direct,Retail,2493,3699
+Q2/2011,11-Apr,W16-2011,Mobile,North America,Internet,Entertainment Venues,13943,7579
+Q2/2011,11-Apr,W16-2011,Mobile,North America,Retail,Entertainment Venues,33076,23063
+Q2/2011,11-Apr,W16-2011,Office Supplies,North America,Direct,Entertainment Venues,3464,1207
+Q2/2011,11-Apr,W16-2011,Office Supplies,North America,Direct,Branded Stores,32568,16867
+Q2/2011,11-Apr,W16-2011,Office Supplies,North America,Internet,Entertainment Venues,4697,2037
+Q2/2011,11-Apr,W16-2011,Office Supplies,North America,Internet,Retail,3485,2095
+Q2/2011,11-Apr,W16-2011,Repairs,North America,Direct,Entertainment Venues,34012,10051
+Q2/2011,11-Apr,W16-2011,Repairs,North America,Retail,Retail,21296,15434
+Q2/2011,11-Apr,W16-2011,Portable Electronics,North America,Internet,Entertainment Venues,4308,2671
+Q2/2011,11-Apr,W16-2011,Portable Electronics,North America,Internet,Branded Stores,41159,38263
+Q2/2011,11-Apr,W16-2011,Portable Electronics,North America,Retail,Entertainment Venues,14513,15928
+Q2/2011,11-Apr,W16-2011,Portable Electronics,North America,Retail,Retail,35239,54036
+Q2/2011,11-Apr,W17-2011,Computers & Tablets,North America,Direct,Retail,36342,86172
+Q2/2011,11-Apr,W17-2011,Computers & Tablets,North America,Internet,Entertainment Venues,55108,36245
+Q2/2011,11-Apr,W17-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,15157,8326
+Q2/2011,11-Apr,W17-2011,TV & Home Theatre,North America,Direct,Retail,1942,2537
+Q2/2011,11-Apr,W17-2011,TV & Home Theatre,North America,Internet,Entertainment Venues,18753,10405
+Q2/2011,11-Apr,W17-2011,TV & Home Theatre,North America,Retail,Retail,15689,23007
+Q2/2011,11-Apr,W17-2011,Mobile,North America,Direct,Entertainment Venues,3287,1681
+Q2/2011,11-Apr,W17-2011,Mobile,North America,Internet,Entertainment Venues,30748,13801
+Q2/2011,11-Apr,W17-2011,Mobile,North America,Internet,Retail,20884,20012
+Q2/2011,11-Apr,W17-2011,Mobile,North America,Retail,Entertainment Venues,32209,26593
+Q2/2011,11-Apr,W17-2011,Office Supplies,North America,Direct,Retail,7602,7991
+Q2/2011,11-Apr,W17-2011,Office Supplies,North America,Retail,Entertainment Venues,17124,13538
+Q2/2011,11-Apr,W17-2011,Repairs,North America,Direct,Retail,44277,30549
+Q2/2011,11-Apr,W17-2011,Portable Electronics,North America,Direct,Entertainment Venues,1572,726
+Q2/2011,11-Apr,W17-2011,Portable Electronics,North America,Direct,Retail,3889,4920
+Q2/2011,11-Apr,W17-2011,Portable Electronics,North America,Retail,Entertainment Venues,13149,9900
+Q2/2011,11-Apr,W18-2011,Computers & Tablets,North America,Direct,Entertainment Venues,8480,9005
+Q2/2011,11-Apr,W18-2011,Computers & Tablets,North America,Direct,Retail,3480,7263
+Q2/2011,11-Apr,W18-2011,Computers & Tablets,North America,Internet,Entertainment Venues,58817,37190
+Q2/2011,11-Apr,W18-2011,Computers & Tablets,North America,Internet,Internet Direct,83926,39626
+Q2/2011,11-Apr,W18-2011,TV & Home Theatre,North America,Direct,Branded Stores,1064,1024
+Q2/2011,11-Apr,W18-2011,TV & Home Theatre,North America,Retail,Entertainment Venues,2500,3189
+Q2/2011,11-Apr,W18-2011,Cameras,North America,Direct,Branded Stores,2495,3326
+Q2/2011,11-Apr,W18-2011,Cameras,North America,Internet,Entertainment Venues,5906,3560
+Q2/2011,11-Apr,W18-2011,Mobile,North America,Direct,Entertainment Venues,1052,984
+Q2/2011,11-Apr,W18-2011,Mobile,North America,Direct,Branded Stores,5073,3548
+Q2/2011,11-Apr,W18-2011,Mobile,North America,Internet,Entertainment Venues,1968,1077
+Q2/2011,11-Apr,W18-2011,Mobile,North America,Retail,Entertainment Venues,5104,4650
+Q2/2011,11-Apr,W18-2011,Repairs,North America,Direct,Entertainment Venues,30145,9384
+Q2/2011,11-Apr,W18-2011,Portable Electronics,North America,Direct,Retail,37508,34636
+Q2/2011,11-Apr,W18-2011,Portable Electronics,North America,Internet,Internet Direct,13528,5019
+Q2/2011,11-May,W19-2011,Computers & Tablets,North America,Direct,Retail,13839,20138
+Q2/2011,11-May,W19-2011,Computers & Tablets,North America,Internet,Entertainment Venues,55712,32739
+Q2/2011,11-May,W19-2011,Computers & Tablets,North America,Retail,Retail,65559,97001
+Q2/2011,11-May,W19-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,191125,126153
+Q2/2011,11-May,W19-2011,TV & Home Theatre,North America,Internet,Entertainment Venues,21800,11999
+Q2/2011,11-May,W19-2011,Cameras,North America,Internet,Entertainment Venues,2246,959
+Q2/2011,11-May,W19-2011,Cameras,North America,Internet,Retail,2008,1796
+Q2/2011,11-May,W19-2011,Cameras,North America,Retail,Entertainment Venues,2540,2596
+Q2/2011,11-May,W19-2011,Office Supplies,North America,Direct,Entertainment Venues,3754,1151
+Q2/2011,11-May,W19-2011,Office Supplies,North America,Direct,Branded Stores,54800,31797
+Q2/2011,11-May,W19-2011,Office Supplies,North America,Retail,Retail,38721,41526
+Q2/2011,11-May,W19-2011,Portable Electronics,North America,Direct,Entertainment Venues,306,264
+Q2/2011,11-May,W19-2011,Portable Electronics,North America,Direct,Retail,2176,2355
+Q2/2011,11-May,W19-2011,Portable Electronics,North America,Internet,Entertainment Venues,9461,4609
+Q2/2011,11-May,W19-2011,Portable Electronics,North America,Retail,Entertainment Venues,17359,13646
+Q2/2011,11-May,W20-2011,Computers & Tablets,North America,Direct,Entertainment Venues,758,551
+Q2/2011,11-May,W20-2011,Computers & Tablets,North America,Direct,Internet Direct,4386,2508
+Q2/2011,11-May,W20-2011,Computers & Tablets,North America,Internet,Entertainment Venues,398,301
+Q2/2011,11-May,W20-2011,Computers & Tablets,North America,Internet,Branded Stores,29920,30721
+Q2/2011,11-May,W20-2011,Computers & Tablets,North America,Internet,Internet Direct,9344,2627
+Q2/2011,11-May,W20-2011,Computers & Tablets,North America,Retail,Entertainment Venues,23173,18814
+Q2/2011,11-May,W20-2011,Computers & Tablets,North America,Retail,Retail,73742,123939
+Q2/2011,11-May,W20-2011,TV & Home Theatre,North America,Retail,Retail,810,1590
+Q2/2011,11-May,W20-2011,Cameras,North America,Internet,Branded Stores,15772,15262
+Q2/2011,11-May,W20-2011,Mobile,North America,Direct,Entertainment Venues,13836,6679
+Q2/2011,11-May,W20-2011,Mobile,North America,Internet,Entertainment Venues,6873,2953
+Q2/2011,11-May,W20-2011,Mobile,North America,Internet,Retail,2977,3218
+Q2/2011,11-May,W20-2011,Mobile,North America,Retail,Retail,2075,3271
+Q2/2011,11-May,W20-2011,Office Supplies,North America,Direct,Branded Stores,87477,58028
+Q2/2011,11-May,W20-2011,Office Supplies,North America,Direct,Retail,32263,23758
+Q2/2011,11-May,W20-2011,Office Supplies,North America,Retail,Internet Direct,24160,6899
+Q2/2011,11-May,W20-2011,Repairs,North America,Internet,Entertainment Venues,22063,4076
+Q2/2011,11-May,W20-2011,Portable Electronics,North America,Direct,Entertainment Venues,2751,1062
+Q2/2011,11-May,W20-2011,Portable Electronics,North America,Direct,Branded Stores,40248,29053
+Q2/2011,11-May,W20-2011,Portable Electronics,North America,Direct,Retail,2003,2836
+Q2/2011,11-May,W20-2011,Portable Electronics,North America,Internet,Entertainment Venues,2394,1288
+Q2/2011,11-May,W20-2011,Portable Electronics,North America,Internet,Retail,38294,39965
+Q2/2011,11-May,W20-2011,Portable Electronics,North America,Internet,Internet Direct,13978,4329
+Q2/2011,11-May,W20-2011,Portable Electronics,North America,Retail,Entertainment Venues,15993,13935
+Q2/2011,11-May,W21-2011,Computers & Tablets,North America,Direct,Entertainment Venues,15589,14156
+Q2/2011,11-May,W21-2011,Computers & Tablets,North America,Direct,Branded Stores,75715,129394
+Q2/2011,11-May,W21-2011,Computers & Tablets,North America,Direct,Internet Direct,488,272
+Q2/2011,11-May,W21-2011,Computers & Tablets,North America,Internet,Entertainment Venues,6405,4052
+Q2/2011,11-May,W21-2011,Computers & Tablets,North America,Internet,Branded Stores,30437,25307
+Q2/2011,11-May,W21-2011,Cameras,North America,Internet,Retail,6846,7748
+Q2/2011,11-May,W21-2011,Cameras,North America,Retail,Entertainment Venues,4119,4080
+Q2/2011,11-May,W21-2011,Cameras,North America,Retail,Branded Stores,14035,25640
+Q2/2011,11-May,W21-2011,Cameras,North America,Retail,Retail,23171,58388
+Q2/2011,11-May,W21-2011,Mobile,North America,Internet,Retail,583,498
+Q2/2011,11-May,W21-2011,Mobile,North America,Retail,Entertainment Venues,3561,3480
+Q2/2011,11-May,W21-2011,Mobile,North America,Retail,Retail,1976,2961
+Q2/2011,11-May,W21-2011,Office Supplies,North America,Internet,Entertainment Venues,17998,6606
+Q2/2011,11-May,W21-2011,Portable Electronics,North America,Direct,Retail,38923,49216
+Q2/2011,11-May,W21-2011,Portable Electronics,North America,Internet,Entertainment Venues,9306,4158
+Q2/2011,11-May,W21-2011,Portable Electronics,North America,Internet,Branded Stores,17560,8456
+Q2/2011,11-May,W21-2011,Portable Electronics,North America,Retail,Retail,3593,6310
+Q2/2011,11-May,W22-2011,Computers & Tablets,North America,Direct,Entertainment Venues,736,725
+Q2/2011,11-May,W22-2011,Computers & Tablets,North America,Direct,Retail,14269,33436
+Q2/2011,11-May,W22-2011,Computers & Tablets,North America,Retail,Entertainment Venues,1089,819
+Q2/2011,11-May,W22-2011,Computers & Tablets,North America,Retail,Internet Direct,73866,43354
+Q2/2011,11-May,W22-2011,TV & Home Theatre,North America,Direct,Retail,1116,1596
+Q2/2011,11-May,W22-2011,TV & Home Theatre,North America,Internet,Entertainment Venues,1643,842
+Q2/2011,11-May,W22-2011,Cameras,North America,Direct,Entertainment Venues,35697,30608
+Q2/2011,11-May,W22-2011,Cameras,North America,Retail,Retail,16131,32535
+Q2/2011,11-May,W22-2011,Mobile,North America,Direct,Entertainment Venues,4563,2380
+Q2/2011,11-May,W22-2011,Mobile,North America,Internet,Retail,19839,14029
+Q2/2011,11-May,W22-2011,Office Supplies,North America,Internet,Entertainment Venues,24554,6798
+Q2/2011,11-May,W22-2011,Office Supplies,North America,Retail,Retail,29015,30782
+Q2/2011,11-May,W22-2011,Repairs,North America,Direct,Entertainment Venues,11327,4022
+Q2/2011,11-May,W22-2011,Repairs,North America,Direct,Retail,20638,11538
+Q2/2011,11-May,W22-2011,Portable Electronics,North America,Internet,Entertainment Venues,582,256
+Q2/2011,11-May,W22-2011,Portable Electronics,North America,Internet,Retail,1096,1393
+Q2/2011,11-May,W22-2011,Portable Electronics,North America,Retail,Branded Stores,53704,65964
+Q2/2011,11-May,W23-2011,Computers & Tablets,North America,Direct,Entertainment Venues,3947,5515
+Q2/2011,11-May,W23-2011,Computers & Tablets,North America,Retail,Branded Stores,51014,63569
+Q2/2011,11-May,W23-2011,Cameras,North America,Retail,Retail,23865,42866
+Q2/2011,11-May,W23-2011,Mobile,North America,Direct,Retail,2461,3054
+Q2/2011,11-May,W23-2011,Mobile,North America,Internet,Retail,1588,988
+Q2/2011,11-May,W23-2011,Mobile,North America,Retail,Entertainment Venues,526,531
+Q2/2011,11-May,W23-2011,Portable Electronics,North America,Direct,Entertainment Venues,2879,1531
+Q2/2011,11-May,W23-2011,Portable Electronics,North America,Internet,Entertainment Venues,19515,7658
+Q2/2011,11-May,W23-2011,Portable Electronics,North America,Retail,Branded Stores,2256,3260
+Q2/2011,11-Jun,W23-2011,Computers & Tablets,North America,Direct,Retail,14390,22662
+Q2/2011,11-Jun,W23-2011,Computers & Tablets,North America,Internet,Entertainment Venues,11229,7787
+Q2/2011,11-Jun,W23-2011,TV & Home Theatre,North America,Internet,Retail,7300,5956
+Q2/2011,11-Jun,W23-2011,TV & Home Theatre,North America,Retail,Entertainment Venues,589,664
+Q2/2011,11-Jun,W23-2011,Office Supplies,North America,Retail,Retail,3868,5252
+Q2/2011,11-Jun,W23-2011,Repairs,North America,Internet,Retail,25182,10824
+Q2/2011,11-Jun,W23-2011,Portable Electronics,North America,Internet,Entertainment Venues,3257,1374
+Q2/2011,11-Jun,W24-2011,Computers & Tablets,North America,Direct,Entertainment Venues,872,746
+Q2/2011,11-Jun,W24-2011,Computers & Tablets,North America,Internet,Entertainment Venues,56807,32715
+Q2/2011,11-Jun,W24-2011,Computers & Tablets,North America,Retail,Entertainment Venues,17144,10452
+Q2/2011,11-Jun,W24-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,12146,9753
+Q2/2011,11-Jun,W24-2011,TV & Home Theatre,North America,Retail,Entertainment Venues,2908,2388
+Q2/2011,11-Jun,W24-2011,Cameras,North America,Direct,Branded Stores,4634,3433
+Q2/2011,11-Jun,W24-2011,Cameras,North America,Direct,Retail,23458,25164
+Q2/2011,11-Jun,W24-2011,Cameras,North America,Internet,Entertainment Venues,57227,30019
+Q2/2011,11-Jun,W24-2011,Mobile,North America,Direct,Retail,9536,11499
+Q2/2011,11-Jun,W24-2011,Mobile,North America,Internet,Entertainment Venues,959,465
+Q2/2011,11-Jun,W24-2011,Mobile,North America,Retail,Entertainment Venues,539,533
+Q2/2011,11-Jun,W24-2011,Mobile,North America,Retail,Retail,63871,100976
+Q2/2011,11-Jun,W24-2011,Office Supplies,North America,Internet,Entertainment Venues,19189,8489
+Q2/2011,11-Jun,W24-2011,Office Supplies,North America,Retail,Entertainment Venues,7167,3231
+Q2/2011,11-Jun,W24-2011,Repairs,North America,Direct,Entertainment Venues,15144,5528
+Q2/2011,11-Jun,W24-2011,Portable Electronics,North America,Internet,Entertainment Venues,16076,7405
+Q2/2011,11-Jun,W25-2011,Computers & Tablets,North America,Direct,Entertainment Venues,23699,25140
+Q2/2011,11-Jun,W25-2011,Computers & Tablets,North America,Internet,Entertainment Venues,111728,74309
+Q2/2011,11-Jun,W25-2011,Computers & Tablets,North America,Retail,Retail,67836,138414
+Q2/2011,11-Jun,W25-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,196607,112514
+Q2/2011,11-Jun,W25-2011,TV & Home Theatre,North America,Internet,Entertainment Venues,29185,16157
+Q2/2011,11-Jun,W25-2011,Cameras,North America,Direct,Entertainment Venues,1435,1033
+Q2/2011,11-Jun,W25-2011,Cameras,North America,Internet,Entertainment Venues,10343,5842
+Q2/2011,11-Jun,W25-2011,Mobile,North America,Direct,Entertainment Venues,1176,793
+Q2/2011,11-Jun,W25-2011,Mobile,North America,Direct,Retail,12991,12801
+Q2/2011,11-Jun,W25-2011,Mobile,North America,Internet,Retail,50717,52612
+Q2/2011,11-Jun,W25-2011,Office Supplies,North America,Retail,Retail,31599,33367
+Q2/2011,11-Jun,W25-2011,Repairs,North America,Direct,Retail,73625,33258
+Q2/2011,11-Jun,W25-2011,Portable Electronics,North America,Direct,Entertainment Venues,29108,14738
+Q2/2011,11-Jun,W25-2011,Portable Electronics,North America,Retail,Entertainment Venues,4913,4318
+Q2/2011,11-Jun,W25-2011,Portable Electronics,North America,Retail,Retail,9742,16480
+Q2/2011,11-Jun,W26-2011,Computers & Tablets,North America,Internet,Entertainment Venues,67165,50269
+Q2/2011,11-Jun,W26-2011,Computers & Tablets,North America,Internet,Retail,14917,16814
+Q2/2011,11-Jun,W26-2011,Computers & Tablets,North America,Internet,Internet Direct,114067,41722
+Q2/2011,11-Jun,W26-2011,Computers & Tablets,North America,Retail,Retail,121356,188075
+Q2/2011,11-Jun,W26-2011,TV & Home Theatre,North America,Direct,Retail,11080,12725
+Q2/2011,11-Jun,W26-2011,TV & Home Theatre,North America,Direct,Internet Direct,2267,708
+Q2/2011,11-Jun,W26-2011,TV & Home Theatre,North America,Internet,Retail,61830,63055
+Q2/2011,11-Jun,W26-2011,Cameras,North America,Direct,Entertainment Venues,13682,9939
+Q2/2011,11-Jun,W26-2011,Cameras,North America,Internet,Branded Stores,2118,1400
+Q2/2011,11-Jun,W26-2011,Cameras,North America,Internet,Retail,2599,3394
+Q2/2011,11-Jun,W26-2011,Cameras,North America,Retail,Branded Stores,7833,9919
+Q2/2011,11-Jun,W26-2011,Mobile,North America,Internet,Entertainment Venues,16764,7403
+Q2/2011,11-Jun,W26-2011,Mobile,North America,Retail,Entertainment Venues,2149,1412
+Q2/2011,11-Jun,W26-2011,Office Supplies,North America,Direct,Entertainment Venues,21064,6920
+Q2/2011,11-Jun,W26-2011,Repairs,North America,Direct,Entertainment Venues,15199,4996
+Q2/2011,11-Jun,W26-2011,Repairs,North America,Internet,Entertainment Venues,33787,9626
+Q2/2011,11-Jun,W26-2011,Portable Electronics,North America,Internet,Entertainment Venues,491,233
+Q2/2011,11-Jun,W26-2011,Portable Electronics,North America,Internet,Retail,6006,5153
+Q2/2011,11-Jun,W26-2011,Portable Electronics,North America,Retail,Retail,2501,3893
+Q2/2011,11-Jun,W27-2011,Computers & Tablets,North America,Direct,Entertainment Venues,28815,33994
+Q2/2011,11-Jun,W27-2011,Computers & Tablets,North America,Direct,Branded Stores,620,796
+Q2/2011,11-Jun,W27-2011,Computers & Tablets,North America,Retail,Retail,36426,52082
+Q2/2011,11-Jun,W27-2011,TV & Home Theatre,North America,Retail,Retail,3329,6443
+Q2/2011,11-Jun,W27-2011,Cameras,North America,Direct,Entertainment Venues,1180,1002
+Q2/2011,11-Jun,W27-2011,Mobile,North America,Internet,Branded Stores,7354,3082
+Q2/2011,11-Jun,W27-2011,Office Supplies,North America,Internet,Entertainment Venues,1685,634
+Q2/2011,11-Jun,W27-2011,Office Supplies,North America,Internet,Retail,8651,5658
+Q2/2011,11-Jun,W27-2011,Office Supplies,North America,Retail,Retail,829,1086
+Q2/2011,11-Jun,W27-2011,Repairs,North America,Retail,Retail,44328,42225
+Q2/2011,11-Jun,W27-2011,Portable Electronics,North America,Direct,Entertainment Venues,8869,4842
+Q3/2011,11-Jul,W27-2011,Computers & Tablets,North America,Direct,Retail,64164,132788
+Q3/2011,11-Jul,W27-2011,Computers & Tablets,North America,Internet,Entertainment Venues,998,494
+Q3/2011,11-Jul,W27-2011,Portable Electronics,North America,Direct,Retail,15302,16819
+Q3/2011,11-Jul,W28-2011,Computers & Tablets,North America,Direct,Entertainment Venues,9408,9518
+Q3/2011,11-Jul,W28-2011,Computers & Tablets,North America,Direct,Branded Stores,20056,21228
+Q3/2011,11-Jul,W28-2011,Computers & Tablets,North America,Retail,Entertainment Venues,3061,1972
+Q3/2011,11-Jul,W28-2011,Computers & Tablets,North America,Retail,Retail,63153,94454
+Q3/2011,11-Jul,W28-2011,Computers & Tablets,North America,Retail,Internet Direct,154103,75117
+Q3/2011,11-Jul,W28-2011,TV & Home Theatre,North America,Direct,Branded Stores,8646,7038
+Q3/2011,11-Jul,W28-2011,TV & Home Theatre,North America,Internet,Entertainment Venues,31806,11893
+Q3/2011,11-Jul,W28-2011,Cameras,North America,Internet,Entertainment Venues,1430,644
+Q3/2011,11-Jul,W28-2011,Mobile,North America,Direct,Branded Stores,69794,49649
+Q3/2011,11-Jul,W28-2011,Mobile,North America,Direct,Retail,5188,4425
+Q3/2011,11-Jul,W28-2011,Mobile,North America,Internet,Entertainment Venues,16317,7866
+Q3/2011,11-Jul,W28-2011,Office Supplies,North America,Internet,Entertainment Venues,4969,1607
+Q3/2011,11-Jul,W28-2011,Office Supplies,North America,Retail,Entertainment Venues,554,288
+Q3/2011,11-Jul,W28-2011,Office Supplies,North America,Retail,Retail,1069,1254
+Q3/2011,11-Jul,W28-2011,Portable Electronics,North America,Direct,Entertainment Venues,35628,24975
+Q3/2011,11-Jul,W28-2011,Portable Electronics,North America,Direct,Retail,3964,5040
+Q3/2011,11-Jul,W28-2011,Portable Electronics,North America,Internet,Entertainment Venues,13866,5179
+Q3/2011,11-Jul,W29-2011,Computers & Tablets,North America,Direct,Entertainment Venues,28307,30308
+Q3/2011,11-Jul,W29-2011,Computers & Tablets,North America,Internet,Entertainment Venues,2201,1508
+Q3/2011,11-Jul,W29-2011,Computers & Tablets,North America,Retail,Retail,55588,106791
+Q3/2011,11-Jul,W29-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,23859,15470
+Q3/2011,11-Jul,W29-2011,TV & Home Theatre,North America,Internet,Entertainment Venues,94990,57621
+Q3/2011,11-Jul,W29-2011,Cameras,North America,Internet,Entertainment Venues,89169,49259
+Q3/2011,11-Jul,W29-2011,Cameras,North America,Retail,Branded Stores,27428,44699
+Q3/2011,11-Jul,W29-2011,Mobile,North America,Internet,Entertainment Venues,492,208
+Q3/2011,11-Jul,W29-2011,Mobile,North America,Retail,Entertainment Venues,9905,8612
+Q3/2011,11-Jul,W29-2011,Mobile,North America,Retail,Internet Direct,36361,23282
+Q3/2011,11-Jul,W29-2011,Office Supplies,North America,Direct,Retail,1579,1523
+Q3/2011,11-Jul,W29-2011,Office Supplies,North America,Internet,Entertainment Venues,5163,1104
+Q3/2011,11-Jul,W29-2011,Office Supplies,North America,Retail,Entertainment Venues,25433,16761
+Q3/2011,11-Jul,W29-2011,Repairs,North America,Direct,Entertainment Venues,11189,3187
+Q3/2011,11-Jul,W29-2011,Repairs,North America,Internet,Entertainment Venues,6443,1998
+Q3/2011,11-Jul,W29-2011,Portable Electronics,North America,Direct,Retail,76882,82493
+Q3/2011,11-Jul,W29-2011,Portable Electronics,North America,Retail,Entertainment Venues,9951,10305
+Q3/2011,11-Jul,W30-2011,Computers & Tablets,North America,Direct,Entertainment Venues,34551,28722
+Q3/2011,11-Jul,W30-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,84334,54835
+Q3/2011,11-Jul,W30-2011,Cameras,North America,Direct,Entertainment Venues,3124,3114
+Q3/2011,11-Jul,W30-2011,Cameras,North America,Internet,Branded Stores,1245,924
+Q3/2011,11-Jul,W30-2011,Cameras,North America,Internet,Retail,36889,43688
+Q3/2011,11-Jul,W30-2011,Cameras,North America,Retail,Entertainment Venues,4923,5118
+Q3/2011,11-Jul,W30-2011,Mobile,North America,Direct,Entertainment Venues,6872,3891
+Q3/2011,11-Jul,W30-2011,Mobile,North America,Direct,Internet Direct,11167,3797
+Q3/2011,11-Jul,W30-2011,Mobile,North America,Retail,Entertainment Venues,3850,2570
+Q3/2011,11-Jul,W30-2011,Office Supplies,North America,Direct,Internet Direct,49604,11944
+Q3/2011,11-Jul,W30-2011,Office Supplies,North America,Retail,Retail,2445,2560
+Q3/2011,11-Jul,W30-2011,Portable Electronics,North America,Direct,Entertainment Venues,11256,8024
+Q3/2011,11-Jul,W30-2011,Portable Electronics,North America,Direct,Retail,737,1102
+Q3/2011,11-Jul,W30-2011,Portable Electronics,North America,Internet,Entertainment Venues,5753,2302
+Q3/2011,11-Jul,W30-2011,Portable Electronics,North America,Internet,Retail,56320,61292
+Q3/2011,11-Jul,W30-2011,Portable Electronics,North America,Retail,Entertainment Venues,41243,45007
+Q3/2011,11-Jul,W30-2011,Portable Electronics,North America,Retail,Retail,31458,44043
+Q3/2011,11-Jul,W31-2011,Computers & Tablets,North America,Internet,Entertainment Venues,33474,21509
+Q3/2011,11-Jul,W31-2011,Computers & Tablets,North America,Internet,Retail,138857,144886
+Q3/2011,11-Jul,W31-2011,Computers & Tablets,North America,Retail,Retail,25808,42885
+Q3/2011,11-Jul,W31-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,31282,14698
+Q3/2011,11-Jul,W31-2011,Cameras,North America,Direct,Entertainment Venues,7449,4232
+Q3/2011,11-Jul,W31-2011,Cameras,North America,Internet,Entertainment Venues,41870,20016
+Q3/2011,11-Jul,W31-2011,Cameras,North America,Retail,Entertainment Venues,6286,7457
+Q3/2011,11-Jul,W31-2011,Mobile,North America,Direct,Entertainment Venues,12799,7541
+Q3/2011,11-Jul,W31-2011,Mobile,North America,Internet,Entertainment Venues,37477,19446
+Q3/2011,11-Jul,W31-2011,Mobile,North America,Retail,Entertainment Venues,9733,6901
+Q3/2011,11-Jul,W31-2011,Office Supplies,North America,Direct,Entertainment Venues,10146,3822
+Q3/2011,11-Jul,W31-2011,Office Supplies,North America,Internet,Entertainment Venues,1446,410
+Q3/2011,11-Jul,W31-2011,Office Supplies,North America,Internet,Retail,2198,1350
+Q3/2011,11-Jul,W31-2011,Office Supplies,North America,Retail,Entertainment Venues,939,493
+Q3/2011,11-Jul,W31-2011,Office Supplies,North America,Retail,Retail,645,643
+Q3/2011,11-Jul,W31-2011,Repairs,North America,Internet,Entertainment Venues,2527,492
+Q3/2011,11-Jul,W31-2011,Repairs,North America,Retail,Internet Direct,4710,1273
+Q3/2011,11-Jul,W31-2011,Portable Electronics,North America,Direct,Retail,3414,4570
+Q3/2011,11-Jul,W31-2011,Portable Electronics,North America,Retail,Retail,23564,38264
+Q3/2011,11-Jul,W32-2011,Computers & Tablets,North America,Internet,Entertainment Venues,16818,10499
+Q3/2011,11-Jul,W32-2011,Portable Electronics,North America,Direct,Entertainment Venues,21507,12334
+Q3/2011,11-Jul,W32-2011,Portable Electronics,North America,Internet,Retail,26757,18677
+Q3/2011,11-Aug,W32-2011,Computers & Tablets,North America,Internet,Entertainment Venues,3283,1618
+Q3/2011,11-Aug,W32-2011,Computers & Tablets,North America,Retail,Entertainment Venues,403,292
+Q3/2011,11-Aug,W32-2011,TV & Home Theatre,North America,Retail,Branded Stores,78102,68027
+Q3/2011,11-Aug,W32-2011,Cameras,North America,Direct,Entertainment Venues,1294,679
+Q3/2011,11-Aug,W32-2011,Mobile,North America,Internet,Entertainment Venues,44600,18537
+Q3/2011,11-Aug,W32-2011,Office Supplies,North America,Direct,Entertainment Venues,34230,14482
+Q3/2011,11-Aug,W32-2011,Office Supplies,North America,Direct,Retail,11284,7105
+Q3/2011,11-Aug,W32-2011,Office Supplies,North America,Internet,Entertainment Venues,15055,3600
+Q3/2011,11-Aug,W32-2011,Office Supplies,North America,Internet,Retail,1369,936
+Q3/2011,11-Aug,W32-2011,Repairs,North America,Direct,Branded Stores,91961,30645
+Q3/2011,11-Aug,W32-2011,Portable Electronics,North America,Direct,Entertainment Venues,2698,1715
+Q3/2011,11-Aug,W32-2011,Portable Electronics,North America,Internet,Retail,25399,24498
+Q3/2011,11-Aug,W33-2011,Computers & Tablets,North America,Direct,Entertainment Venues,14026,17012
+Q3/2011,11-Aug,W33-2011,Computers & Tablets,North America,Direct,Branded Stores,57918,60608
+Q3/2011,11-Aug,W33-2011,TV & Home Theatre,North America,Direct,Retail,8576,9547
+Q3/2011,11-Aug,W33-2011,Cameras,North America,Internet,Entertainment Venues,18098,8603
+Q3/2011,11-Aug,W33-2011,Cameras,North America,Retail,Entertainment Venues,2353,1614
+Q3/2011,11-Aug,W33-2011,Mobile,North America,Direct,Retail,5994,4886
+Q3/2011,11-Aug,W33-2011,Mobile,North America,Internet,Entertainment Venues,1664,580
+Q3/2011,11-Aug,W33-2011,Office Supplies,North America,Internet,Retail,2178,1676
+Q3/2011,11-Aug,W33-2011,Office Supplies,North America,Retail,Entertainment Venues,851,422
+Q3/2011,11-Aug,W33-2011,Repairs,North America,Direct,Entertainment Venues,13326,4257
+Q3/2011,11-Aug,W33-2011,Portable Electronics,North America,Direct,Branded Stores,58633,45670
+Q3/2011,11-Aug,W33-2011,Portable Electronics,North America,Retail,Retail,10832,15613
+Q3/2011,11-Aug,W34-2011,Computers & Tablets,North America,Direct,Entertainment Venues,39286,35047
+Q3/2011,11-Aug,W34-2011,Computers & Tablets,North America,Internet,Entertainment Venues,5162,2731
+Q3/2011,11-Aug,W34-2011,Computers & Tablets,North America,Internet,Branded Stores,76078,69738
+Q3/2011,11-Aug,W34-2011,Computers & Tablets,North America,Retail,Internet Direct,117893,61712
+Q3/2011,11-Aug,W34-2011,TV & Home Theatre,North America,Retail,Entertainment Venues,1693,1798
+Q3/2011,11-Aug,W34-2011,Cameras,North America,Direct,Entertainment Venues,55512,40694
+Q3/2011,11-Aug,W34-2011,Cameras,North America,Internet,Entertainment Venues,25392,13147
+Q3/2011,11-Aug,W34-2011,Mobile,North America,Retail,Entertainment Venues,3286,1982
+Q3/2011,11-Aug,W34-2011,Office Supplies,North America,Direct,Entertainment Venues,587,290
+Q3/2011,11-Aug,W34-2011,Office Supplies,North America,Direct,Retail,1211,799
+Q3/2011,11-Aug,W34-2011,Office Supplies,North America,Retail,Entertainment Venues,38117,14831
+Q3/2011,11-Aug,W34-2011,Office Supplies,North America,Retail,Retail,6845,5464
+Q3/2011,11-Aug,W34-2011,Portable Electronics,North America,Direct,Entertainment Venues,32183,19475
+Q3/2011,11-Aug,W34-2011,Portable Electronics,North America,Internet,Entertainment Venues,7787,3305
+Q3/2011,11-Aug,W34-2011,Portable Electronics,North America,Internet,Branded Stores,28732,15828
+Q3/2011,11-Aug,W34-2011,Portable Electronics,North America,Retail,Internet Direct,41251,22989
+Q3/2011,11-Aug,W35-2011,Computers & Tablets,North America,Direct,Entertainment Venues,32730,35435
+Q3/2011,11-Aug,W35-2011,Computers & Tablets,North America,Direct,Branded Stores,43710,70558
+Q3/2011,11-Aug,W35-2011,Computers & Tablets,North America,Internet,Entertainment Venues,1001,701
+Q3/2011,11-Aug,W35-2011,Computers & Tablets,North America,Internet,Branded Stores,55420,52930
+Q3/2011,11-Aug,W35-2011,Computers & Tablets,North America,Internet,Internet Direct,167887,62568
+Q3/2011,11-Aug,W35-2011,Cameras,North America,Direct,Entertainment Venues,44883,21935
+Q3/2011,11-Aug,W35-2011,Cameras,North America,Internet,Entertainment Venues,27843,16786
+Q3/2011,11-Aug,W35-2011,Cameras,North America,Internet,Branded Stores,134326,84817
+Q3/2011,11-Aug,W35-2011,Cameras,North America,Internet,Retail,23604,26855
+Q3/2011,11-Aug,W35-2011,Cameras,North America,Retail,Entertainment Venues,82068,68665
+Q3/2011,11-Aug,W35-2011,Mobile,North America,Internet,Entertainment Venues,3322,1120
+Q3/2011,11-Aug,W35-2011,Mobile,North America,Retail,Entertainment Venues,23765,17540
+Q3/2011,11-Aug,W35-2011,Office Supplies,North America,Direct,Retail,5638,4004
+Q3/2011,11-Aug,W35-2011,Office Supplies,North America,Internet,Entertainment Venues,43971,16134
+Q3/2011,11-Aug,W35-2011,Repairs,North America,Retail,Entertainment Venues,19809,6404
+Q3/2011,11-Aug,W35-2011,Portable Electronics,North America,Direct,Entertainment Venues,15211,7364
+Q3/2011,11-Aug,W35-2011,Portable Electronics,North America,Direct,Retail,21368,23620
+Q3/2011,11-Aug,W35-2011,Portable Electronics,North America,Retail,Entertainment Venues,18381,14342
+Q3/2011,11-Aug,W36-2011,Computers & Tablets,North America,Direct,Entertainment Venues,3080,3325
+Q3/2011,11-Aug,W36-2011,Computers & Tablets,North America,Direct,Internet Direct,64739,41210
+Q3/2011,11-Aug,W36-2011,Computers & Tablets,North America,Internet,Retail,49942,59976
+Q3/2011,11-Aug,W36-2011,Computers & Tablets,North America,Retail,Retail,160193,242121
+Q3/2011,11-Aug,W36-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,2009,1378
+Q3/2011,11-Aug,W36-2011,TV & Home Theatre,North America,Internet,Retail,2660,2704
+Q3/2011,11-Aug,W36-2011,Cameras,North America,Direct,Entertainment Venues,3106,1804
+Q3/2011,11-Aug,W36-2011,Cameras,North America,Retail,Retail,100941,145847
+Q3/2011,11-Aug,W36-2011,Mobile,North America,Direct,Branded Stores,10761,8305
+Q3/2011,11-Aug,W36-2011,Office Supplies,North America,Internet,Retail,23616,13037
+Q3/2011,11-Aug,W36-2011,Portable Electronics,North America,Direct,Entertainment Venues,41257,24339
+Q3/2011,11-Sep,W36-2011,Computers & Tablets,North America,Direct,Entertainment Venues,5744,5353
+Q3/2011,11-Sep,W36-2011,TV & Home Theatre,North America,Retail,Entertainment Venues,77475,61799
+Q3/2011,11-Sep,W36-2011,Cameras,North America,Internet,Entertainment Venues,5943,3651
+Q3/2011,11-Sep,W36-2011,Mobile,North America,Retail,Retail,14813,26939
+Q3/2011,11-Sep,W36-2011,Office Supplies,North America,Direct,Entertainment Venues,210,66
+Q3/2011,11-Sep,W36-2011,Portable Electronics,North America,Internet,Entertainment Venues,6117,2483
+Q3/2011,11-Sep,W36-2011,Portable Electronics,North America,Retail,Retail,61694,108881
+Q3/2011,11-Sep,W37-2011,Computers & Tablets,North America,Direct,Retail,60752,104247
+Q3/2011,11-Sep,W37-2011,Computers & Tablets,North America,Internet,Branded Stores,29414,16592
+Q3/2011,11-Sep,W37-2011,TV & Home Theatre,North America,Internet,Retail,155264,138063
+Q3/2011,11-Sep,W37-2011,TV & Home Theatre,North America,Retail,Retail,48086,85896
+Q3/2011,11-Sep,W37-2011,Cameras,North America,Direct,Retail,1839,1799
+Q3/2011,11-Sep,W37-2011,Cameras,North America,Internet,Retail,12208,15449
+Q3/2011,11-Sep,W37-2011,Mobile,North America,Direct,Entertainment Venues,8704,5608
+Q3/2011,11-Sep,W37-2011,Mobile,North America,Direct,Retail,3273,3568
+Q3/2011,11-Sep,W37-2011,Mobile,North America,Internet,Retail,4011,2813
+Q3/2011,11-Sep,W37-2011,Office Supplies,North America,Direct,Entertainment Venues,3222,1010
+Q3/2011,11-Sep,W37-2011,Office Supplies,North America,Retail,Retail,50665,51640
+Q3/2011,11-Sep,W37-2011,Repairs,North America,Retail,Entertainment Venues,20033,10979
+Q3/2011,11-Sep,W37-2011,Portable Electronics,North America,Direct,Retail,6174,4429
+Q3/2011,11-Sep,W37-2011,Portable Electronics,North America,Direct,Internet Direct,31059,10014
+Q3/2011,11-Sep,W37-2011,Portable Electronics,North America,Internet,Entertainment Venues,26402,13703
+Q3/2011,11-Sep,W37-2011,Portable Electronics,North America,Retail,Entertainment Venues,8680,4258
+Q3/2011,11-Sep,W38-2011,Computers & Tablets,North America,Direct,Retail,41267,77986
+Q3/2011,11-Sep,W38-2011,Computers & Tablets,North America,Retail,Retail,10589,17636
+Q3/2011,11-Sep,W38-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,56150,29799
+Q3/2011,11-Sep,W38-2011,TV & Home Theatre,North America,Retail,Entertainment Venues,13744,14863
+Q3/2011,11-Sep,W38-2011,Cameras,North America,Direct,Entertainment Venues,339,233
+Q3/2011,11-Sep,W38-2011,Cameras,North America,Direct,Retail,49828,59673
+Q3/2011,11-Sep,W38-2011,Cameras,North America,Retail,Retail,1011,2223
+Q3/2011,11-Sep,W38-2011,Mobile,North America,Direct,Branded Stores,34057,27650
+Q3/2011,11-Sep,W38-2011,Mobile,North America,Direct,Retail,3844,4945
+Q3/2011,11-Sep,W38-2011,Mobile,North America,Internet,Entertainment Venues,1422,698
+Q3/2011,11-Sep,W38-2011,Mobile,North America,Retail,Entertainment Venues,10541,11009
+Q3/2011,11-Sep,W38-2011,Office Supplies,North America,Direct,Entertainment Venues,586,175
+Q3/2011,11-Sep,W38-2011,Office Supplies,North America,Internet,Entertainment Venues,2649,908
+Q3/2011,11-Sep,W38-2011,Office Supplies,North America,Internet,Branded Stores,5165,1763
+Q3/2011,11-Sep,W38-2011,Office Supplies,North America,Internet,Retail,68287,43669
+Q3/2011,11-Sep,W38-2011,Repairs,North America,Direct,Retail,23401,15040
+Q3/2011,11-Sep,W38-2011,Repairs,North America,Internet,Entertainment Venues,7359,1611
+Q3/2011,11-Sep,W38-2011,Portable Electronics,North America,Direct,Retail,68201,68998
+Q3/2011,11-Sep,W38-2011,Portable Electronics,North America,Internet,Entertainment Venues,17690,6192
+Q3/2011,11-Sep,W38-2011,Portable Electronics,North America,Internet,Internet Direct,91056,20178
+Q3/2011,11-Sep,W38-2011,Portable Electronics,North America,Retail,Entertainment Venues,33540,22563
+Q3/2011,11-Sep,W39-2011,Computers & Tablets,North America,Direct,Entertainment Venues,534,751
+Q3/2011,11-Sep,W39-2011,Computers & Tablets,North America,Direct,Internet Direct,13790,7168
+Q3/2011,11-Sep,W39-2011,TV & Home Theatre,North America,Internet,Entertainment Venues,8403,5031
+Q3/2011,11-Sep,W39-2011,TV & Home Theatre,North America,Retail,Retail,249695,287996
+Q3/2011,11-Sep,W39-2011,Cameras,North America,Direct,Entertainment Venues,18593,14537
+Q3/2011,11-Sep,W39-2011,Cameras,North America,Direct,Internet Direct,140557,72049
+Q3/2011,11-Sep,W39-2011,Cameras,North America,Internet,Entertainment Venues,141,88
+Q3/2011,11-Sep,W39-2011,Cameras,North America,Retail,Entertainment Venues,10494,11849
+Q3/2011,11-Sep,W39-2011,Mobile,North America,Direct,Entertainment Venues,27209,17134
+Q3/2011,11-Sep,W39-2011,Mobile,North America,Direct,Retail,30037,29364
+Q3/2011,11-Sep,W39-2011,Mobile,North America,Direct,Internet Direct,1672,699
+Q3/2011,11-Sep,W39-2011,Mobile,North America,Internet,Retail,1812,1957
+Q3/2011,11-Sep,W39-2011,Mobile,North America,Retail,Retail,5989,10020
+Q3/2011,11-Sep,W39-2011,Office Supplies,North America,Direct,Retail,21355,13811
+Q3/2011,11-Sep,W39-2011,Office Supplies,North America,Direct,Internet Direct,34681,10436
+Q3/2011,11-Sep,W39-2011,Office Supplies,North America,Retail,Entertainment Venues,2078,1348
+Q3/2011,11-Sep,W39-2011,Repairs,North America,Direct,Retail,46022,23685
+Q3/2011,11-Sep,W39-2011,Portable Electronics,North America,Direct,Entertainment Venues,3144,1522
+Q3/2011,11-Sep,W40-2011,Computers & Tablets,North America,Direct,Entertainment Venues,5873,3990
+Q3/2011,11-Sep,W40-2011,Computers & Tablets,North America,Retail,Entertainment Venues,12625,13824
+Q3/2011,11-Sep,W40-2011,Computers & Tablets,North America,Retail,Retail,25731,40329
+Q3/2011,11-Sep,W40-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,1577,1279
+Q3/2011,11-Sep,W40-2011,Cameras,North America,Direct,Entertainment Venues,7012,6829
+Q3/2011,11-Sep,W40-2011,Cameras,North America,Internet,Entertainment Venues,1218,590
+Q3/2011,11-Sep,W40-2011,Cameras,North America,Retail,Retail,17289,42156
+Q3/2011,11-Sep,W40-2011,Mobile,North America,Direct,Entertainment Venues,13473,5386
+Q3/2011,11-Sep,W40-2011,Mobile,North America,Direct,Retail,2287,2146
+Q3/2011,11-Sep,W40-2011,Mobile,North America,Internet,Internet Direct,24777,6720
+Q3/2011,11-Sep,W40-2011,Mobile,North America,Retail,Retail,1633,1926
+Q3/2011,11-Sep,W40-2011,Office Supplies,North America,Direct,Entertainment Venues,13754,4017
+Q3/2011,11-Sep,W40-2011,Office Supplies,North America,Internet,Entertainment Venues,16976,4432
+Q3/2011,11-Sep,W40-2011,Office Supplies,North America,Retail,Entertainment Venues,153,92
+Q3/2011,11-Sep,W40-2011,Repairs,North America,Direct,Entertainment Venues,10679,3057
+Q3/2011,11-Sep,W40-2011,Portable Electronics,North America,Direct,Entertainment Venues,10594,4935
+Q3/2011,11-Sep,W40-2011,Portable Electronics,North America,Internet,Retail,20101,13565
+Q3/2011,11-Sep,W40-2011,Portable Electronics,North America,Retail,Entertainment Venues,10616,8991
+Q4/2011,11-Oct,W40-2011,Cameras,North America,Direct,Entertainment Venues,1109,845
+Q4/2011,11-Oct,W40-2011,Mobile,North America,Direct,Retail,7360,10164
+Q4/2011,11-Oct,W40-2011,Mobile,North America,Direct,Internet Direct,25906,12576
+Q4/2011,11-Oct,W40-2011,Mobile,North America,Retail,Branded Stores,13669,15289
+Q4/2011,11-Oct,W40-2011,Office Supplies,North America,Direct,Entertainment Venues,1548,647
+Q4/2011,11-Oct,W40-2011,Portable Electronics,North America,Internet,Entertainment Venues,23371,14649
+Q4/2011,11-Oct,W40-2011,Portable Electronics,North America,Retail,Retail,6854,7503
+Q4/2011,11-Oct,W41-2011,Computers & Tablets,North America,Internet,Entertainment Venues,8795,5484
+Q4/2011,11-Oct,W41-2011,Computers & Tablets,North America,Retail,Entertainment Venues,94298,100708
+Q4/2011,11-Oct,W41-2011,Computers & Tablets,North America,Retail,Retail,115995,142598
+Q4/2011,11-Oct,W41-2011,TV & Home Theatre,North America,Direct,Branded Stores,12040,8722
+Q4/2011,11-Oct,W41-2011,TV & Home Theatre,North America,Internet,Entertainment Venues,1233,581
+Q4/2011,11-Oct,W41-2011,TV & Home Theatre,North America,Retail,Branded Stores,15234,14351
+Q4/2011,11-Oct,W41-2011,Cameras,North America,Internet,Entertainment Venues,42661,23343
+Q4/2011,11-Oct,W41-2011,Mobile,North America,Direct,Entertainment Venues,9554,4077
+Q4/2011,11-Oct,W41-2011,Mobile,North America,Internet,Entertainment Venues,6231,3417
+Q4/2011,11-Oct,W41-2011,Mobile,North America,Internet,Branded Stores,4634,3081
+Q4/2011,11-Oct,W41-2011,Mobile,North America,Retail,Entertainment Venues,841,568
+Q4/2011,11-Oct,W41-2011,Mobile,North America,Retail,Internet Direct,168468,66779
+Q4/2011,11-Oct,W41-2011,Office Supplies,North America,Internet,Entertainment Venues,537,171
+Q4/2011,11-Oct,W41-2011,Office Supplies,North America,Internet,Retail,7286,5314
+Q4/2011,11-Oct,W41-2011,Portable Electronics,North America,Direct,Entertainment Venues,17179,12800
+Q4/2011,11-Oct,W41-2011,Portable Electronics,North America,Internet,Entertainment Venues,7682,3326
+Q4/2011,11-Oct,W41-2011,Portable Electronics,North America,Internet,Retail,29429,17914
+Q4/2011,11-Oct,W41-2011,Portable Electronics,North America,Retail,Entertainment Venues,7379,7816
+Q4/2011,11-Oct,W42-2011,Computers & Tablets,North America,Internet,Entertainment Venues,30501,20069
+Q4/2011,11-Oct,W42-2011,Computers & Tablets,North America,Internet,Retail,83580,85118
+Q4/2011,11-Oct,W42-2011,TV & Home Theatre,North America,Direct,Retail,34059,38853
+Q4/2011,11-Oct,W42-2011,Cameras,North America,Direct,Branded Stores,150684,149345
+Q4/2011,11-Oct,W42-2011,Cameras,North America,Internet,Entertainment Venues,319,144
+Q4/2011,11-Oct,W42-2011,Mobile,North America,Direct,Retail,18719,19750
+Q4/2011,11-Oct,W42-2011,Office Supplies,North America,Direct,Retail,6027,3621
+Q4/2011,11-Oct,W42-2011,Portable Electronics,North America,Direct,Entertainment Venues,1155,590
+Q4/2011,11-Oct,W42-2011,Portable Electronics,North America,Direct,Branded Stores,11098,7991
+Q4/2011,11-Oct,W42-2011,Portable Electronics,North America,Internet,Retail,10462,12047
+Q4/2011,11-Oct,W42-2011,Portable Electronics,North America,Retail,Entertainment Venues,614,683
+Q4/2011,11-Oct,W43-2011,Computers & Tablets,North America,Direct,Entertainment Venues,479,647
+Q4/2011,11-Oct,W43-2011,TV & Home Theatre,North America,Direct,Retail,24441,34548
+Q4/2011,11-Oct,W43-2011,TV & Home Theatre,North America,Internet,Entertainment Venues,9708,4909
+Q4/2011,11-Oct,W43-2011,Cameras,North America,Direct,Branded Stores,6020,7042
+Q4/2011,11-Oct,W43-2011,Cameras,North America,Direct,Retail,23378,33262
+Q4/2011,11-Oct,W43-2011,Cameras,North America,Internet,Entertainment Venues,1626,1036
+Q4/2011,11-Oct,W43-2011,Mobile,North America,Direct,Retail,2404,3113
+Q4/2011,11-Oct,W43-2011,Mobile,North America,Retail,Entertainment Venues,4334,3184
+Q4/2011,11-Oct,W43-2011,Office Supplies,North America,Direct,Entertainment Venues,6837,2059
+Q4/2011,11-Oct,W43-2011,Office Supplies,North America,Internet,Retail,91332,55928
+Q4/2011,11-Oct,W43-2011,Office Supplies,North America,Retail,Retail,61545,79929
+Q4/2011,11-Oct,W43-2011,Portable Electronics,North America,Internet,Retail,39806,37471
+Q4/2011,11-Oct,W43-2011,Portable Electronics,North America,Retail,Entertainment Venues,9504,5421
+Q4/2011,11-Oct,W44-2011,Computers & Tablets,North America,Direct,Entertainment Venues,1153,1299
+Q4/2011,11-Oct,W44-2011,Computers & Tablets,North America,Retail,Entertainment Venues,6952,5046
+Q4/2011,11-Oct,W44-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,2148,1170
+Q4/2011,11-Oct,W44-2011,TV & Home Theatre,North America,Direct,Branded Stores,8791,9586
+Q4/2011,11-Oct,W44-2011,TV & Home Theatre,North America,Direct,Retail,123321,156837
+Q4/2011,11-Oct,W44-2011,TV & Home Theatre,North America,Retail,Entertainment Venues,706,779
+Q4/2011,11-Oct,W44-2011,Cameras,North America,Internet,Entertainment Venues,20806,13364
+Q4/2011,11-Oct,W44-2011,Mobile,North America,Direct,Retail,70621,90312
+Q4/2011,11-Oct,W44-2011,Office Supplies,North America,Direct,Retail,37202,24244
+Q4/2011,11-Oct,W44-2011,Office Supplies,North America,Internet,Entertainment Venues,19088,7817
+Q4/2011,11-Oct,W44-2011,Office Supplies,North America,Retail,Entertainment Venues,4340,2552
+Q4/2011,11-Oct,W44-2011,Portable Electronics,North America,Direct,Retail,25656,22169
+Q4/2011,11-Oct,W44-2011,Portable Electronics,North America,Internet,Entertainment Venues,1050,405
+Q4/2011,11-Oct,W45-2011,Repairs,North America,Direct,Retail,31600,17743
+Q4/2011,11-Oct,W45-2011,Repairs,North America,Internet,Retail,83765,47894
+Q4/2011,11-Nov,W45-2011,Computers & Tablets,North America,Direct,Entertainment Venues,13577,16368
+Q4/2011,11-Nov,W45-2011,Computers & Tablets,North America,Direct,Retail,41765,90421
+Q4/2011,11-Nov,W45-2011,Computers & Tablets,North America,Retail,Retail,370,842
+Q4/2011,11-Nov,W45-2011,TV & Home Theatre,North America,Direct,Retail,36056,51464
+Q4/2011,11-Nov,W45-2011,TV & Home Theatre,North America,Internet,Retail,96550,155037
+Q4/2011,11-Nov,W45-2011,Cameras,North America,Direct,Retail,9447,20504
+Q4/2011,11-Nov,W45-2011,Cameras,North America,Internet,Entertainment Venues,15242,7656
+Q4/2011,11-Nov,W45-2011,Cameras,North America,Internet,Retail,1722,2150
+Q4/2011,11-Nov,W45-2011,Cameras,North America,Internet,Internet Direct,23667,15472
+Q4/2011,11-Nov,W45-2011,Mobile,North America,Direct,Entertainment Venues,5157,3857
+Q4/2011,11-Nov,W45-2011,Mobile,North America,Internet,Entertainment Venues,6170,3218
+Q4/2011,11-Nov,W45-2011,Mobile,North America,Internet,Retail,17261,23917
+Q4/2011,11-Nov,W45-2011,Office Supplies,North America,Direct,Entertainment Venues,1544,552
+Q4/2011,11-Nov,W45-2011,Office Supplies,North America,Direct,Internet Direct,3990,1349
+Q4/2011,11-Nov,W45-2011,Office Supplies,North America,Internet,Entertainment Venues,9349,3665
+Q4/2011,11-Nov,W45-2011,Repairs,North America,Direct,Entertainment Venues,5657,2620
+Q4/2011,11-Nov,W45-2011,Repairs,North America,Internet,Internet Direct,14478,2803
+Q4/2011,11-Nov,W45-2011,Repairs,North America,Retail,Entertainment Venues,10000,5495
+Q4/2011,11-Nov,W45-2011,Portable Electronics,North America,Direct,Entertainment Venues,8201,5793
+Q4/2011,11-Nov,W45-2011,Portable Electronics,North America,Direct,Retail,23197,33361
+Q4/2011,11-Nov,W45-2011,Portable Electronics,North America,Internet,Entertainment Venues,353,256
+Q4/2011,11-Nov,W45-2011,Portable Electronics,North America,Retail,Entertainment Venues,6800,7828
+Q4/2011,11-Nov,W45-2011,Portable Electronics,North America,Retail,Retail,950,2000
+Q4/2011,11-Nov,W46-2011,Computers & Tablets,North America,Direct,Branded Stores,28578,59494
+Q4/2011,11-Nov,W46-2011,Computers & Tablets,North America,Retail,Internet Direct,51777,41500
+Q4/2011,11-Nov,W46-2011,TV & Home Theatre,North America,Direct,Retail,17249,33809
+Q4/2011,11-Nov,W46-2011,TV & Home Theatre,North America,Internet,Entertainment Venues,3287,1885
+Q4/2011,11-Nov,W46-2011,TV & Home Theatre,North America,Retail,Entertainment Venues,1373,1284
+Q4/2011,11-Nov,W46-2011,Cameras,North America,Direct,Entertainment Venues,560,577
+Q4/2011,11-Nov,W46-2011,Cameras,North America,Internet,Entertainment Venues,4490,2589
+Q4/2011,11-Nov,W46-2011,Cameras,North America,Internet,Internet Direct,82400,33094
+Q4/2011,11-Nov,W46-2011,Mobile,North America,Direct,Entertainment Venues,5589,4287
+Q4/2011,11-Nov,W46-2011,Mobile,North America,Direct,Branded Stores,4385,4103
+Q4/2011,11-Nov,W46-2011,Mobile,North America,Direct,Internet Direct,5389,2318
+Q4/2011,11-Nov,W46-2011,Mobile,North America,Internet,Entertainment Venues,6325,3751
+Q4/2011,11-Nov,W46-2011,Mobile,North America,Retail,Entertainment Venues,20020,19920
+Q4/2011,11-Nov,W46-2011,Mobile,North America,Retail,Retail,1401,3227
+Q4/2011,11-Nov,W46-2011,Office Supplies,North America,Direct,Entertainment Venues,433,226
+Q4/2011,11-Nov,W46-2011,Office Supplies,North America,Direct,Retail,6321,6082
+Q4/2011,11-Nov,W46-2011,Office Supplies,North America,Internet,Branded Stores,1954,1320
+Q4/2011,11-Nov,W46-2011,Office Supplies,North America,Internet,Retail,3589,2912
+Q4/2011,11-Nov,W46-2011,Office Supplies,North America,Retail,Entertainment Venues,1401,687
+Q4/2011,11-Nov,W46-2011,Office Supplies,North America,Retail,Branded Stores,164,185
+Q4/2011,11-Nov,W46-2011,Repairs,North America,Internet,Branded Stores,22339,9323
+Q4/2011,11-Nov,W46-2011,Portable Electronics,North America,Direct,Entertainment Venues,5155,3244
+Q4/2011,11-Nov,W46-2011,Portable Electronics,North America,Direct,Branded Stores,1707,2222
+Q4/2011,11-Nov,W47-2011,Computers & Tablets,North America,Direct,Entertainment Venues,3253,5167
+Q4/2011,11-Nov,W47-2011,Computers & Tablets,North America,Direct,Branded Stores,18031,36678
+Q4/2011,11-Nov,W47-2011,Computers & Tablets,North America,Direct,Retail,358,705
+Q4/2011,11-Nov,W47-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,11417,11383
+Q4/2011,11-Nov,W47-2011,TV & Home Theatre,North America,Internet,Entertainment Venues,2892,2054
+Q4/2011,11-Nov,W47-2011,Cameras,North America,Direct,Internet Direct,35381,19217
+Q4/2011,11-Nov,W47-2011,Mobile,North America,Direct,Entertainment Venues,1852,1655
+Q4/2011,11-Nov,W47-2011,Mobile,North America,Direct,Retail,3233,4987
+Q4/2011,11-Nov,W47-2011,Mobile,North America,Retail,Entertainment Venues,755,943
+Q4/2011,11-Nov,W47-2011,Mobile,North America,Retail,Retail,7734,16938
+Q4/2011,11-Nov,W47-2011,Office Supplies,North America,Direct,Entertainment Venues,14637,9852
+Q4/2011,11-Nov,W47-2011,Office Supplies,North America,Direct,Retail,13291,13990
+Q4/2011,11-Nov,W47-2011,Office Supplies,North America,Internet,Retail,1850,1621
+Q4/2011,11-Nov,W47-2011,Office Supplies,North America,Retail,Entertainment Venues,10854,7996
+Q4/2011,11-Nov,W47-2011,Office Supplies,North America,Retail,Retail,2106,4105
+Q4/2011,11-Nov,W47-2011,Portable Electronics,North America,Direct,Entertainment Venues,6588,5131
+Q4/2011,11-Nov,W47-2011,Portable Electronics,North America,Internet,Entertainment Venues,2014,968
+Q4/2011,11-Nov,W47-2011,Portable Electronics,North America,Internet,Retail,17531,16928
+Q4/2011,11-Nov,W47-2011,Portable Electronics,North America,Internet,Internet Direct,44951,18054
+Q4/2011,11-Nov,W47-2011,Portable Electronics,North America,Retail,Entertainment Venues,5895,6827
+Q4/2011,11-Nov,W47-2011,Portable Electronics,North America,Retail,Branded Stores,8688,13104
+Q4/2011,11-Nov,W47-2011,Portable Electronics,North America,Retail,Internet Direct,20110,13995
+Q4/2011,11-Nov,W48-2011,Computers & Tablets,North America,Direct,Entertainment Venues,194,223
+Q4/2011,11-Nov,W48-2011,Computers & Tablets,North America,Direct,Internet Direct,16748,13541
+Q4/2011,11-Nov,W48-2011,Computers & Tablets,North America,Internet,Entertainment Venues,1912,1053
+Q4/2011,11-Nov,W48-2011,Computers & Tablets,North America,Retail,Retail,35430,62701
+Q4/2011,11-Nov,W48-2011,TV & Home Theatre,North America,Retail,Entertainment Venues,5043,4590
+Q4/2011,11-Nov,W48-2011,Cameras,North America,Direct,Entertainment Venues,14777,13156
+Q4/2011,11-Nov,W48-2011,Cameras,North America,Direct,Retail,11149,26393
+Q4/2011,11-Nov,W48-2011,Cameras,North America,Direct,Internet Direct,11273,7259
+Q4/2011,11-Nov,W48-2011,Cameras,North America,Internet,Entertainment Venues,8792,7977
+Q4/2011,11-Nov,W48-2011,Cameras,North America,Internet,Branded Stores,16887,12703
+Q4/2011,11-Nov,W48-2011,Mobile,North America,Direct,Entertainment Venues,1578,1178
+Q4/2011,11-Nov,W48-2011,Mobile,North America,Direct,Retail,2367,4054
+Q4/2011,11-Nov,W48-2011,Mobile,North America,Internet,Retail,3629,4992
+Q4/2011,11-Nov,W48-2011,Mobile,North America,Retail,Retail,1291,2750
+Q4/2011,11-Nov,W48-2011,Mobile,North America,Retail,Internet Direct,3285,2941
+Q4/2011,11-Nov,W48-2011,Office Supplies,North America,Direct,Entertainment Venues,2028,1109
+Q4/2011,11-Nov,W48-2011,Office Supplies,North America,Internet,Entertainment Venues,11691,4550
+Q4/2011,11-Nov,W48-2011,Office Supplies,North America,Internet,Branded Stores,621,410
+Q4/2011,11-Nov,W48-2011,Office Supplies,North America,Internet,Retail,20133,20833
+Q4/2011,11-Nov,W48-2011,Office Supplies,North America,Retail,Entertainment Venues,170,123
+Q4/2011,11-Nov,W48-2011,Office Supplies,North America,Retail,Branded Stores,776,755
+Q4/2011,11-Nov,W48-2011,Repairs,North America,Direct,Retail,24678,22916
+Q4/2011,11-Nov,W48-2011,Repairs,North America,Retail,Retail,53165,64068
+Q4/2011,11-Nov,W48-2011,Portable Electronics,North America,Direct,Entertainment Venues,932,749
+Q4/2011,11-Nov,W48-2011,Portable Electronics,North America,Internet,Entertainment Venues,17869,10006
+Q4/2011,11-Nov,W48-2011,Portable Electronics,North America,Internet,Retail,19722,14242
+Q4/2011,11-Nov,W48-2011,Portable Electronics,North America,Retail,Entertainment Venues,695,606
+Q4/2011,11-Nov,W48-2011,Portable Electronics,North America,Retail,Branded Stores,4333,5724
+Q4/2011,11-Nov,W49-2011,Computers & Tablets,North America,Internet,Entertainment Venues,7132,6271
+Q4/2011,11-Nov,W49-2011,Computers & Tablets,North America,Internet,Branded Stores,31061,40437
+Q4/2011,11-Nov,W49-2011,Computers & Tablets,North America,Retail,Entertainment Venues,22298,31118
+Q4/2011,11-Nov,W49-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,17371,14235
+Q4/2011,11-Nov,W49-2011,TV & Home Theatre,North America,Internet,Entertainment Venues,4468,2948
+Q4/2011,11-Nov,W49-2011,Cameras,North America,Retail,Internet Direct,4993,5838
+Q4/2011,11-Nov,W49-2011,Mobile,North America,Retail,Retail,4685,6951
+Q4/2011,11-Nov,W49-2011,Office Supplies,North America,Direct,Entertainment Venues,1587,1192
+Q4/2011,11-Nov,W49-2011,Office Supplies,North America,Direct,Branded Stores,8170,6817
+Q4/2011,11-Nov,W49-2011,Office Supplies,North America,Internet,Entertainment Venues,6616,3185
+Q4/2011,11-Nov,W49-2011,Office Supplies,North America,Internet,Retail,3796,2710
+Q4/2011,11-Nov,W49-2011,Portable Electronics,North America,Internet,Entertainment Venues,35616,22663
+Q4/2011,11-Nov,W49-2011,Portable Electronics,North America,Internet,Retail,138,147
+Q4/2011,11-Dec,W49-2011,Computers & Tablets,North America,Direct,Entertainment Venues,3172,4757
+Q4/2011,11-Dec,W49-2011,Computers & Tablets,North America,Direct,Retail,6644,19188
+Q4/2011,11-Dec,W49-2011,Computers & Tablets,North America,Retail,Entertainment Venues,563,595
+Q4/2011,11-Dec,W49-2011,TV & Home Theatre,North America,Internet,Entertainment Venues,3590,2636
+Q4/2011,11-Dec,W49-2011,TV & Home Theatre,North America,Retail,Entertainment Venues,486,779
+Q4/2011,11-Dec,W49-2011,Cameras,North America,Retail,Entertainment Venues,348,598
+Q4/2011,11-Dec,W49-2011,Cameras,North America,Retail,Retail,1210,3865
+Q4/2011,11-Dec,W49-2011,Mobile,North America,Internet,Entertainment Venues,1692,1296
+Q4/2011,11-Dec,W49-2011,Office Supplies,North America,Direct,Entertainment Venues,1129,624
+Q4/2011,11-Dec,W49-2011,Office Supplies,North America,Direct,Retail,372,541
+Q4/2011,11-Dec,W49-2011,Office Supplies,North America,Internet,Branded Stores,7020,2867
+Q4/2011,11-Dec,W49-2011,Portable Electronics,North America,Retail,Internet Direct,24279,16466
+Q4/2011,11-Dec,W50-2011,Computers & Tablets,North America,Direct,Entertainment Venues,9465,14620
+Q4/2011,11-Dec,W50-2011,Computers & Tablets,North America,Direct,Retail,6431,18554
+Q4/2011,11-Dec,W50-2011,Computers & Tablets,North America,Direct,Internet Direct,12352,14167
+Q4/2011,11-Dec,W50-2011,Computers & Tablets,North America,Internet,Entertainment Venues,1011,806
+Q4/2011,11-Dec,W50-2011,Computers & Tablets,North America,Internet,Retail,2048,2911
+Q4/2011,11-Dec,W50-2011,Cameras,North America,Direct,Retail,5287,11145
+Q4/2011,11-Dec,W50-2011,Cameras,North America,Internet,Entertainment Venues,168,140
+Q4/2011,11-Dec,W50-2011,Cameras,North America,Internet,Branded Stores,2428,2598
+Q4/2011,11-Dec,W50-2011,Cameras,North America,Internet,Retail,21470,44029
+Q4/2011,11-Dec,W50-2011,Mobile,North America,Direct,Entertainment Venues,2301,2205
+Q4/2011,11-Dec,W50-2011,Mobile,North America,Direct,Retail,960,2037
+Q4/2011,11-Dec,W50-2011,Mobile,North America,Direct,Internet Direct,3748,1886
+Q4/2011,11-Dec,W50-2011,Mobile,North America,Internet,Retail,1105,1469
+Q4/2011,11-Dec,W50-2011,Mobile,North America,Internet,Internet Direct,11530,4235
+Q4/2011,11-Dec,W50-2011,Mobile,North America,Retail,Entertainment Venues,1566,2216
+Q4/2011,11-Dec,W50-2011,Mobile,North America,Retail,Internet Direct,54545,35471
+Q4/2011,11-Dec,W50-2011,Office Supplies,North America,Direct,Branded Stores,1180,986
+Q4/2011,11-Dec,W50-2011,Office Supplies,North America,Direct,Retail,5845,6203
+Q4/2011,11-Dec,W50-2011,Office Supplies,North America,Internet,Entertainment Venues,172,73
+Q4/2011,11-Dec,W50-2011,Office Supplies,North America,Internet,Retail,3936,3486
+Q4/2011,11-Dec,W50-2011,Repairs,North America,Direct,Entertainment Venues,8025,3423
+Q4/2011,11-Dec,W50-2011,Repairs,North America,Retail,Entertainment Venues,2713,1604
+Q4/2011,11-Dec,W50-2011,Portable Electronics,North America,Direct,Entertainment Venues,18868,15544
+Q4/2011,11-Dec,W50-2011,Portable Electronics,North America,Internet,Branded Stores,3625,4452
+Q4/2011,11-Dec,W50-2011,Portable Electronics,North America,Internet,Retail,171,228
+Q4/2011,11-Dec,W50-2011,Portable Electronics,North America,Retail,Entertainment Venues,1726,2520
+Q4/2011,11-Dec,W50-2011,Portable Electronics,North America,Retail,Retail,560,1685
+Q4/2011,11-Dec,W51-2011,Computers & Tablets,North America,Direct,Entertainment Venues,5714,10366
+Q4/2011,11-Dec,W51-2011,Computers & Tablets,North America,Internet,Retail,18216,39146
+Q4/2011,11-Dec,W51-2011,Computers & Tablets,North America,Internet,Internet Direct,7500,3792
+Q4/2011,11-Dec,W51-2011,Computers & Tablets,North America,Retail,Entertainment Venues,21338,25740
+Q4/2011,11-Dec,W51-2011,TV & Home Theatre,North America,Direct,Internet Direct,32399,24161
+Q4/2011,11-Dec,W51-2011,TV & Home Theatre,North America,Internet,Retail,22181,37610
+Q4/2011,11-Dec,W51-2011,TV & Home Theatre,North America,Retail,Entertainment Venues,9564,15888
+Q4/2011,11-Dec,W51-2011,TV & Home Theatre,North America,Retail,Retail,1371,3355
+Q4/2011,11-Dec,W51-2011,Cameras,North America,Direct,Branded Stores,24615,59476
+Q4/2011,11-Dec,W51-2011,Cameras,North America,Retail,Entertainment Venues,14181,29756
+Q4/2011,11-Dec,W51-2011,Mobile,North America,Direct,Entertainment Venues,2179,1803
+Q4/2011,11-Dec,W51-2011,Mobile,North America,Internet,Entertainment Venues,2558,1826
+Q4/2011,11-Dec,W51-2011,Mobile,North America,Retail,Entertainment Venues,2044,2400
+Q4/2011,11-Dec,W51-2011,Office Supplies,North America,Direct,Retail,9121,10725
+Q4/2011,11-Dec,W51-2011,Office Supplies,North America,Internet,Entertainment Venues,11661,6961
+Q4/2011,11-Dec,W51-2011,Office Supplies,North America,Retail,Entertainment Venues,1378,1038
+Q4/2011,11-Dec,W51-2011,Office Supplies,North America,Retail,Retail,26324,34447
+Q4/2011,11-Dec,W51-2011,Repairs,North America,Retail,Retail,24284,31559
+Q4/2011,11-Dec,W51-2011,Portable Electronics,North America,Direct,Entertainment Venues,8500,9329
+Q4/2011,11-Dec,W51-2011,Portable Electronics,North America,Direct,Retail,8889,14324
+Q4/2011,11-Dec,W51-2011,Portable Electronics,North America,Internet,Entertainment Venues,616,597
+Q4/2011,11-Dec,W51-2011,Portable Electronics,North America,Retail,Internet Direct,2878,2200
+Q4/2011,11-Dec,W52-2011,Computers & Tablets,North America,Direct,Entertainment Venues,12084,19954
+Q4/2011,11-Dec,W52-2011,Computers & Tablets,North America,Direct,Internet Direct,8602,10534
+Q4/2011,11-Dec,W52-2011,Computers & Tablets,North America,Internet,Branded Stores,10950,15917
+Q4/2011,11-Dec,W52-2011,Computers & Tablets,North America,Internet,Internet Direct,4704,2327
+Q4/2011,11-Dec,W52-2011,Computers & Tablets,North America,Retail,Entertainment Venues,16773,25569
+Q4/2011,11-Dec,W52-2011,Computers & Tablets,North America,Retail,Retail,27625,66100
+Q4/2011,11-Dec,W52-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,2022,1903
+Q4/2011,11-Dec,W52-2011,TV & Home Theatre,North America,Internet,Retail,1493,2931
+Q4/2011,11-Dec,W52-2011,TV & Home Theatre,North America,Retail,Entertainment Venues,17118,19450
+Q4/2011,11-Dec,W52-2011,Cameras,North America,Direct,Entertainment Venues,2109,2733
+Q4/2011,11-Dec,W52-2011,Cameras,North America,Internet,Entertainment Venues,417,389
+Q4/2011,11-Dec,W52-2011,Cameras,North America,Internet,Retail,29190,62890
+Q4/2011,11-Dec,W52-2011,Cameras,North America,Retail,Entertainment Venues,1170,1833
+Q4/2011,11-Dec,W52-2011,Cameras,North America,Retail,Branded Stores,1604,3131
+Q4/2011,11-Dec,W52-2011,Cameras,North America,Retail,Retail,12679,34431
+Q4/2011,11-Dec,W52-2011,Mobile,North America,Direct,Retail,2047,4178
+Q4/2011,11-Dec,W52-2011,Mobile,North America,Retail,Internet Direct,1789,1469
+Q4/2011,11-Dec,W52-2011,Office Supplies,North America,Direct,Entertainment Venues,1567,1040
+Q4/2011,11-Dec,W52-2011,Office Supplies,North America,Direct,Retail,1068,1411
+Q4/2011,11-Dec,W52-2011,Office Supplies,North America,Internet,Entertainment Venues,8805,5549
+Q4/2011,11-Dec,W52-2011,Office Supplies,North America,Internet,Branded Stores,11032,10926
+Q4/2011,11-Dec,W52-2011,Office Supplies,North America,Internet,Retail,1313,1249
+Q4/2011,11-Dec,W52-2011,Office Supplies,North America,Retail,Entertainment Venues,5175,4296
+Q4/2011,11-Dec,W52-2011,Repairs,North America,Direct,Retail,13127,9170
+Q4/2011,11-Dec,W52-2011,Portable Electronics,North America,Direct,Entertainment Venues,177,210
+Q4/2011,11-Dec,W52-2011,Portable Electronics,North America,Internet,Entertainment Venues,3769,2834
+Q4/2011,11-Dec,W52-2011,Portable Electronics,North America,Internet,Retail,15381,23642
+Q4/2011,11-Dec,W52-2011,Portable Electronics,North America,Retail,Entertainment Venues,6523,8445
+Q4/2011,11-Dec,W52-2011,Portable Electronics,North America,Retail,Retail,726,2283
+Q4/2011,11-Dec,W53-2011,Computers & Tablets,North America,Direct,Entertainment Venues,15822,29717
+Q4/2011,11-Dec,W53-2011,Computers & Tablets,North America,Internet,Branded Stores,2906,3761
+Q4/2011,11-Dec,W53-2011,Computers & Tablets,North America,Internet,Retail,14848,22163
+Q4/2011,11-Dec,W53-2011,TV & Home Theatre,North America,Direct,Entertainment Venues,16850,16317
+Q4/2011,11-Dec,W53-2011,TV & Home Theatre,North America,Internet,Entertainment Venues,8572,8550
+Q4/2011,11-Dec,W53-2011,TV & Home Theatre,North America,Internet,Retail,5920,10267
+Q4/2011,11-Dec,W53-2011,TV & Home Theatre,North America,Retail,Entertainment Venues,755,1190
+Q4/2011,11-Dec,W53-2011,Cameras,North America,Direct,Entertainment Venues,7861,8896
+Q4/2011,11-Dec,W53-2011,Cameras,North America,Direct,Internet Direct,21482,15078
+Q4/2011,11-Dec,W53-2011,Cameras,North America,Retail,Entertainment Venues,3126,7259
+Q4/2011,11-Dec,W53-2011,Cameras,North America,Retail,Retail,458,1913
+Q4/2011,11-Dec,W53-2011,Mobile,North America,Direct,Entertainment Venues,1409,1280
+Q4/2011,11-Dec,W53-2011,Mobile,North America,Direct,Branded Stores,3468,5376
+Q4/2011,11-Dec,W53-2011,Mobile,North America,Direct,Retail,3199,4973
+Q4/2011,11-Dec,W53-2011,Mobile,North America,Internet,Entertainment Venues,8824,4967
+Q4/2011,11-Dec,W53-2011,Mobile,North America,Internet,Retail,9642,13018
+Q4/2011,11-Dec,W53-2011,Mobile,North America,Retail,Entertainment Venues,2065,2580
+Q4/2011,11-Dec,W53-2011,Mobile,North America,Retail,Retail,9573,26013
+Q4/2011,11-Dec,W53-2011,Office Supplies,North America,Direct,Retail,3718,6551
+Q4/2011,11-Dec,W53-2011,Office Supplies,North America,Internet,Entertainment Venues,5850,3144
+Q4/2011,11-Dec,W53-2011,Office Supplies,North America,Internet,Retail,20069,21280
+Q4/2011,11-Dec,W53-2011,Office Supplies,North America,Retail,Retail,3444,5214
+Q4/2011,11-Dec,W53-2011,Repairs,North America,Internet,Retail,16302,12946
+Q4/2011,11-Dec,W53-2011,Portable Electronics,North America,Direct,Entertainment Venues,10486,8809
+Q4/2011,11-Dec,W53-2011,Portable Electronics,North America,Internet,Entertainment Venues,3793,2880
+Q4/2011,11-Dec,W53-2011,Portable Electronics,North America,Internet,Branded Stores,9914,8798
+Q1/2012,12-Jan,W1-2012,Computers & Tablets,North America,Direct,Entertainment Venues,11143,24970.8
+Q1/2012,12-Jan,W1-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,452.1,427.2
+Q1/2012,12-Jan,W1-2012,Cameras,North America,Internet,Branded Stores,5650.7,6834
+Q1/2012,12-Jan,W1-2012,Mobile,North America,Retail,Entertainment Venues,500.5,495.6
+Q1/2012,12-Jan,W1-2012,Office Supplies,North America,Internet,Branded Stores,75829.6,48753.6
+Q1/2012,12-Jan,W1-2012,Repairs,North America,Internet,Retail,13585,13018.8
+Q1/2012,12-Jan,W2-2012,Computers & Tablets,North America,Direct,Entertainment Venues,12940.4,19275.6
+Q1/2012,12-Jan,W2-2012,Computers & Tablets,North America,Direct,Retail,4496.8,13740
+Q1/2012,12-Jan,W2-2012,Computers & Tablets,North America,Internet,Entertainment Venues,5723.3,6756
+Q1/2012,12-Jan,W2-2012,Computers & Tablets,North America,Internet,Branded Stores,16931.2,21068.4
+Q1/2012,12-Jan,W2-2012,Computers & Tablets,North America,Internet,Retail,89052.7,108193.2
+Q1/2012,12-Jan,W2-2012,Computers & Tablets,North America,Retail,Entertainment Venues,1719.3,2112
+Q1/2012,12-Jan,W2-2012,Computers & Tablets,North America,Retail,Retail,2410.1,4999.2
+Q1/2012,12-Jan,W2-2012,TV & Home Theatre,North America,Internet,Internet Direct,2691.7,1143.6
+Q1/2012,12-Jan,W2-2012,TV & Home Theatre,North America,Retail,Retail,17264.5,59760
+Q1/2012,12-Jan,W2-2012,Cameras,North America,Internet,Entertainment Venues,144.1,103.2
+Q1/2012,12-Jan,W2-2012,Cameras,North America,Retail,Internet Direct,21720.6,24880.8
+Q1/2012,12-Jan,W2-2012,Mobile,North America,Direct,Entertainment Venues,1337.6,1514.4
+Q1/2012,12-Jan,W2-2012,Mobile,North America,Retail,Branded Stores,49996.1,97378.8
+Q1/2012,12-Jan,W2-2012,Mobile,North America,Retail,Retail,3477.1,7923.6
+Q1/2012,12-Jan,W2-2012,Office Supplies,North America,Direct,Branded Stores,11721.6,12590.4
+Q1/2012,12-Jan,W2-2012,Office Supplies,North America,Direct,Retail,2594.9,4582.8
+Q1/2012,12-Jan,W2-2012,Office Supplies,North America,Internet,Entertainment Venues,238.7,123.6
+Q1/2012,12-Jan,W2-2012,Office Supplies,North America,Internet,Retail,42922,53460
+Q1/2012,12-Jan,W2-2012,Repairs,North America,Retail,Branded Stores,24846.8,20878.8
+Q1/2012,12-Jan,W2-2012,Portable Electronics,North America,Internet,Retail,569.8,945.6
+Q1/2012,12-Jan,W3-2012,Computers & Tablets,North America,Direct,Entertainment Venues,3467.2,6266.4
+Q1/2012,12-Jan,W3-2012,Computers & Tablets,North America,Direct,Retail,9002.4,24380.4
+Q1/2012,12-Jan,W3-2012,Computers & Tablets,North America,Retail,Branded Stores,25944.6,61599.6
+Q1/2012,12-Jan,W3-2012,TV & Home Theatre,North America,Retail,Entertainment Venues,7206.1,9555.6
+Q1/2012,12-Jan,W3-2012,Cameras,North America,Direct,Entertainment Venues,17611,20305.2
+Q1/2012,12-Jan,W3-2012,Cameras,North America,Internet,Retail,2985.4,5455.2
+Q1/2012,12-Jan,W3-2012,Cameras,North America,Retail,Entertainment Venues,2197.8,3004.8
+Q1/2012,12-Jan,W3-2012,Cameras,North America,Retail,Branded Stores,3622.3,7909.2
+Q1/2012,12-Jan,W3-2012,Cameras,North America,Retail,Internet Direct,38200.8,30018
+Q1/2012,12-Jan,W3-2012,Mobile,North America,Direct,Entertainment Venues,25565.1,17781.6
+Q1/2012,12-Jan,W3-2012,Mobile,North America,Internet,Retail,13610.3,13146
+Q1/2012,12-Jan,W3-2012,Mobile,North America,Retail,Internet Direct,6479,5365.2
+Q1/2012,12-Jan,W3-2012,Office Supplies,North America,Direct,Entertainment Venues,807.4,580.8
+Q1/2012,12-Jan,W3-2012,Office Supplies,North America,Internet,Entertainment Venues,6205.1,2240.4
+Q1/2012,12-Jan,W3-2012,Office Supplies,North America,Retail,Entertainment Venues,3997.4,2528.4
+Q1/2012,12-Jan,W3-2012,Repairs,North America,Internet,Entertainment Venues,5632,2370
+Q1/2012,12-Jan,W3-2012,Portable Electronics,North America,Direct,Retail,259.6,374.4
+Q1/2012,12-Jan,W3-2012,Portable Electronics,North America,Internet,Internet Direct,7239.1,4428
+Q1/2012,12-Jan,W4-2012,Computers & Tablets,North America,Direct,Entertainment Venues,6421.8,10515.6
+Q1/2012,12-Jan,W4-2012,Computers & Tablets,North America,Direct,Branded Stores,8001.4,24033.6
+Q1/2012,12-Jan,W4-2012,Computers & Tablets,North America,Direct,Retail,34953.6,108181.2
+Q1/2012,12-Jan,W4-2012,Computers & Tablets,North America,Internet,Retail,1402.5,2400
+Q1/2012,12-Jan,W4-2012,TV & Home Theatre,North America,Internet,Retail,2484.9,4304.4
+Q1/2012,12-Jan,W4-2012,TV & Home Theatre,North America,Retail,Retail,5080.9,17358
+Q1/2012,12-Jan,W4-2012,Cameras,North America,Direct,Entertainment Venues,28161.1,31863.6
+Q1/2012,12-Jan,W4-2012,Mobile,North America,Direct,Entertainment Venues,2400.2,2187.6
+Q1/2012,12-Jan,W4-2012,Mobile,North America,Direct,Retail,6587.9,8773.2
+Q1/2012,12-Jan,W4-2012,Mobile,North America,Internet,Entertainment Venues,31292.8,20288.4
+Q1/2012,12-Jan,W4-2012,Mobile,North America,Internet,Retail,1785.3,2155.2
+Q1/2012,12-Jan,W4-2012,Mobile,North America,Retail,Retail,2302.3,6147.6
+Q1/2012,12-Jan,W4-2012,Office Supplies,North America,Direct,Entertainment Venues,8445.8,6871.2
+Q1/2012,12-Jan,W4-2012,Office Supplies,North America,Internet,Entertainment Venues,146.3,51.6
+Q1/2012,12-Jan,W4-2012,Office Supplies,North America,Retail,Retail,8836.3,14422.8
+Q1/2012,12-Jan,W4-2012,Repairs,North America,Internet,Entertainment Venues,37162.4,13786.8
+Q1/2012,12-Jan,W4-2012,Portable Electronics,North America,Direct,Entertainment Venues,21948.3,20331.6
+Q1/2012,12-Jan,W4-2012,Portable Electronics,North America,Direct,Internet Direct,30416.1,13470
+Q1/2012,12-Jan,W4-2012,Portable Electronics,North America,Internet,Retail,1406.9,2023.2
+Q1/2012,12-Jan,W4-2012,Portable Electronics,North America,Retail,Branded Stores,32434.6,47706
+Q1/2012,12-Jan,W5-2012,Computers & Tablets,North America,Direct,Entertainment Venues,386.1,496.8
+Q1/2012,12-Jan,W5-2012,Computers & Tablets,North America,Internet,Entertainment Venues,924,748.8
+Q1/2012,12-Jan,W5-2012,Computers & Tablets,North America,Internet,Branded Stores,358.6,468
+Q1/2012,12-Jan,W5-2012,TV & Home Theatre,North America,Internet,Entertainment Venues,12695.1,7278
+Q1/2012,12-Jan,W5-2012,TV & Home Theatre,North America,Retail,Entertainment Venues,275,435.6
+Q1/2012,12-Jan,W5-2012,Cameras,North America,Direct,Retail,14038.2,33126
+Q1/2012,12-Jan,W5-2012,Cameras,North America,Internet,Entertainment Venues,10899.9,7798.8
+Q1/2012,12-Jan,W5-2012,Cameras,North America,Retail,Entertainment Venues,10844.9,19869.6
+Q1/2012,12-Jan,W5-2012,Mobile,North America,Internet,Entertainment Venues,24360.6,20458.8
+Q1/2012,12-Jan,W5-2012,Mobile,North America,Retail,Entertainment Venues,918.5,1377.6
+Q1/2012,12-Jan,W5-2012,Mobile,North America,Retail,Internet Direct,45247.4,27633.6
+Q1/2012,12-Jan,W5-2012,Office Supplies,North America,Direct,Entertainment Venues,2423.3,1904.4
+Q1/2012,12-Jan,W5-2012,Office Supplies,North America,Internet,Retail,396,367.2
+Q1/2012,12-Jan,W5-2012,Office Supplies,North America,Retail,Entertainment Venues,15852.1,14401.2
+Q1/2012,12-Jan,W5-2012,Portable Electronics,North America,Direct,Entertainment Venues,883.3,1092
+Q1/2012,12-Jan,W5-2012,Portable Electronics,North America,Retail,Entertainment Venues,12144,14131.2
+Q1/2012,12-Jan,W5-2012,Portable Electronics,North America,Retail,Internet Direct,49644.1,47259.6
+Q1/2012,12-Jan,W6-2012,TV & Home Theatre,North America,Retail,Retail,320.1,1065.6
+Q1/2012,12-Jan,W6-2012,Mobile,North America,Direct,Entertainment Venues,7273.2,6430.8
+Q1/2012,12-Feb,W6-2012,Computers & Tablets,North America,Direct,Retail,7840.8,22616.4
+Q1/2012,12-Feb,W6-2012,Computers & Tablets,North America,Retail,Entertainment Venues,2787.4,2833.2
+Q1/2012,12-Feb,W6-2012,Computers & Tablets,North America,Retail,Retail,41026.7,90373.2
+Q1/2012,12-Feb,W6-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,5362.5,4645.2
+Q1/2012,12-Feb,W6-2012,TV & Home Theatre,North America,Internet,Branded Stores,18139,15807.6
+Q1/2012,12-Feb,W6-2012,Cameras,North America,Internet,Retail,1639,2504.4
+Q1/2012,12-Feb,W6-2012,Mobile,North America,Direct,Entertainment Venues,1283.7,656.4
+Q1/2012,12-Feb,W6-2012,Mobile,North America,Internet,Entertainment Venues,6728.7,3211.2
+Q1/2012,12-Feb,W6-2012,Mobile,North America,Internet,Retail,1997.6,2504.4
+Q1/2012,12-Feb,W6-2012,Mobile,North America,Retail,Retail,40031.2,65169.6
+Q1/2012,12-Feb,W6-2012,Office Supplies,North America,Internet,Entertainment Venues,7592.2,2864.4
+Q1/2012,12-Feb,W6-2012,Repairs,North America,Internet,Retail,24065.8,13819.2
+Q1/2012,12-Feb,W6-2012,Portable Electronics,North America,Internet,Entertainment Venues,8867.1,3411.6
+Q1/2012,12-Feb,W6-2012,Portable Electronics,North America,Internet,Branded Stores,39609.9,31075.2
+Q1/2012,12-Feb,W6-2012,Portable Electronics,North America,Internet,Retail,6490,5896.8
+Q1/2012,12-Feb,W7-2012,Computers & Tablets,North America,Direct,Entertainment Venues,9596.4,10983.6
+Q1/2012,12-Feb,W7-2012,Computers & Tablets,North America,Direct,Retail,15807,49980
+Q1/2012,12-Feb,W7-2012,Computers & Tablets,North America,Internet,Entertainment Venues,13544.3,7623.6
+Q1/2012,12-Feb,W7-2012,Computers & Tablets,North America,Retail,Entertainment Venues,34639,43783.2
+Q1/2012,12-Feb,W7-2012,Computers & Tablets,North America,Retail,Branded Stores,13360.6,15598.8
+Q1/2012,12-Feb,W7-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,743.6,787.2
+Q1/2012,12-Feb,W7-2012,TV & Home Theatre,North America,Internet,Entertainment Venues,1102.2,746.4
+Q1/2012,12-Feb,W7-2012,Cameras,North America,Internet,Entertainment Venues,12060.4,9080.4
+Q1/2012,12-Feb,W7-2012,Mobile,North America,Retail,Entertainment Venues,4540.8,4476
+Q1/2012,12-Feb,W7-2012,Office Supplies,North America,Direct,Entertainment Venues,2065.8,1119.6
+Q1/2012,12-Feb,W7-2012,Office Supplies,North America,Internet,Retail,11628.1,9039.6
+Q1/2012,12-Feb,W7-2012,Office Supplies,North America,Retail,Entertainment Venues,3989.7,1845.6
+Q1/2012,12-Feb,W7-2012,Office Supplies,North America,Retail,Internet Direct,33639.1,11528.4
+Q1/2012,12-Feb,W7-2012,Portable Electronics,North America,Direct,Entertainment Venues,6231.5,5278.8
+Q1/2012,12-Feb,W7-2012,Portable Electronics,North America,Direct,Retail,876.7,1404
+Q1/2012,12-Feb,W7-2012,Portable Electronics,North America,Direct,Internet Direct,25801.6,13587.6
+Q1/2012,12-Feb,W7-2012,Portable Electronics,North America,Internet,Entertainment Venues,2520.1,2005.2
+Q1/2012,12-Feb,W7-2012,Portable Electronics,North America,Internet,Retail,4099.7,3546
+Q1/2012,12-Feb,W8-2012,Computers & Tablets,North America,Direct,Branded Stores,29631.8,34617.6
+Q1/2012,12-Feb,W8-2012,Computers & Tablets,North America,Internet,Entertainment Venues,30622.9,24031.2
+Q1/2012,12-Feb,W8-2012,Computers & Tablets,North America,Internet,Retail,1101.1,1315.2
+Q1/2012,12-Feb,W8-2012,TV & Home Theatre,North America,Direct,Retail,34138.5,46461.6
+Q1/2012,12-Feb,W8-2012,Cameras,North America,Internet,Branded Stores,562.1,568.8
+Q1/2012,12-Feb,W8-2012,Mobile,North America,Direct,Branded Stores,225.5,303.6
+Q1/2012,12-Feb,W8-2012,Mobile,North America,Direct,Retail,448.8,530.4
+Q1/2012,12-Feb,W8-2012,Mobile,North America,Internet,Entertainment Venues,7429.4,3496.8
+Q1/2012,12-Feb,W8-2012,Mobile,North America,Internet,Branded Stores,16273.4,11409.6
+Q1/2012,12-Feb,W8-2012,Office Supplies,North America,Direct,Entertainment Venues,3306.6,1852.8
+Q1/2012,12-Feb,W8-2012,Office Supplies,North America,Direct,Branded Stores,26833.4,23709.6
+Q1/2012,12-Feb,W8-2012,Office Supplies,North America,Direct,Retail,8254.4,8358
+Q1/2012,12-Feb,W8-2012,Office Supplies,North America,Internet,Entertainment Venues,18973.9,9501.6
+Q1/2012,12-Feb,W8-2012,Office Supplies,North America,Internet,Branded Stores,22383.9,15825.6
+Q1/2012,12-Feb,W8-2012,Repairs,North America,Direct,Entertainment Venues,11036.3,3409.2
+Q1/2012,12-Feb,W8-2012,Portable Electronics,North America,Direct,Entertainment Venues,1420.1,1124.4
+Q1/2012,12-Feb,W8-2012,Portable Electronics,North America,Internet,Entertainment Venues,8687.8,4518
+Q1/2012,12-Feb,W9-2012,Computers & Tablets,North America,Internet,Entertainment Venues,34263.9,24740.4
+Q1/2012,12-Feb,W9-2012,Computers & Tablets,North America,Internet,Internet Direct,18865,7812
+Q1/2012,12-Feb,W9-2012,Computers & Tablets,North America,Retail,Retail,16368,35931.6
+Q1/2012,12-Feb,W9-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,32453.3,25902
+Q1/2012,12-Feb,W9-2012,TV & Home Theatre,North America,Internet,Branded Stores,168565.1,120327.6
+Q1/2012,12-Feb,W9-2012,TV & Home Theatre,North America,Retail,Branded Stores,120657.9,157650
+Q1/2012,12-Feb,W9-2012,TV & Home Theatre,North America,Retail,Retail,13176.9,27172.8
+Q1/2012,12-Feb,W9-2012,Cameras,North America,Direct,Entertainment Venues,690.8,594
+Q1/2012,12-Feb,W9-2012,Cameras,North America,Internet,Entertainment Venues,5580.3,3799.2
+Q1/2012,12-Feb,W9-2012,Cameras,North America,Internet,Retail,39811.2,65264.4
+Q1/2012,12-Feb,W9-2012,Cameras,North America,Retail,Retail,14812.6,23593.2
+Q1/2012,12-Feb,W9-2012,Cameras,North America,Retail,Internet Direct,111127.5,100120.8
+Q1/2012,12-Feb,W9-2012,Mobile,North America,Direct,Entertainment Venues,613.8,415.2
+Q1/2012,12-Feb,W9-2012,Mobile,North America,Direct,Retail,1805.1,2923.2
+Q1/2012,12-Feb,W9-2012,Mobile,North America,Internet,Retail,15888.4,12745.2
+Q1/2012,12-Feb,W9-2012,Mobile,North America,Retail,Entertainment Venues,3163.6,2847.6
+Q1/2012,12-Feb,W9-2012,Mobile,North America,Retail,Retail,8822,19648.8
+Q1/2012,12-Feb,W9-2012,Office Supplies,North America,Direct,Retail,887.7,705.6
+Q1/2012,12-Feb,W9-2012,Office Supplies,North America,Internet,Entertainment Venues,15595.8,7371.6
+Q1/2012,12-Feb,W9-2012,Office Supplies,North America,Internet,Retail,27816.8,21373.2
+Q1/2012,12-Feb,W9-2012,Office Supplies,North America,Retail,Entertainment Venues,743.6,626.4
+Q1/2012,12-Feb,W9-2012,Portable Electronics,North America,Direct,Retail,14153.7,23856
+Q1/2012,12-Feb,W9-2012,Portable Electronics,North America,Direct,Internet Direct,3773,1760.4
+Q1/2012,12-Feb,W9-2012,Portable Electronics,North America,Internet,Retail,4471.5,5845.2
+Q1/2012,12-Feb,W9-2012,Portable Electronics,North America,Retail,Retail,15736.6,30602.4
+Q1/2012,12-Feb,W10-2012,Computers & Tablets,North America,Internet,Entertainment Venues,14415.5,12336
+Q1/2012,12-Feb,W10-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,996.6,676.8
+Q1/2012,12-Feb,W10-2012,Cameras,North America,Internet,Entertainment Venues,760.1,385.2
+Q1/2012,12-Feb,W10-2012,Mobile,North America,Internet,Retail,1293.6,1906.8
+Q1/2012,12-Feb,W10-2012,Mobile,North America,Retail,Entertainment Venues,22706.2,27616.8
+Q1/2012,12-Feb,W10-2012,Repairs,North America,Direct,Retail,3054.7,2150.4
+Q1/2012,12-Feb,W10-2012,Repairs,North America,Internet,Retail,17430.6,7383.6
+Q1/2012,12-Feb,W10-2012,Repairs,North America,Retail,Internet Direct,74116.9,16940.4
+Q1/2012,12-Mar,W10-2012,Computers & Tablets,North America,Retail,Retail,49212.9,117478.8
+Q1/2012,12-Mar,W10-2012,Cameras,North America,Direct,Entertainment Venues,35943.6,31581.6
+Q1/2012,12-Mar,W10-2012,Cameras,North America,Internet,Retail,18212.7,27037.2
+Q1/2012,12-Mar,W10-2012,Office Supplies,North America,Internet,Entertainment Venues,4514.4,1657.2
+Q1/2012,12-Mar,W10-2012,Repairs,North America,Retail,Entertainment Venues,2269.3,1648.8
+Q1/2012,12-Mar,W10-2012,Portable Electronics,North America,Direct,Entertainment Venues,15032.6,14008.8
+Q1/2012,12-Mar,W10-2012,Portable Electronics,North America,Retail,Entertainment Venues,3851.1,5068.8
+Q1/2012,12-Mar,W10-2012,Portable Electronics,North America,Retail,Internet Direct,11052.8,7327.2
+Q1/2012,12-Mar,W11-2012,Computers & Tablets,North America,Direct,Entertainment Venues,27608.9,38536.8
+Q1/2012,12-Mar,W11-2012,Computers & Tablets,North America,Retail,Retail,11249.7,16980
+Q1/2012,12-Mar,W11-2012,TV & Home Theatre,North America,Retail,Internet Direct,75029.9,52959.6
+Q1/2012,12-Mar,W11-2012,Cameras,North America,Direct,Entertainment Venues,24942.5,22425.6
+Q1/2012,12-Mar,W11-2012,Cameras,North America,Direct,Internet Direct,98100.2,48122.4
+Q1/2012,12-Mar,W11-2012,Cameras,North America,Internet,Retail,11067.1,14316
+Q1/2012,12-Mar,W11-2012,Cameras,North America,Retail,Entertainment Venues,2564.1,2766
+Q1/2012,12-Mar,W11-2012,Cameras,North America,Retail,Internet Direct,77218.9,56871.6
+Q1/2012,12-Mar,W11-2012,Mobile,North America,Direct,Entertainment Venues,4890.6,2766
+Q1/2012,12-Mar,W11-2012,Mobile,North America,Direct,Internet Direct,10688.7,6906
+Q1/2012,12-Mar,W11-2012,Mobile,North America,Internet,Branded Stores,26920.3,20424
+Q1/2012,12-Mar,W11-2012,Mobile,North America,Internet,Retail,30643.8,36675.6
+Q1/2012,12-Mar,W11-2012,Office Supplies,North America,Internet,Entertainment Venues,704,182.4
+Q1/2012,12-Mar,W11-2012,Office Supplies,North America,Retail,Internet Direct,37898.3,22420.8
+Q1/2012,12-Mar,W11-2012,Repairs,North America,Retail,Branded Stores,40965.1,31968
+Q1/2012,12-Mar,W11-2012,Portable Electronics,North America,Direct,Entertainment Venues,14877.5,9303.6
+Q1/2012,12-Mar,W11-2012,Portable Electronics,North America,Direct,Retail,2535.5,4425.6
+Q1/2012,12-Mar,W11-2012,Portable Electronics,North America,Internet,Entertainment Venues,5448.3,3292.8
+Q1/2012,12-Mar,W11-2012,Portable Electronics,North America,Internet,Retail,31971.5,31288.8
+Q1/2012,12-Mar,W11-2012,Portable Electronics,North America,Retail,Retail,24497,52732.8
+Q1/2012,12-Mar,W12-2012,Computers & Tablets,North America,Internet,Entertainment Venues,21186,15556.8
+Q1/2012,12-Mar,W12-2012,Computers & Tablets,North America,Internet,Branded Stores,23712.7,19629.6
+Q1/2012,12-Mar,W12-2012,Computers & Tablets,North America,Internet,Retail,52351.2,52789.2
+Q1/2012,12-Mar,W12-2012,Computers & Tablets,North America,Retail,Entertainment Venues,16102.9,19495.2
+Q1/2012,12-Mar,W12-2012,Computers & Tablets,North America,Retail,Branded Stores,803,1360.8
+Q1/2012,12-Mar,W12-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,18487.7,10758
+Q1/2012,12-Mar,W12-2012,TV & Home Theatre,North America,Internet,Branded Stores,65965.9,73494
+Q1/2012,12-Mar,W12-2012,TV & Home Theatre,North America,Retail,Entertainment Venues,29943.1,24055.2
+Q1/2012,12-Mar,W12-2012,Cameras,North America,Direct,Entertainment Venues,6101.7,6382.8
+Q1/2012,12-Mar,W12-2012,Cameras,North America,Direct,Retail,19187.3,43845.6
+Q1/2012,12-Mar,W12-2012,Mobile,North America,Direct,Entertainment Venues,13074.6,10908
+Q1/2012,12-Mar,W12-2012,Mobile,North America,Internet,Entertainment Venues,5229.4,2118
+Q1/2012,12-Mar,W12-2012,Mobile,North America,Retail,Entertainment Venues,6059.9,7002
+Q1/2012,12-Mar,W12-2012,Office Supplies,North America,Direct,Branded Stores,16716.7,9445.2
+Q1/2012,12-Mar,W12-2012,Office Supplies,North America,Direct,Retail,2828.1,1952.4
+Q1/2012,12-Mar,W12-2012,Office Supplies,North America,Internet,Internet Direct,7958.5,1898.4
+Q1/2012,12-Mar,W12-2012,Office Supplies,North America,Retail,Entertainment Venues,45496,30129.6
+Q1/2012,12-Mar,W12-2012,Office Supplies,North America,Retail,Branded Stores,43344.4,37206
+Q1/2012,12-Mar,W12-2012,Repairs,North America,Direct,Entertainment Venues,15048,6618
+Q1/2012,12-Mar,W12-2012,Repairs,North America,Direct,Retail,25620.1,15537.6
+Q1/2012,12-Mar,W12-2012,Repairs,North America,Internet,Retail,8400.7,4735.2
+Q1/2012,12-Mar,W12-2012,Portable Electronics,North America,Direct,Retail,30818.7,42642
+Q1/2012,12-Mar,W12-2012,Portable Electronics,North America,Internet,Internet Direct,81215.2,36142.8
+Q1/2012,12-Mar,W12-2012,Portable Electronics,North America,Retail,Retail,3801.6,7002
+Q1/2012,12-Mar,W13-2012,Computers & Tablets,North America,Direct,Entertainment Venues,2592.7,2984.4
+Q1/2012,12-Mar,W13-2012,TV & Home Theatre,North America,Retail,Entertainment Venues,14562.9,21451.2
+Q1/2012,12-Mar,W13-2012,Cameras,North America,Direct,Entertainment Venues,11567.6,9739.2
+Q1/2012,12-Mar,W13-2012,Cameras,North America,Internet,Internet Direct,26217.4,13984.8
+Q1/2012,12-Mar,W13-2012,Mobile,North America,Internet,Entertainment Venues,7533.9,3458.4
+Q1/2012,12-Mar,W13-2012,Mobile,North America,Internet,Retail,20523.8,23196
+Q1/2012,12-Mar,W13-2012,Office Supplies,North America,Direct,Entertainment Venues,6062.1,2650.8
+Q1/2012,12-Mar,W13-2012,Office Supplies,North America,Direct,Branded Stores,5658.4,3548.4
+Q1/2012,12-Mar,W13-2012,Portable Electronics,North America,Internet,Entertainment Venues,9072.8,7285.2
+Q1/2012,12-Mar,W13-2012,Portable Electronics,North America,Internet,Branded Stores,18330.4,13603.2
+Q1/2012,12-Mar,W13-2012,Portable Electronics,North America,Retail,Retail,5677.1,13935.6
+Q1/2012,12-Mar,W14-2012,Computers & Tablets,North America,Direct,Entertainment Venues,7759.4,10610.4
+Q1/2012,12-Mar,W14-2012,Computers & Tablets,North America,Retail,Entertainment Venues,10987.9,12364.8
+Q1/2012,12-Mar,W14-2012,Computers & Tablets,North America,Retail,Branded Stores,121024.2,196386
+Q1/2012,12-Mar,W14-2012,Computers & Tablets,North America,Retail,Retail,23659.9,53209.2
+Q1/2012,12-Mar,W14-2012,TV & Home Theatre,North America,Retail,Entertainment Venues,46401.3,45312
+Q1/2012,12-Mar,W14-2012,Cameras,North America,Internet,Entertainment Venues,2588.3,1572
+Q1/2012,12-Mar,W14-2012,Cameras,North America,Retail,Entertainment Venues,14184.5,19375.2
+Q1/2012,12-Mar,W14-2012,Mobile,North America,Direct,Branded Stores,8345.7,9501.6
+Q1/2012,12-Mar,W14-2012,Mobile,North America,Direct,Retail,9324.7,13405.2
+Q1/2012,12-Mar,W14-2012,Mobile,North America,Internet,Retail,2154.9,2660.4
+Q1/2012,12-Mar,W14-2012,Office Supplies,North America,Direct,Entertainment Venues,18626.3,12081.6
+Q1/2012,12-Mar,W14-2012,Office Supplies,North America,Internet,Entertainment Venues,2759.9,1195.2
+Q1/2012,12-Mar,W14-2012,Office Supplies,North America,Retail,Retail,11907.5,11320.8
+Q2/2012,12-Apr,W14-2012,Computers & Tablets,North America,Internet,Retail,815.1,844.8
+Q2/2012,12-Apr,W14-2012,TV & Home Theatre,North America,Direct,Retail,6179.8,8156.4
+Q2/2012,12-Apr,W14-2012,Cameras,North America,Retail,Entertainment Venues,28823.3,30627.6
+Q2/2012,12-Apr,W14-2012,Office Supplies,North America,Internet,Internet Direct,37642,11000.4
+Q2/2012,12-Apr,W15-2012,Computers & Tablets,North America,Direct,Entertainment Venues,597.3,673.2
+Q2/2012,12-Apr,W15-2012,Computers & Tablets,North America,Retail,Internet Direct,9500.7,5041.2
+Q2/2012,12-Apr,W15-2012,TV & Home Theatre,North America,Direct,Retail,404.8,632.4
+Q2/2012,12-Apr,W15-2012,TV & Home Theatre,North America,Retail,Entertainment Venues,58155.9,76339.2
+Q2/2012,12-Apr,W15-2012,TV & Home Theatre,North America,Retail,Retail,226486.7,464739.6
+Q2/2012,12-Apr,W15-2012,Cameras,North America,Internet,Entertainment Venues,23305.7,12282
+Q2/2012,12-Apr,W15-2012,Cameras,North America,Retail,Entertainment Venues,253,344.4
+Q2/2012,12-Apr,W15-2012,Mobile,North America,Direct,Entertainment Venues,322.3,240
+Q2/2012,12-Apr,W15-2012,Mobile,North America,Internet,Entertainment Venues,40868.3,22338
+Q2/2012,12-Apr,W15-2012,Mobile,North America,Retail,Retail,8380.9,16147.2
+Q2/2012,12-Apr,W15-2012,Office Supplies,North America,Direct,Retail,23973.4,16484.4
+Q2/2012,12-Apr,W15-2012,Office Supplies,North America,Internet,Retail,2612.5,1683.6
+Q2/2012,12-Apr,W15-2012,Office Supplies,North America,Internet,Internet Direct,14491.4,3942
+Q2/2012,12-Apr,W15-2012,Repairs,North America,Internet,Internet Direct,66529.1,13201.2
+Q2/2012,12-Apr,W15-2012,Repairs,North America,Retail,Retail,20806.5,20314.8
+Q2/2012,12-Apr,W15-2012,Portable Electronics,North America,Direct,Entertainment Venues,27260.2,20745.6
+Q2/2012,12-Apr,W15-2012,Portable Electronics,North America,Direct,Branded Stores,1707.2,1638
+Q2/2012,12-Apr,W15-2012,Portable Electronics,North America,Direct,Retail,20678.9,32648.4
+Q2/2012,12-Apr,W15-2012,Portable Electronics,North America,Retail,Entertainment Venues,22066,17961.6
+Q2/2012,12-Apr,W16-2012,Computers & Tablets,North America,Direct,Entertainment Venues,99,109.2
+Q2/2012,12-Apr,W16-2012,Computers & Tablets,North America,Internet,Retail,58741.1,87705.6
+Q2/2012,12-Apr,W16-2012,Computers & Tablets,North America,Retail,Retail,39295.3,83046
+Q2/2012,12-Apr,W16-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,43470.9,30544.8
+Q2/2012,12-Apr,W16-2012,TV & Home Theatre,North America,Retail,Entertainment Venues,4230.6,5038.8
+Q2/2012,12-Apr,W16-2012,Cameras,North America,Internet,Entertainment Venues,3603.6,2599.2
+Q2/2012,12-Apr,W16-2012,Mobile,North America,Direct,Retail,2742.3,4438.8
+Q2/2012,12-Apr,W16-2012,Mobile,North America,Internet,Entertainment Venues,15337.3,9094.8
+Q2/2012,12-Apr,W16-2012,Mobile,North America,Retail,Entertainment Venues,36383.6,27675.6
+Q2/2012,12-Apr,W16-2012,Office Supplies,North America,Direct,Entertainment Venues,3810.4,1448.4
+Q2/2012,12-Apr,W16-2012,Office Supplies,North America,Direct,Branded Stores,35824.8,20240.4
+Q2/2012,12-Apr,W16-2012,Office Supplies,North America,Internet,Entertainment Venues,5166.7,2444.4
+Q2/2012,12-Apr,W16-2012,Office Supplies,North America,Internet,Retail,3833.5,2514
+Q2/2012,12-Apr,W16-2012,Repairs,North America,Direct,Entertainment Venues,37413.2,12061.2
+Q2/2012,12-Apr,W16-2012,Repairs,North America,Retail,Retail,23425.6,18520.8
+Q2/2012,12-Apr,W16-2012,Portable Electronics,North America,Internet,Entertainment Venues,4738.8,3205.2
+Q2/2012,12-Apr,W16-2012,Portable Electronics,North America,Internet,Branded Stores,45274.9,45915.6
+Q2/2012,12-Apr,W16-2012,Portable Electronics,North America,Retail,Entertainment Venues,15964.3,19113.6
+Q2/2012,12-Apr,W16-2012,Portable Electronics,North America,Retail,Retail,38762.9,64843.2
+Q2/2012,12-Apr,W17-2012,Computers & Tablets,North America,Direct,Retail,39976.2,103406.4
+Q2/2012,12-Apr,W17-2012,Computers & Tablets,North America,Internet,Entertainment Venues,60618.8,43494
+Q2/2012,12-Apr,W17-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,16672.7,9991.2
+Q2/2012,12-Apr,W17-2012,TV & Home Theatre,North America,Direct,Retail,2136.2,3044.4
+Q2/2012,12-Apr,W17-2012,TV & Home Theatre,North America,Internet,Entertainment Venues,20628.3,12486
+Q2/2012,12-Apr,W17-2012,TV & Home Theatre,North America,Retail,Retail,17257.9,27608.4
+Q2/2012,12-Apr,W17-2012,Mobile,North America,Direct,Entertainment Venues,3615.7,2017.2
+Q2/2012,12-Apr,W17-2012,Mobile,North America,Internet,Entertainment Venues,33822.8,16561.2
+Q2/2012,12-Apr,W17-2012,Mobile,North America,Internet,Retail,22972.4,24014.4
+Q2/2012,12-Apr,W17-2012,Mobile,North America,Retail,Entertainment Venues,35429.9,31911.6
+Q2/2012,12-Apr,W17-2012,Office Supplies,North America,Direct,Retail,8362.2,9589.2
+Q2/2012,12-Apr,W17-2012,Office Supplies,North America,Retail,Entertainment Venues,18836.4,16245.6
+Q2/2012,12-Apr,W17-2012,Repairs,North America,Direct,Retail,48704.7,36658.8
+Q2/2012,12-Apr,W17-2012,Portable Electronics,North America,Direct,Entertainment Venues,1729.2,871.2
+Q2/2012,12-Apr,W17-2012,Portable Electronics,North America,Direct,Retail,4277.9,5904
+Q2/2012,12-Apr,W17-2012,Portable Electronics,North America,Retail,Entertainment Venues,14463.9,11880
+Q2/2012,12-Apr,W18-2012,Computers & Tablets,North America,Direct,Entertainment Venues,9328,10806
+Q2/2012,12-Apr,W18-2012,Computers & Tablets,North America,Direct,Retail,3828,8715.6
+Q2/2012,12-Apr,W18-2012,Computers & Tablets,North America,Internet,Entertainment Venues,64698.7,44628
+Q2/2012,12-Apr,W18-2012,Computers & Tablets,North America,Internet,Internet Direct,92318.6,47551.2
+Q2/2012,12-Apr,W18-2012,TV & Home Theatre,North America,Direct,Branded Stores,1170.4,1228.8
+Q2/2012,12-Apr,W18-2012,TV & Home Theatre,North America,Retail,Entertainment Venues,2750,3826.8
+Q2/2012,12-Apr,W18-2012,Cameras,North America,Direct,Branded Stores,2744.5,3991.2
+Q2/2012,12-Apr,W18-2012,Cameras,North America,Internet,Entertainment Venues,6496.6,4272
+Q2/2012,12-Apr,W18-2012,Mobile,North America,Direct,Entertainment Venues,1157.2,1180.8
+Q2/2012,12-Apr,W18-2012,Mobile,North America,Direct,Branded Stores,5580.3,4257.6
+Q2/2012,12-Apr,W18-2012,Mobile,North America,Internet,Entertainment Venues,2164.8,1292.4
+Q2/2012,12-Apr,W18-2012,Mobile,North America,Retail,Entertainment Venues,5614.4,5580
+Q2/2012,12-Apr,W18-2012,Repairs,North America,Direct,Entertainment Venues,33159.5,11260.8
+Q2/2012,12-Apr,W18-2012,Portable Electronics,North America,Direct,Retail,41258.8,41563.2
+Q2/2012,12-Apr,W18-2012,Portable Electronics,North America,Internet,Internet Direct,14880.8,6022.8
+Q2/2012,12-May,W19-2012,Computers & Tablets,North America,Direct,Retail,15222.9,24165.6
+Q2/2012,12-May,W19-2012,Computers & Tablets,North America,Internet,Entertainment Venues,61283.2,39286.8
+Q2/2012,12-May,W19-2012,Computers & Tablets,North America,Retail,Retail,72114.9,116401.2
+Q2/2012,12-May,W19-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,210237.5,151383.6
+Q2/2012,12-May,W19-2012,TV & Home Theatre,North America,Internet,Entertainment Venues,23980,14398.8
+Q2/2012,12-May,W19-2012,Cameras,North America,Internet,Entertainment Venues,2470.6,1150.8
+Q2/2012,12-May,W19-2012,Cameras,North America,Internet,Retail,2208.8,2155.2
+Q2/2012,12-May,W19-2012,Cameras,North America,Retail,Entertainment Venues,2794,3115.2
+Q2/2012,12-May,W19-2012,Office Supplies,North America,Direct,Entertainment Venues,4129.4,1381.2
+Q2/2012,12-May,W19-2012,Office Supplies,North America,Direct,Branded Stores,60280,38156.4
+Q2/2012,12-May,W19-2012,Office Supplies,North America,Retail,Retail,42593.1,49831.2
+Q2/2012,12-May,W19-2012,Portable Electronics,North America,Direct,Entertainment Venues,336.6,316.8
+Q2/2012,12-May,W19-2012,Portable Electronics,North America,Direct,Retail,2393.6,2826
+Q2/2012,12-May,W19-2012,Portable Electronics,North America,Internet,Entertainment Venues,10407.1,5530.8
+Q2/2012,12-May,W19-2012,Portable Electronics,North America,Retail,Entertainment Venues,19094.9,16375.2
+Q2/2012,12-May,W20-2012,Computers & Tablets,North America,Direct,Entertainment Venues,833.8,661.2
+Q2/2012,12-May,W20-2012,Computers & Tablets,North America,Direct,Internet Direct,4824.6,3009.6
+Q2/2012,12-May,W20-2012,Computers & Tablets,North America,Internet,Entertainment Venues,437.8,361.2
+Q2/2012,12-May,W20-2012,Computers & Tablets,North America,Internet,Branded Stores,32912,36865.2
+Q2/2012,12-May,W20-2012,Computers & Tablets,North America,Internet,Internet Direct,10278.4,3152.4
+Q2/2012,12-May,W20-2012,Computers & Tablets,North America,Retail,Entertainment Venues,25490.3,22576.8
+Q2/2012,12-May,W20-2012,Computers & Tablets,North America,Retail,Retail,81116.2,148726.8
+Q2/2012,12-May,W20-2012,TV & Home Theatre,North America,Retail,Retail,891,1908
+Q2/2012,12-May,W20-2012,Cameras,North America,Internet,Branded Stores,17349.2,18314.4
+Q2/2012,12-May,W20-2012,Mobile,North America,Direct,Entertainment Venues,15219.6,8014.8
+Q2/2012,12-May,W20-2012,Mobile,North America,Internet,Entertainment Venues,7560.3,3543.6
+Q2/2012,12-May,W20-2012,Mobile,North America,Internet,Retail,3274.7,3861.6
+Q2/2012,12-May,W20-2012,Mobile,North America,Retail,Retail,2282.5,3925.2
+Q2/2012,12-May,W20-2012,Office Supplies,North America,Direct,Branded Stores,96224.7,69633.6
+Q2/2012,12-May,W20-2012,Office Supplies,North America,Direct,Retail,35489.3,28509.6
+Q2/2012,12-May,W20-2012,Office Supplies,North America,Retail,Internet Direct,26576,8278.8
+Q2/2012,12-May,W20-2012,Repairs,North America,Internet,Entertainment Venues,24269.3,4891.2
+Q2/2012,12-May,W20-2012,Portable Electronics,North America,Direct,Entertainment Venues,3026.1,1274.4
+Q2/2012,12-May,W20-2012,Portable Electronics,North America,Direct,Branded Stores,44272.8,34863.6
+Q2/2012,12-May,W20-2012,Portable Electronics,North America,Direct,Retail,2203.3,3403.2
+Q2/2012,12-May,W20-2012,Portable Electronics,North America,Internet,Entertainment Venues,2633.4,1545.6
+Q2/2012,12-May,W20-2012,Portable Electronics,North America,Internet,Retail,42123.4,47958
+Q2/2012,12-May,W20-2012,Portable Electronics,North America,Internet,Internet Direct,15375.8,5194.8
+Q2/2012,12-May,W20-2012,Portable Electronics,North America,Retail,Entertainment Venues,17592.3,16722
+Q2/2012,12-May,W21-2012,Computers & Tablets,North America,Direct,Entertainment Venues,17147.9,16987.2
+Q2/2012,12-May,W21-2012,Computers & Tablets,North America,Direct,Branded Stores,83286.5,155272.8
+Q2/2012,12-May,W21-2012,Computers & Tablets,North America,Direct,Internet Direct,536.8,326.4
+Q2/2012,12-May,W21-2012,Computers & Tablets,North America,Internet,Entertainment Venues,7045.5,4862.4
+Q2/2012,12-May,W21-2012,Computers & Tablets,North America,Internet,Branded Stores,33480.7,30368.4
+Q2/2012,12-May,W21-2012,Cameras,North America,Internet,Retail,7530.6,9297.6
+Q2/2012,12-May,W21-2012,Cameras,North America,Retail,Entertainment Venues,4530.9,4896
+Q2/2012,12-May,W21-2012,Cameras,North America,Retail,Branded Stores,15438.5,30768
+Q2/2012,12-May,W21-2012,Cameras,North America,Retail,Retail,25488.1,70065.6
+Q2/2012,12-May,W21-2012,Mobile,North America,Internet,Retail,641.3,597.6
+Q2/2012,12-May,W21-2012,Mobile,North America,Retail,Entertainment Venues,3917.1,4176
+Q2/2012,12-May,W21-2012,Mobile,North America,Retail,Retail,2173.6,3553.2
+Q2/2012,12-May,W21-2012,Office Supplies,North America,Internet,Entertainment Venues,19797.8,7927.2
+Q2/2012,12-May,W21-2012,Portable Electronics,North America,Direct,Retail,42815.3,59059.2
+Q2/2012,12-May,W21-2012,Portable Electronics,North America,Internet,Entertainment Venues,10236.6,4989.6
+Q2/2012,12-May,W21-2012,Portable Electronics,North America,Internet,Branded Stores,19316,10147.2
+Q2/2012,12-May,W21-2012,Portable Electronics,North America,Retail,Retail,3952.3,7572
+Q2/2012,12-May,W22-2012,Computers & Tablets,North America,Direct,Entertainment Venues,809.6,870
+Q2/2012,12-May,W22-2012,Computers & Tablets,North America,Direct,Retail,15695.9,40123.2
+Q2/2012,12-May,W22-2012,Computers & Tablets,North America,Retail,Entertainment Venues,1197.9,982.8
+Q2/2012,12-May,W22-2012,Computers & Tablets,North America,Retail,Internet Direct,81252.6,52024.8
+Q2/2012,12-May,W22-2012,TV & Home Theatre,North America,Direct,Retail,1227.6,1915.2
+Q2/2012,12-May,W22-2012,TV & Home Theatre,North America,Internet,Entertainment Venues,1807.3,1010.4
+Q2/2012,12-May,W22-2012,Cameras,North America,Direct,Entertainment Venues,39266.7,36729.6
+Q2/2012,12-May,W22-2012,Cameras,North America,Retail,Retail,17744.1,39042
+Q2/2012,12-May,W22-2012,Mobile,North America,Direct,Entertainment Venues,5019.3,2856
+Q2/2012,12-May,W22-2012,Mobile,North America,Internet,Retail,21822.9,16834.8
+Q2/2012,12-May,W22-2012,Office Supplies,North America,Internet,Entertainment Venues,27009.4,8157.6
+Q2/2012,12-May,W22-2012,Office Supplies,North America,Retail,Retail,31916.5,36938.4
+Q2/2012,12-May,W22-2012,Repairs,North America,Direct,Entertainment Venues,12459.7,4826.4
+Q2/2012,12-May,W22-2012,Repairs,North America,Direct,Retail,22701.8,13845.6
+Q2/2012,12-May,W22-2012,Portable Electronics,North America,Internet,Entertainment Venues,640.2,307.2
+Q2/2012,12-May,W22-2012,Portable Electronics,North America,Internet,Retail,1205.6,1671.6
+Q2/2012,12-May,W22-2012,Portable Electronics,North America,Retail,Branded Stores,59074.4,79156.8
+Q2/2012,12-May,W23-2012,Computers & Tablets,North America,Direct,Entertainment Venues,4341.7,6618
+Q2/2012,12-May,W23-2012,Computers & Tablets,North America,Retail,Branded Stores,56115.4,76282.8
+Q2/2012,12-May,W23-2012,Cameras,North America,Retail,Retail,26251.5,51439.2
+Q2/2012,12-May,W23-2012,Mobile,North America,Direct,Retail,2707.1,3664.8
+Q2/2012,12-May,W23-2012,Mobile,North America,Internet,Retail,1746.8,1185.6
+Q2/2012,12-May,W23-2012,Mobile,North America,Retail,Entertainment Venues,578.6,637.2
+Q2/2012,12-May,W23-2012,Portable Electronics,North America,Direct,Entertainment Venues,3166.9,1837.2
+Q2/2012,12-May,W23-2012,Portable Electronics,North America,Internet,Entertainment Venues,21466.5,9189.6
+Q2/2012,12-May,W23-2012,Portable Electronics,North America,Retail,Branded Stores,2481.6,3912
+Q2/2012,12-Jun,W23-2012,Computers & Tablets,North America,Direct,Retail,15829,27194.4
+Q2/2012,12-Jun,W23-2012,Computers & Tablets,North America,Internet,Entertainment Venues,12351.9,9344.4
+Q2/2012,12-Jun,W23-2012,TV & Home Theatre,North America,Internet,Retail,8030,7147.2
+Q2/2012,12-Jun,W23-2012,TV & Home Theatre,North America,Retail,Entertainment Venues,647.9,796.8
+Q2/2012,12-Jun,W23-2012,Office Supplies,North America,Retail,Retail,4254.8,6302.4
+Q2/2012,12-Jun,W23-2012,Repairs,North America,Internet,Retail,27700.2,12988.8
+Q2/2012,12-Jun,W23-2012,Portable Electronics,North America,Internet,Entertainment Venues,3582.7,1648.8
+Q2/2012,12-Jun,W24-2012,Computers & Tablets,North America,Direct,Entertainment Venues,959.2,895.2
+Q2/2012,12-Jun,W24-2012,Computers & Tablets,North America,Internet,Entertainment Venues,62487.7,39258
+Q2/2012,12-Jun,W24-2012,Computers & Tablets,North America,Retail,Entertainment Venues,18858.4,12542.4
+Q2/2012,12-Jun,W24-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,13360.6,11703.6
+Q2/2012,12-Jun,W24-2012,TV & Home Theatre,North America,Retail,Entertainment Venues,3198.8,2865.6
+Q2/2012,12-Jun,W24-2012,Cameras,North America,Direct,Branded Stores,5097.4,4119.6
+Q2/2012,12-Jun,W24-2012,Cameras,North America,Direct,Retail,25803.8,30196.8
+Q2/2012,12-Jun,W24-2012,Cameras,North America,Internet,Entertainment Venues,62949.7,36022.8
+Q2/2012,12-Jun,W24-2012,Mobile,North America,Direct,Retail,10489.6,13798.8
+Q2/2012,12-Jun,W24-2012,Mobile,North America,Internet,Entertainment Venues,1054.9,558
+Q2/2012,12-Jun,W24-2012,Mobile,North America,Retail,Entertainment Venues,592.9,639.6
+Q2/2012,12-Jun,W24-2012,Mobile,North America,Retail,Retail,70258.1,121171.2
+Q2/2012,12-Jun,W24-2012,Office Supplies,North America,Internet,Entertainment Venues,21107.9,10186.8
+Q2/2012,12-Jun,W24-2012,Office Supplies,North America,Retail,Entertainment Venues,7883.7,3877.2
+Q2/2012,12-Jun,W24-2012,Repairs,North America,Direct,Entertainment Venues,16658.4,6633.6
+Q2/2012,12-Jun,W24-2012,Portable Electronics,North America,Internet,Entertainment Venues,17683.6,8886
+Q2/2012,12-Jun,W25-2012,Computers & Tablets,North America,Direct,Entertainment Venues,26068.9,30168
+Q2/2012,12-Jun,W25-2012,Computers & Tablets,North America,Internet,Entertainment Venues,122900.8,89170.8
+Q2/2012,12-Jun,W25-2012,Computers & Tablets,North America,Retail,Retail,74619.6,166096.8
+Q2/2012,12-Jun,W25-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,216267.7,135016.8
+Q2/2012,12-Jun,W25-2012,TV & Home Theatre,North America,Internet,Entertainment Venues,32103.5,19388.4
+Q2/2012,12-Jun,W25-2012,Cameras,North America,Direct,Entertainment Venues,1578.5,1239.6
+Q2/2012,12-Jun,W25-2012,Cameras,North America,Internet,Entertainment Venues,11377.3,7010.4
+Q2/2012,12-Jun,W25-2012,Mobile,North America,Direct,Entertainment Venues,1293.6,951.6
+Q2/2012,12-Jun,W25-2012,Mobile,North America,Direct,Retail,14290.1,15361.2
+Q2/2012,12-Jun,W25-2012,Mobile,North America,Internet,Retail,55788.7,63134.4
+Q2/2012,12-Jun,W25-2012,Office Supplies,North America,Retail,Retail,34758.9,40040.4
+Q2/2012,12-Jun,W25-2012,Repairs,North America,Direct,Retail,80987.5,39909.6
+Q2/2012,12-Jun,W25-2012,Portable Electronics,North America,Direct,Entertainment Venues,32018.8,17685.6
+Q2/2012,12-Jun,W25-2012,Portable Electronics,North America,Retail,Entertainment Venues,5404.3,5181.6
+Q2/2012,12-Jun,W25-2012,Portable Electronics,North America,Retail,Retail,10716.2,19776
+Q2/2012,12-Jun,W26-2012,Computers & Tablets,North America,Internet,Entertainment Venues,73881.5,60322.8
+Q2/2012,12-Jun,W26-2012,Computers & Tablets,North America,Internet,Retail,16408.7,20176.8
+Q2/2012,12-Jun,W26-2012,Computers & Tablets,North America,Internet,Internet Direct,125473.7,50066.4
+Q2/2012,12-Jun,W26-2012,Computers & Tablets,North America,Retail,Retail,133491.6,225690
+Q2/2012,12-Jun,W26-2012,TV & Home Theatre,North America,Direct,Retail,12188,15270
+Q2/2012,12-Jun,W26-2012,TV & Home Theatre,North America,Direct,Internet Direct,2493.7,849.6
+Q2/2012,12-Jun,W26-2012,TV & Home Theatre,North America,Internet,Retail,68013,75666
+Q2/2012,12-Jun,W26-2012,Cameras,North America,Direct,Entertainment Venues,15050.2,11926.8
+Q2/2012,12-Jun,W26-2012,Cameras,North America,Internet,Branded Stores,2329.8,1680
+Q2/2012,12-Jun,W26-2012,Cameras,North America,Internet,Retail,2858.9,4072.8
+Q2/2012,12-Jun,W26-2012,Cameras,North America,Retail,Branded Stores,8616.3,11902.8
+Q2/2012,12-Jun,W26-2012,Mobile,North America,Internet,Entertainment Venues,18440.4,8883.6
+Q2/2012,12-Jun,W26-2012,Mobile,North America,Retail,Entertainment Venues,2363.9,1694.4
+Q2/2012,12-Jun,W26-2012,Office Supplies,North America,Direct,Entertainment Venues,23170.4,8304
+Q2/2012,12-Jun,W26-2012,Repairs,North America,Direct,Entertainment Venues,16718.9,5995.2
+Q2/2012,12-Jun,W26-2012,Repairs,North America,Internet,Entertainment Venues,37165.7,11551.2
+Q2/2012,12-Jun,W26-2012,Portable Electronics,North America,Internet,Entertainment Venues,540.1,279.6
+Q2/2012,12-Jun,W26-2012,Portable Electronics,North America,Internet,Retail,6606.6,6183.6
+Q2/2012,12-Jun,W26-2012,Portable Electronics,North America,Retail,Retail,2751.1,4671.6
+Q2/2012,12-Jun,W27-2012,Computers & Tablets,North America,Direct,Entertainment Venues,31696.5,40792.8
+Q2/2012,12-Jun,W27-2012,Computers & Tablets,North America,Direct,Branded Stores,682,955.2
+Q2/2012,12-Jun,W27-2012,Computers & Tablets,North America,Retail,Retail,40068.6,62498.4
+Q2/2012,12-Jun,W27-2012,TV & Home Theatre,North America,Retail,Retail,3661.9,7731.6
+Q2/2012,12-Jun,W27-2012,Cameras,North America,Direct,Entertainment Venues,1298,1202.4
+Q2/2012,12-Jun,W27-2012,Mobile,North America,Internet,Branded Stores,8089.4,3698.4
+Q2/2012,12-Jun,W27-2012,Office Supplies,North America,Internet,Entertainment Venues,1853.5,760.8
+Q2/2012,12-Jun,W27-2012,Office Supplies,North America,Internet,Retail,9516.1,6789.6
+Q2/2012,12-Jun,W27-2012,Office Supplies,North America,Retail,Retail,911.9,1303.2
+Q2/2012,12-Jun,W27-2012,Repairs,North America,Retail,Retail,48760.8,50670
+Q2/2012,12-Jun,W27-2012,Portable Electronics,North America,Direct,Entertainment Venues,9755.9,5810.4
+Q3/2012,12-Jul,W27-2012,Computers & Tablets,North America,Direct,Retail,73788.6,165985
+Q3/2012,12-Jul,W27-2012,Computers & Tablets,North America,Internet,Entertainment Venues,1147.7,617.5
+Q3/2012,12-Jul,W27-2012,Portable Electronics,North America,Direct,Retail,17597.3,21023.75
+Q3/2012,12-Jul,W28-2012,Computers & Tablets,North America,Direct,Entertainment Venues,10819.2,11897.5
+Q3/2012,12-Jul,W28-2012,Computers & Tablets,North America,Direct,Branded Stores,23064.4,26535
+Q3/2012,12-Jul,W28-2012,Computers & Tablets,North America,Retail,Entertainment Venues,3520.15,2465
+Q3/2012,12-Jul,W28-2012,Computers & Tablets,North America,Retail,Retail,72625.95,118067.5
+Q3/2012,12-Jul,W28-2012,Computers & Tablets,North America,Retail,Internet Direct,177218.45,93896.25
+Q3/2012,12-Jul,W28-2012,TV & Home Theatre,North America,Direct,Branded Stores,9942.9,8797.5
+Q3/2012,12-Jul,W28-2012,TV & Home Theatre,North America,Internet,Entertainment Venues,36576.9,14866.25
+Q3/2012,12-Jul,W28-2012,Cameras,North America,Internet,Entertainment Venues,1644.5,805
+Q3/2012,12-Jul,W28-2012,Mobile,North America,Direct,Branded Stores,80263.1,62061.25
+Q3/2012,12-Jul,W28-2012,Mobile,North America,Direct,Retail,5966.2,5531.25
+Q3/2012,12-Jul,W28-2012,Mobile,North America,Internet,Entertainment Venues,18764.55,9832.5
+Q3/2012,12-Jul,W28-2012,Office Supplies,North America,Internet,Entertainment Venues,5714.35,2008.75
+Q3/2012,12-Jul,W28-2012,Office Supplies,North America,Retail,Entertainment Venues,637.1,360
+Q3/2012,12-Jul,W28-2012,Office Supplies,North America,Retail,Retail,1229.35,1567.5
+Q3/2012,12-Jul,W28-2012,Portable Electronics,North America,Direct,Entertainment Venues,40972.2,31218.75
+Q3/2012,12-Jul,W28-2012,Portable Electronics,North America,Direct,Retail,4558.6,6300
+Q3/2012,12-Jul,W28-2012,Portable Electronics,North America,Internet,Entertainment Venues,15945.9,6473.75
+Q3/2012,12-Jul,W29-2012,Computers & Tablets,North America,Direct,Entertainment Venues,32553.05,37885
+Q3/2012,12-Jul,W29-2012,Computers & Tablets,North America,Internet,Entertainment Venues,2531.15,1885
+Q3/2012,12-Jul,W29-2012,Computers & Tablets,North America,Retail,Retail,63926.2,133488.75
+Q3/2012,12-Jul,W29-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,27437.85,19337.5
+Q3/2012,12-Jul,W29-2012,TV & Home Theatre,North America,Internet,Entertainment Venues,109238.5,72026.25
+Q3/2012,12-Jul,W29-2012,Cameras,North America,Internet,Entertainment Venues,102544.35,61573.75
+Q3/2012,12-Jul,W29-2012,Cameras,North America,Retail,Branded Stores,31542.2,55873.75
+Q3/2012,12-Jul,W29-2012,Mobile,North America,Internet,Entertainment Venues,565.8,260
+Q3/2012,12-Jul,W29-2012,Mobile,North America,Retail,Entertainment Venues,11390.75,10765
+Q3/2012,12-Jul,W29-2012,Mobile,North America,Retail,Internet Direct,41815.15,29102.5
+Q3/2012,12-Jul,W29-2012,Office Supplies,North America,Direct,Retail,1815.85,1903.75
+Q3/2012,12-Jul,W29-2012,Office Supplies,North America,Internet,Entertainment Venues,5937.45,1380
+Q3/2012,12-Jul,W29-2012,Office Supplies,North America,Retail,Entertainment Venues,29247.95,20951.25
+Q3/2012,12-Jul,W29-2012,Repairs,North America,Direct,Entertainment Venues,12867.35,3983.75
+Q3/2012,12-Jul,W29-2012,Repairs,North America,Internet,Entertainment Venues,7409.45,2497.5
+Q3/2012,12-Jul,W29-2012,Portable Electronics,North America,Direct,Retail,88414.3,103116.25
+Q3/2012,12-Jul,W29-2012,Portable Electronics,North America,Retail,Entertainment Venues,11443.65,12881.25
+Q3/2012,12-Jul,W30-2012,Computers & Tablets,North America,Direct,Entertainment Venues,39733.65,35902.5
+Q3/2012,12-Jul,W30-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,96984.1,68543.75
+Q3/2012,12-Jul,W30-2012,Cameras,North America,Direct,Entertainment Venues,3592.6,3892.5
+Q3/2012,12-Jul,W30-2012,Cameras,North America,Internet,Branded Stores,1431.75,1155
+Q3/2012,12-Jul,W30-2012,Cameras,North America,Internet,Retail,42422.35,54610
+Q3/2012,12-Jul,W30-2012,Cameras,North America,Retail,Entertainment Venues,5661.45,6397.5
+Q3/2012,12-Jul,W30-2012,Mobile,North America,Direct,Entertainment Venues,7902.8,4863.75
+Q3/2012,12-Jul,W30-2012,Mobile,North America,Direct,Internet Direct,12842.05,4746.25
+Q3/2012,12-Jul,W30-2012,Mobile,North America,Retail,Entertainment Venues,4427.5,3212.5
+Q3/2012,12-Jul,W30-2012,Office Supplies,North America,Direct,Internet Direct,57044.6,14930
+Q3/2012,12-Jul,W30-2012,Office Supplies,North America,Retail,Retail,2811.75,3200
+Q3/2012,12-Jul,W30-2012,Portable Electronics,North America,Direct,Entertainment Venues,12944.4,10030
+Q3/2012,12-Jul,W30-2012,Portable Electronics,North America,Direct,Retail,847.55,1377.5
+Q3/2012,12-Jul,W30-2012,Portable Electronics,North America,Internet,Entertainment Venues,6615.95,2877.5
+Q3/2012,12-Jul,W30-2012,Portable Electronics,North America,Internet,Retail,64768,76615
+Q3/2012,12-Jul,W30-2012,Portable Electronics,North America,Retail,Entertainment Venues,47429.45,56258.75
+Q3/2012,12-Jul,W30-2012,Portable Electronics,North America,Retail,Retail,36176.7,55053.75
+Q3/2012,12-Jul,W31-2012,Computers & Tablets,North America,Internet,Entertainment Venues,38495.1,26886.25
+Q3/2012,12-Jul,W31-2012,Computers & Tablets,North America,Internet,Retail,159685.55,181107.5
+Q3/2012,12-Jul,W31-2012,Computers & Tablets,North America,Retail,Retail,29679.2,53606.25
+Q3/2012,12-Jul,W31-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,35974.3,18372.5
+Q3/2012,12-Jul,W31-2012,Cameras,North America,Direct,Entertainment Venues,8566.35,5290
+Q3/2012,12-Jul,W31-2012,Cameras,North America,Internet,Entertainment Venues,48150.5,25020
+Q3/2012,12-Jul,W31-2012,Cameras,North America,Retail,Entertainment Venues,7228.9,9321.25
+Q3/2012,12-Jul,W31-2012,Mobile,North America,Direct,Entertainment Venues,14718.85,9426.25
+Q3/2012,12-Jul,W31-2012,Mobile,North America,Internet,Entertainment Venues,43098.55,24307.5
+Q3/2012,12-Jul,W31-2012,Mobile,North America,Retail,Entertainment Venues,11192.95,8626.25
+Q3/2012,12-Jul,W31-2012,Office Supplies,North America,Direct,Entertainment Venues,11667.9,4777.5
+Q3/2012,12-Jul,W31-2012,Office Supplies,North America,Internet,Entertainment Venues,1662.9,512.5
+Q3/2012,12-Jul,W31-2012,Office Supplies,North America,Internet,Retail,2527.7,1687.5
+Q3/2012,12-Jul,W31-2012,Office Supplies,North America,Retail,Entertainment Venues,1079.85,616.25
+Q3/2012,12-Jul,W31-2012,Office Supplies,North America,Retail,Retail,741.75,803.75
+Q3/2012,12-Jul,W31-2012,Repairs,North America,Internet,Entertainment Venues,2906.05,615
+Q3/2012,12-Jul,W31-2012,Repairs,North America,Retail,Internet Direct,5416.5,1591.25
+Q3/2012,12-Jul,W31-2012,Portable Electronics,North America,Direct,Retail,3926.1,5712.5
+Q3/2012,12-Jul,W31-2012,Portable Electronics,North America,Retail,Retail,27098.6,47830
+Q3/2012,12-Jul,W32-2012,Computers & Tablets,North America,Internet,Entertainment Venues,19340.7,13123.75
+Q3/2012,12-Jul,W32-2012,Portable Electronics,North America,Direct,Entertainment Venues,24733.05,15417.5
+Q3/2012,12-Jul,W32-2012,Portable Electronics,North America,Internet,Retail,30770.55,23346.25
+Q3/2012,12-Aug,W32-2012,Computers & Tablets,North America,Internet,Entertainment Venues,3775.45,2022.5
+Q3/2012,12-Aug,W32-2012,Computers & Tablets,North America,Retail,Entertainment Venues,463.45,365
+Q3/2012,12-Aug,W32-2012,TV & Home Theatre,North America,Retail,Branded Stores,89817.3,85033.75
+Q3/2012,12-Aug,W32-2012,Cameras,North America,Direct,Entertainment Venues,1488.1,848.75
+Q3/2012,12-Aug,W32-2012,Mobile,North America,Internet,Entertainment Venues,51290,23171.25
+Q3/2012,12-Aug,W32-2012,Office Supplies,North America,Direct,Entertainment Venues,39364.5,18102.5
+Q3/2012,12-Aug,W32-2012,Office Supplies,North America,Direct,Retail,12976.6,8881.25
+Q3/2012,12-Aug,W32-2012,Office Supplies,North America,Internet,Entertainment Venues,17313.25,4500
+Q3/2012,12-Aug,W32-2012,Office Supplies,North America,Internet,Retail,1574.35,1170
+Q3/2012,12-Aug,W32-2012,Repairs,North America,Direct,Branded Stores,105755.15,38306.25
+Q3/2012,12-Aug,W32-2012,Portable Electronics,North America,Direct,Entertainment Venues,3102.7,2143.75
+Q3/2012,12-Aug,W32-2012,Portable Electronics,North America,Internet,Retail,29208.85,30622.5
+Q3/2012,12-Aug,W33-2012,Computers & Tablets,North America,Direct,Entertainment Venues,16129.9,21265
+Q3/2012,12-Aug,W33-2012,Computers & Tablets,North America,Direct,Branded Stores,66605.7,75760
+Q3/2012,12-Aug,W33-2012,TV & Home Theatre,North America,Direct,Retail,9862.4,11933.75
+Q3/2012,12-Aug,W33-2012,Cameras,North America,Internet,Entertainment Venues,20812.7,10753.75
+Q3/2012,12-Aug,W33-2012,Cameras,North America,Retail,Entertainment Venues,2705.95,2017.5
+Q3/2012,12-Aug,W33-2012,Mobile,North America,Direct,Retail,6893.1,6107.5
+Q3/2012,12-Aug,W33-2012,Mobile,North America,Internet,Entertainment Venues,1913.6,725
+Q3/2012,12-Aug,W33-2012,Office Supplies,North America,Internet,Retail,2504.7,2095
+Q3/2012,12-Aug,W33-2012,Office Supplies,North America,Retail,Entertainment Venues,978.65,527.5
+Q3/2012,12-Aug,W33-2012,Repairs,North America,Direct,Entertainment Venues,15324.9,5321.25
+Q3/2012,12-Aug,W33-2012,Portable Electronics,North America,Direct,Branded Stores,67427.95,57087.5
+Q3/2012,12-Aug,W33-2012,Portable Electronics,North America,Retail,Retail,12456.8,19516.25
+Q3/2012,12-Aug,W34-2012,Computers & Tablets,North America,Direct,Entertainment Venues,45178.9,43808.75
+Q3/2012,12-Aug,W34-2012,Computers & Tablets,North America,Internet,Entertainment Venues,5936.3,3413.75
+Q3/2012,12-Aug,W34-2012,Computers & Tablets,North America,Internet,Branded Stores,87489.7,87172.5
+Q3/2012,12-Aug,W34-2012,Computers & Tablets,North America,Retail,Internet Direct,135576.95,77140
+Q3/2012,12-Aug,W34-2012,TV & Home Theatre,North America,Retail,Entertainment Venues,1946.95,2247.5
+Q3/2012,12-Aug,W34-2012,Cameras,North America,Direct,Entertainment Venues,63838.8,50867.5
+Q3/2012,12-Aug,W34-2012,Cameras,North America,Internet,Entertainment Venues,29200.8,16433.75
+Q3/2012,12-Aug,W34-2012,Mobile,North America,Retail,Entertainment Venues,3778.9,2477.5
+Q3/2012,12-Aug,W34-2012,Office Supplies,North America,Direct,Entertainment Venues,675.05,362.5
+Q3/2012,12-Aug,W34-2012,Office Supplies,North America,Direct,Retail,1392.65,998.75
+Q3/2012,12-Aug,W34-2012,Office Supplies,North America,Retail,Entertainment Venues,43834.55,18538.75
+Q3/2012,12-Aug,W34-2012,Office Supplies,North America,Retail,Retail,7871.75,6830
+Q3/2012,12-Aug,W34-2012,Portable Electronics,North America,Direct,Entertainment Venues,37010.45,24343.75
+Q3/2012,12-Aug,W34-2012,Portable Electronics,North America,Internet,Entertainment Venues,8955.05,4131.25
+Q3/2012,12-Aug,W34-2012,Portable Electronics,North America,Internet,Branded Stores,33041.8,19785
+Q3/2012,12-Aug,W34-2012,Portable Electronics,North America,Retail,Internet Direct,47438.65,28736.25
+Q3/2012,12-Aug,W35-2012,Computers & Tablets,North America,Direct,Entertainment Venues,37639.5,44293.75
+Q3/2012,12-Aug,W35-2012,Computers & Tablets,North America,Direct,Branded Stores,50266.5,88197.5
+Q3/2012,12-Aug,W35-2012,Computers & Tablets,North America,Internet,Entertainment Venues,1151.15,876.25
+Q3/2012,12-Aug,W35-2012,Computers & Tablets,North America,Internet,Branded Stores,63733,66162.5
+Q3/2012,12-Aug,W35-2012,Computers & Tablets,North America,Internet,Internet Direct,193070.05,78210
+Q3/2012,12-Aug,W35-2012,Cameras,North America,Direct,Entertainment Venues,51615.45,27418.75
+Q3/2012,12-Aug,W35-2012,Cameras,North America,Internet,Entertainment Venues,32019.45,20982.5
+Q3/2012,12-Aug,W35-2012,Cameras,North America,Internet,Branded Stores,154474.9,106021.25
+Q3/2012,12-Aug,W35-2012,Cameras,North America,Internet,Retail,27144.6,33568.75
+Q3/2012,12-Aug,W35-2012,Cameras,North America,Retail,Entertainment Venues,94378.2,85831.25
+Q3/2012,12-Aug,W35-2012,Mobile,North America,Internet,Entertainment Venues,3820.3,1400
+Q3/2012,12-Aug,W35-2012,Mobile,North America,Retail,Entertainment Venues,27329.75,21925
+Q3/2012,12-Aug,W35-2012,Office Supplies,North America,Direct,Retail,6483.7,5005
+Q3/2012,12-Aug,W35-2012,Office Supplies,North America,Internet,Entertainment Venues,50566.65,20167.5
+Q3/2012,12-Aug,W35-2012,Repairs,North America,Retail,Entertainment Venues,22780.35,8005
+Q3/2012,12-Aug,W35-2012,Portable Electronics,North America,Direct,Entertainment Venues,17492.65,9205
+Q3/2012,12-Aug,W35-2012,Portable Electronics,North America,Direct,Retail,24573.2,29525
+Q3/2012,12-Aug,W35-2012,Portable Electronics,North America,Retail,Entertainment Venues,21138.15,17927.5
+Q3/2012,12-Aug,W36-2012,Computers & Tablets,North America,Direct,Entertainment Venues,3542,4156.25
+Q3/2012,12-Aug,W36-2012,Computers & Tablets,North America,Direct,Internet Direct,74449.85,51512.5
+Q3/2012,12-Aug,W36-2012,Computers & Tablets,North America,Internet,Retail,57433.3,74970
+Q3/2012,12-Aug,W36-2012,Computers & Tablets,North America,Retail,Retail,184221.95,302651.25
+Q3/2012,12-Aug,W36-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,2310.35,1722.5
+Q3/2012,12-Aug,W36-2012,TV & Home Theatre,North America,Internet,Retail,3059,3380
+Q3/2012,12-Aug,W36-2012,Cameras,North America,Direct,Entertainment Venues,3571.9,2255
+Q3/2012,12-Aug,W36-2012,Cameras,North America,Retail,Retail,116082.15,182308.75
+Q3/2012,12-Aug,W36-2012,Mobile,North America,Direct,Branded Stores,12375.15,10381.25
+Q3/2012,12-Aug,W36-2012,Office Supplies,North America,Internet,Retail,27158.4,16296.25
+Q3/2012,12-Aug,W36-2012,Portable Electronics,North America,Direct,Entertainment Venues,47445.55,30423.75
+Q3/2012,12-Sep,W36-2012,Computers & Tablets,North America,Direct,Entertainment Venues,6605.6,6691.25
+Q3/2012,12-Sep,W36-2012,TV & Home Theatre,North America,Retail,Entertainment Venues,89096.25,77248.75
+Q3/2012,12-Sep,W36-2012,Cameras,North America,Internet,Entertainment Venues,6834.45,4563.75
+Q3/2012,12-Sep,W36-2012,Mobile,North America,Retail,Retail,17034.95,33673.75
+Q3/2012,12-Sep,W36-2012,Office Supplies,North America,Direct,Entertainment Venues,241.5,82.5
+Q3/2012,12-Sep,W36-2012,Portable Electronics,North America,Internet,Entertainment Venues,7034.55,3103.75
+Q3/2012,12-Sep,W36-2012,Portable Electronics,North America,Retail,Retail,70948.1,136101.25
+Q3/2012,12-Sep,W37-2012,Computers & Tablets,North America,Direct,Retail,69864.8,130308.75
+Q3/2012,12-Sep,W37-2012,Computers & Tablets,North America,Internet,Branded Stores,33826.1,20740
+Q3/2012,12-Sep,W37-2012,TV & Home Theatre,North America,Internet,Retail,178553.6,172578.75
+Q3/2012,12-Sep,W37-2012,TV & Home Theatre,North America,Retail,Retail,55298.9,107370
+Q3/2012,12-Sep,W37-2012,Cameras,North America,Direct,Retail,2114.85,2248.75
+Q3/2012,12-Sep,W37-2012,Cameras,North America,Internet,Retail,14039.2,19311.25
+Q3/2012,12-Sep,W37-2012,Mobile,North America,Direct,Entertainment Venues,10009.6,7010
+Q3/2012,12-Sep,W37-2012,Mobile,North America,Direct,Retail,3763.95,4460
+Q3/2012,12-Sep,W37-2012,Mobile,North America,Internet,Retail,4612.65,3516.25
+Q3/2012,12-Sep,W37-2012,Office Supplies,North America,Direct,Entertainment Venues,3705.3,1262.5
+Q3/2012,12-Sep,W37-2012,Office Supplies,North America,Retail,Retail,58264.75,64550
+Q3/2012,12-Sep,W37-2012,Repairs,North America,Retail,Entertainment Venues,23037.95,13723.75
+Q3/2012,12-Sep,W37-2012,Portable Electronics,North America,Direct,Retail,7100.1,5536.25
+Q3/2012,12-Sep,W37-2012,Portable Electronics,North America,Direct,Internet Direct,35717.85,12517.5
+Q3/2012,12-Sep,W37-2012,Portable Electronics,North America,Internet,Entertainment Venues,30362.3,17128.75
+Q3/2012,12-Sep,W37-2012,Portable Electronics,North America,Retail,Entertainment Venues,9982,5322.5
+Q3/2012,12-Sep,W38-2012,Computers & Tablets,North America,Direct,Retail,47457.05,97482.5
+Q3/2012,12-Sep,W38-2012,Computers & Tablets,North America,Retail,Retail,12177.35,22045
+Q3/2012,12-Sep,W38-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,64572.5,37248.75
+Q3/2012,12-Sep,W38-2012,TV & Home Theatre,North America,Retail,Entertainment Venues,15805.6,18578.75
+Q3/2012,12-Sep,W38-2012,Cameras,North America,Direct,Entertainment Venues,389.85,291.25
+Q3/2012,12-Sep,W38-2012,Cameras,North America,Direct,Retail,57302.2,74591.25
+Q3/2012,12-Sep,W38-2012,Cameras,North America,Retail,Retail,1162.65,2778.75
+Q3/2012,12-Sep,W38-2012,Mobile,North America,Direct,Branded Stores,39165.55,34562.5
+Q3/2012,12-Sep,W38-2012,Mobile,North America,Direct,Retail,4420.6,6181.25
+Q3/2012,12-Sep,W38-2012,Mobile,North America,Internet,Entertainment Venues,1635.3,872.5
+Q3/2012,12-Sep,W38-2012,Mobile,North America,Retail,Entertainment Venues,12122.15,13761.25
+Q3/2012,12-Sep,W38-2012,Office Supplies,North America,Direct,Entertainment Venues,673.9,218.75
+Q3/2012,12-Sep,W38-2012,Office Supplies,North America,Internet,Entertainment Venues,3046.35,1135
+Q3/2012,12-Sep,W38-2012,Office Supplies,North America,Internet,Branded Stores,5939.75,2203.75
+Q3/2012,12-Sep,W38-2012,Office Supplies,North America,Internet,Retail,78530.05,54586.25
+Q3/2012,12-Sep,W38-2012,Repairs,North America,Direct,Retail,26911.15,18800
+Q3/2012,12-Sep,W38-2012,Repairs,North America,Internet,Entertainment Venues,8462.85,2013.75
+Q3/2012,12-Sep,W38-2012,Portable Electronics,North America,Direct,Retail,78431.15,86247.5
+Q3/2012,12-Sep,W38-2012,Portable Electronics,North America,Internet,Entertainment Venues,20343.5,7740
+Q3/2012,12-Sep,W38-2012,Portable Electronics,North America,Internet,Internet Direct,104714.4,25222.5
+Q3/2012,12-Sep,W38-2012,Portable Electronics,North America,Retail,Entertainment Venues,38571,28203.75
+Q3/2012,12-Sep,W39-2012,Computers & Tablets,North America,Direct,Entertainment Venues,614.1,938.75
+Q3/2012,12-Sep,W39-2012,Computers & Tablets,North America,Direct,Internet Direct,15858.5,8960
+Q3/2012,12-Sep,W39-2012,TV & Home Theatre,North America,Internet,Entertainment Venues,9663.45,6288.75
+Q3/2012,12-Sep,W39-2012,TV & Home Theatre,North America,Retail,Retail,287149.25,359995
+Q3/2012,12-Sep,W39-2012,Cameras,North America,Direct,Entertainment Venues,21381.95,18171.25
+Q3/2012,12-Sep,W39-2012,Cameras,North America,Direct,Internet Direct,161640.55,90061.25
+Q3/2012,12-Sep,W39-2012,Cameras,North America,Internet,Entertainment Venues,162.15,110
+Q3/2012,12-Sep,W39-2012,Cameras,North America,Retail,Entertainment Venues,12068.1,14811.25
+Q3/2012,12-Sep,W39-2012,Mobile,North America,Direct,Entertainment Venues,31290.35,21417.5
+Q3/2012,12-Sep,W39-2012,Mobile,North America,Direct,Retail,34542.55,36705
+Q3/2012,12-Sep,W39-2012,Mobile,North America,Direct,Internet Direct,1922.8,873.75
+Q3/2012,12-Sep,W39-2012,Mobile,North America,Internet,Retail,2083.8,2446.25
+Q3/2012,12-Sep,W39-2012,Mobile,North America,Retail,Retail,6887.35,12525
+Q3/2012,12-Sep,W39-2012,Office Supplies,North America,Direct,Retail,24558.25,17263.75
+Q3/2012,12-Sep,W39-2012,Office Supplies,North America,Direct,Internet Direct,39883.15,13045
+Q3/2012,12-Sep,W39-2012,Office Supplies,North America,Retail,Entertainment Venues,2389.7,1685
+Q3/2012,12-Sep,W39-2012,Repairs,North America,Direct,Retail,52925.3,29606.25
+Q3/2012,12-Sep,W39-2012,Portable Electronics,North America,Direct,Entertainment Venues,3615.6,1902.5
+Q3/2012,12-Sep,W40-2012,Computers & Tablets,North America,Direct,Entertainment Venues,6753.95,4987.5
+Q3/2012,12-Sep,W40-2012,Computers & Tablets,North America,Retail,Entertainment Venues,14518.75,17280
+Q3/2012,12-Sep,W40-2012,Computers & Tablets,North America,Retail,Retail,29590.65,50411.25
+Q3/2012,12-Sep,W40-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,1813.55,1598.75
+Q3/2012,12-Sep,W40-2012,Cameras,North America,Direct,Entertainment Venues,8063.8,8536.25
+Q3/2012,12-Sep,W40-2012,Cameras,North America,Internet,Entertainment Venues,1400.7,737.5
+Q3/2012,12-Sep,W40-2012,Cameras,North America,Retail,Retail,19882.35,52695
+Q3/2012,12-Sep,W40-2012,Mobile,North America,Direct,Entertainment Venues,15493.95,6732.5
+Q3/2012,12-Sep,W40-2012,Mobile,North America,Direct,Retail,2630.05,2682.5
+Q3/2012,12-Sep,W40-2012,Mobile,North America,Internet,Internet Direct,28493.55,8400
+Q3/2012,12-Sep,W40-2012,Mobile,North America,Retail,Retail,1877.95,2407.5
+Q3/2012,12-Sep,W40-2012,Office Supplies,North America,Direct,Entertainment Venues,15817.1,5021.25
+Q3/2012,12-Sep,W40-2012,Office Supplies,North America,Internet,Entertainment Venues,19522.4,5540
+Q3/2012,12-Sep,W40-2012,Office Supplies,North America,Retail,Entertainment Venues,175.95,115
+Q3/2012,12-Sep,W40-2012,Repairs,North America,Direct,Entertainment Venues,12280.85,3821.25
+Q3/2012,12-Sep,W40-2012,Portable Electronics,North America,Direct,Entertainment Venues,12183.1,6168.75
+Q3/2012,12-Sep,W40-2012,Portable Electronics,North America,Internet,Retail,23116.15,16956.25
+Q3/2012,12-Sep,W40-2012,Portable Electronics,North America,Retail,Entertainment Venues,12208.4,11238.75
+Q4/2012,12-Oct,W40-2012,Cameras,North America,Direct,Entertainment Venues,1275.35,1056.25
+Q4/2012,12-Oct,W40-2012,Mobile,North America,Direct,Retail,8464,12705
+Q4/2012,12-Oct,W40-2012,Mobile,North America,Direct,Internet Direct,29791.9,15720
+Q4/2012,12-Oct,W40-2012,Mobile,North America,Retail,Branded Stores,15719.35,19111.25
+Q4/2012,12-Oct,W40-2012,Office Supplies,North America,Direct,Entertainment Venues,1780.2,808.75
+Q4/2012,12-Oct,W40-2012,Portable Electronics,North America,Internet,Entertainment Venues,26876.65,18311.25
+Q4/2012,12-Oct,W40-2012,Portable Electronics,North America,Retail,Retail,7882.1,9378.75
+Q4/2012,12-Oct,W41-2012,Computers & Tablets,North America,Internet,Entertainment Venues,10114.25,6855
+Q4/2012,12-Oct,W41-2012,Computers & Tablets,North America,Retail,Entertainment Venues,108442.7,125885
+Q4/2012,12-Oct,W41-2012,Computers & Tablets,North America,Retail,Retail,133394.25,178247.5
+Q4/2012,12-Oct,W41-2012,TV & Home Theatre,North America,Direct,Branded Stores,13846,10902.5
+Q4/2012,12-Oct,W41-2012,TV & Home Theatre,North America,Internet,Entertainment Venues,1417.95,726.25
+Q4/2012,12-Oct,W41-2012,TV & Home Theatre,North America,Retail,Branded Stores,17519.1,17938.75
+Q4/2012,12-Oct,W41-2012,Cameras,North America,Internet,Entertainment Venues,49060.15,29178.75
+Q4/2012,12-Oct,W41-2012,Mobile,North America,Direct,Entertainment Venues,10987.1,5096.25
+Q4/2012,12-Oct,W41-2012,Mobile,North America,Internet,Entertainment Venues,7165.65,4271.25
+Q4/2012,12-Oct,W41-2012,Mobile,North America,Internet,Branded Stores,5329.1,3851.25
+Q4/2012,12-Oct,W41-2012,Mobile,North America,Retail,Entertainment Venues,967.15,710
+Q4/2012,12-Oct,W41-2012,Mobile,North America,Retail,Internet Direct,193738.2,83473.75
+Q4/2012,12-Oct,W41-2012,Office Supplies,North America,Internet,Entertainment Venues,617.55,213.75
+Q4/2012,12-Oct,W41-2012,Office Supplies,North America,Internet,Retail,8378.9,6642.5
+Q4/2012,12-Oct,W41-2012,Portable Electronics,North America,Direct,Entertainment Venues,19755.85,16000
+Q4/2012,12-Oct,W41-2012,Portable Electronics,North America,Internet,Entertainment Venues,8834.3,4157.5
+Q4/2012,12-Oct,W41-2012,Portable Electronics,North America,Internet,Retail,33843.35,22392.5
+Q4/2012,12-Oct,W41-2012,Portable Electronics,North America,Retail,Entertainment Venues,8485.85,9770
+Q4/2012,12-Oct,W42-2012,Computers & Tablets,North America,Internet,Entertainment Venues,35076.15,25086.25
+Q4/2012,12-Oct,W42-2012,Computers & Tablets,North America,Internet,Retail,96117,106397.5
+Q4/2012,12-Oct,W42-2012,TV & Home Theatre,North America,Direct,Retail,39167.85,48566.25
+Q4/2012,12-Oct,W42-2012,Cameras,North America,Direct,Branded Stores,173286.6,186681.25
+Q4/2012,12-Oct,W42-2012,Cameras,North America,Internet,Entertainment Venues,366.85,180
+Q4/2012,12-Oct,W42-2012,Mobile,North America,Direct,Retail,21526.85,24687.5
+Q4/2012,12-Oct,W42-2012,Office Supplies,North America,Direct,Retail,6931.05,4526.25
+Q4/2012,12-Oct,W42-2012,Portable Electronics,North America,Direct,Entertainment Venues,1328.25,737.5
+Q4/2012,12-Oct,W42-2012,Portable Electronics,North America,Direct,Branded Stores,12762.7,9988.75
+Q4/2012,12-Oct,W42-2012,Portable Electronics,North America,Internet,Retail,12031.3,15058.75
+Q4/2012,12-Oct,W42-2012,Portable Electronics,North America,Retail,Entertainment Venues,706.1,853.75
+Q4/2012,12-Oct,W43-2012,Computers & Tablets,North America,Direct,Entertainment Venues,550.85,808.75
+Q4/2012,12-Oct,W43-2012,TV & Home Theatre,North America,Direct,Retail,28107.15,43185
+Q4/2012,12-Oct,W43-2012,TV & Home Theatre,North America,Internet,Entertainment Venues,11164.2,6136.25
+Q4/2012,12-Oct,W43-2012,Cameras,North America,Direct,Branded Stores,6923,8802.5
+Q4/2012,12-Oct,W43-2012,Cameras,North America,Direct,Retail,26884.7,41577.5
+Q4/2012,12-Oct,W43-2012,Cameras,North America,Internet,Entertainment Venues,1869.9,1295
+Q4/2012,12-Oct,W43-2012,Mobile,North America,Direct,Retail,2764.6,3891.25
+Q4/2012,12-Oct,W43-2012,Mobile,North America,Retail,Entertainment Venues,4984.1,3980
+Q4/2012,12-Oct,W43-2012,Office Supplies,North America,Direct,Entertainment Venues,7862.55,2573.75
+Q4/2012,12-Oct,W43-2012,Office Supplies,North America,Internet,Retail,105031.8,69910
+Q4/2012,12-Oct,W43-2012,Office Supplies,North America,Retail,Retail,70776.75,99911.25
+Q4/2012,12-Oct,W43-2012,Portable Electronics,North America,Internet,Retail,45776.9,46838.75
+Q4/2012,12-Oct,W43-2012,Portable Electronics,North America,Retail,Entertainment Venues,10929.6,6776.25
+Q4/2012,12-Oct,W44-2012,Computers & Tablets,North America,Direct,Entertainment Venues,1325.95,1623.75
+Q4/2012,12-Oct,W44-2012,Computers & Tablets,North America,Retail,Entertainment Venues,7994.8,6307.5
+Q4/2012,12-Oct,W44-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,2470.2,1462.5
+Q4/2012,12-Oct,W44-2012,TV & Home Theatre,North America,Direct,Branded Stores,10109.65,11982.5
+Q4/2012,12-Oct,W44-2012,TV & Home Theatre,North America,Direct,Retail,141819.15,196046.25
+Q4/2012,12-Oct,W44-2012,TV & Home Theatre,North America,Retail,Entertainment Venues,811.9,973.75
+Q4/2012,12-Oct,W44-2012,Cameras,North America,Internet,Entertainment Venues,23926.9,16705
+Q4/2012,12-Oct,W44-2012,Mobile,North America,Direct,Retail,81214.15,112890
+Q4/2012,12-Oct,W44-2012,Office Supplies,North America,Direct,Retail,42782.3,30305
+Q4/2012,12-Oct,W44-2012,Office Supplies,North America,Internet,Entertainment Venues,21951.2,9771.25
+Q4/2012,12-Oct,W44-2012,Office Supplies,North America,Retail,Entertainment Venues,4991,3190
+Q4/2012,12-Oct,W44-2012,Portable Electronics,North America,Direct,Retail,29504.4,27711.25
+Q4/2012,12-Oct,W44-2012,Portable Electronics,North America,Internet,Entertainment Venues,1207.5,506.25
+Q4/2012,12-Oct,W45-2012,Repairs,North America,Direct,Retail,36340,22178.75
+Q4/2012,12-Oct,W45-2012,Repairs,North America,Internet,Retail,96329.75,59867.5
+Q4/2012,12-Nov,W45-2012,Computers & Tablets,North America,Direct,Entertainment Venues,15613.55,20460
+Q4/2012,12-Nov,W45-2012,Computers & Tablets,North America,Direct,Retail,48029.75,113026.25
+Q4/2012,12-Nov,W45-2012,Computers & Tablets,North America,Retail,Retail,425.5,1052.5
+Q4/2012,12-Nov,W45-2012,TV & Home Theatre,North America,Direct,Retail,41464.4,64330
+Q4/2012,12-Nov,W45-2012,TV & Home Theatre,North America,Internet,Retail,111032.5,193796.25
+Q4/2012,12-Nov,W45-2012,Cameras,North America,Direct,Retail,10864.05,25630
+Q4/2012,12-Nov,W45-2012,Cameras,North America,Internet,Entertainment Venues,17528.3,9570
+Q4/2012,12-Nov,W45-2012,Cameras,North America,Internet,Retail,1980.3,2687.5
+Q4/2012,12-Nov,W45-2012,Cameras,North America,Internet,Internet Direct,27217.05,19340
+Q4/2012,12-Nov,W45-2012,Mobile,North America,Direct,Entertainment Venues,5930.55,4821.25
+Q4/2012,12-Nov,W45-2012,Mobile,North America,Internet,Entertainment Venues,7095.5,4022.5
+Q4/2012,12-Nov,W45-2012,Mobile,North America,Internet,Retail,19850.15,29896.25
+Q4/2012,12-Nov,W45-2012,Office Supplies,North America,Direct,Entertainment Venues,1775.6,690
+Q4/2012,12-Nov,W45-2012,Office Supplies,North America,Direct,Internet Direct,4588.5,1686.25
+Q4/2012,12-Nov,W45-2012,Office Supplies,North America,Internet,Entertainment Venues,10751.35,4581.25
+Q4/2012,12-Nov,W45-2012,Repairs,North America,Direct,Entertainment Venues,6505.55,3275
+Q4/2012,12-Nov,W45-2012,Repairs,North America,Internet,Internet Direct,16649.7,3503.75
+Q4/2012,12-Nov,W45-2012,Repairs,North America,Retail,Entertainment Venues,11500,6868.75
+Q4/2012,12-Nov,W45-2012,Portable Electronics,North America,Direct,Entertainment Venues,9431.15,7241.25
+Q4/2012,12-Nov,W45-2012,Portable Electronics,North America,Direct,Retail,26676.55,41701.25
+Q4/2012,12-Nov,W45-2012,Portable Electronics,North America,Internet,Entertainment Venues,405.95,320
+Q4/2012,12-Nov,W45-2012,Portable Electronics,North America,Retail,Entertainment Venues,7820,9785
+Q4/2012,12-Nov,W45-2012,Portable Electronics,North America,Retail,Retail,1092.5,2500
+Q4/2012,12-Nov,W46-2012,Computers & Tablets,North America,Direct,Branded Stores,32864.7,74367.5
+Q4/2012,12-Nov,W46-2012,Computers & Tablets,North America,Retail,Internet Direct,59543.55,51875
+Q4/2012,12-Nov,W46-2012,TV & Home Theatre,North America,Direct,Retail,19836.35,42261.25
+Q4/2012,12-Nov,W46-2012,TV & Home Theatre,North America,Internet,Entertainment Venues,3780.05,2356.25
+Q4/2012,12-Nov,W46-2012,TV & Home Theatre,North America,Retail,Entertainment Venues,1578.95,1605
+Q4/2012,12-Nov,W46-2012,Cameras,North America,Direct,Entertainment Venues,644,721.25
+Q4/2012,12-Nov,W46-2012,Cameras,North America,Internet,Entertainment Venues,5163.5,3236.25
+Q4/2012,12-Nov,W46-2012,Cameras,North America,Internet,Internet Direct,94760,41367.5
+Q4/2012,12-Nov,W46-2012,Mobile,North America,Direct,Entertainment Venues,6427.35,5358.75
+Q4/2012,12-Nov,W46-2012,Mobile,North America,Direct,Branded Stores,5042.75,5128.75
+Q4/2012,12-Nov,W46-2012,Mobile,North America,Direct,Internet Direct,6197.35,2897.5
+Q4/2012,12-Nov,W46-2012,Mobile,North America,Internet,Entertainment Venues,7273.75,4688.75
+Q4/2012,12-Nov,W46-2012,Mobile,North America,Retail,Entertainment Venues,23023,24900
+Q4/2012,12-Nov,W46-2012,Mobile,North America,Retail,Retail,1611.15,4033.75
+Q4/2012,12-Nov,W46-2012,Office Supplies,North America,Direct,Entertainment Venues,497.95,282.5
+Q4/2012,12-Nov,W46-2012,Office Supplies,North America,Direct,Retail,7269.15,7602.5
+Q4/2012,12-Nov,W46-2012,Office Supplies,North America,Internet,Branded Stores,2247.1,1650
+Q4/2012,12-Nov,W46-2012,Office Supplies,North America,Internet,Retail,4127.35,3640
+Q4/2012,12-Nov,W46-2012,Office Supplies,North America,Retail,Entertainment Venues,1611.15,858.75
+Q4/2012,12-Nov,W46-2012,Office Supplies,North America,Retail,Branded Stores,188.6,231.25
+Q4/2012,12-Nov,W46-2012,Repairs,North America,Internet,Branded Stores,25689.85,11653.75
+Q4/2012,12-Nov,W46-2012,Portable Electronics,North America,Direct,Entertainment Venues,5928.25,4055
+Q4/2012,12-Nov,W46-2012,Portable Electronics,North America,Direct,Branded Stores,1963.05,2777.5
+Q4/2012,12-Nov,W47-2012,Computers & Tablets,North America,Direct,Entertainment Venues,3740.95,6458.75
+Q4/2012,12-Nov,W47-2012,Computers & Tablets,North America,Direct,Branded Stores,20735.65,45847.5
+Q4/2012,12-Nov,W47-2012,Computers & Tablets,North America,Direct,Retail,411.7,881.25
+Q4/2012,12-Nov,W47-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,13129.55,14228.75
+Q4/2012,12-Nov,W47-2012,TV & Home Theatre,North America,Internet,Entertainment Venues,3325.8,2567.5
+Q4/2012,12-Nov,W47-2012,Cameras,North America,Direct,Internet Direct,40688.15,24021.25
+Q4/2012,12-Nov,W47-2012,Mobile,North America,Direct,Entertainment Venues,2129.8,2068.75
+Q4/2012,12-Nov,W47-2012,Mobile,North America,Direct,Retail,3717.95,6233.75
+Q4/2012,12-Nov,W47-2012,Mobile,North America,Retail,Entertainment Venues,868.25,1178.75
+Q4/2012,12-Nov,W47-2012,Mobile,North America,Retail,Retail,8894.1,21172.5
+Q4/2012,12-Nov,W47-2012,Office Supplies,North America,Direct,Entertainment Venues,16832.55,12315
+Q4/2012,12-Nov,W47-2012,Office Supplies,North America,Direct,Retail,15284.65,17487.5
+Q4/2012,12-Nov,W47-2012,Office Supplies,North America,Internet,Retail,2127.5,2026.25
+Q4/2012,12-Nov,W47-2012,Office Supplies,North America,Retail,Entertainment Venues,12482.1,9995
+Q4/2012,12-Nov,W47-2012,Office Supplies,North America,Retail,Retail,2421.9,5131.25
+Q4/2012,12-Nov,W47-2012,Portable Electronics,North America,Direct,Entertainment Venues,7576.2,6413.75
+Q4/2012,12-Nov,W47-2012,Portable Electronics,North America,Internet,Entertainment Venues,2316.1,1210
+Q4/2012,12-Nov,W47-2012,Portable Electronics,North America,Internet,Retail,20160.65,21160
+Q4/2012,12-Nov,W47-2012,Portable Electronics,North America,Internet,Internet Direct,51693.65,22567.5
+Q4/2012,12-Nov,W47-2012,Portable Electronics,North America,Retail,Entertainment Venues,6779.25,8533.75
+Q4/2012,12-Nov,W47-2012,Portable Electronics,North America,Retail,Branded Stores,9991.2,16380
+Q4/2012,12-Nov,W47-2012,Portable Electronics,North America,Retail,Internet Direct,23138,17493.75
+Q4/2012,12-Nov,W48-2012,Computers & Tablets,North America,Direct,Entertainment Venues,223.1,278.75
+Q4/2012,12-Nov,W48-2012,Computers & Tablets,North America,Direct,Internet Direct,19260.2,16926.25
+Q4/2012,12-Nov,W48-2012,Computers & Tablets,North America,Internet,Entertainment Venues,2198.8,1316.25
+Q4/2012,12-Nov,W48-2012,Computers & Tablets,North America,Retail,Retail,40744.5,78376.25
+Q4/2012,12-Nov,W48-2012,TV & Home Theatre,North America,Retail,Entertainment Venues,5799.45,5737.5
+Q4/2012,12-Nov,W48-2012,Cameras,North America,Direct,Entertainment Venues,16993.55,16445
+Q4/2012,12-Nov,W48-2012,Cameras,North America,Direct,Retail,12821.35,32991.25
+Q4/2012,12-Nov,W48-2012,Cameras,North America,Direct,Internet Direct,12963.95,9073.75
+Q4/2012,12-Nov,W48-2012,Cameras,North America,Internet,Entertainment Venues,10110.8,9971.25
+Q4/2012,12-Nov,W48-2012,Cameras,North America,Internet,Branded Stores,19420.05,15878.75
+Q4/2012,12-Nov,W48-2012,Mobile,North America,Direct,Entertainment Venues,1814.7,1472.5
+Q4/2012,12-Nov,W48-2012,Mobile,North America,Direct,Retail,2722.05,5067.5
+Q4/2012,12-Nov,W48-2012,Mobile,North America,Internet,Retail,4173.35,6240
+Q4/2012,12-Nov,W48-2012,Mobile,North America,Retail,Retail,1484.65,3437.5
+Q4/2012,12-Nov,W48-2012,Mobile,North America,Retail,Internet Direct,3777.75,3676.25
+Q4/2012,12-Nov,W48-2012,Office Supplies,North America,Direct,Entertainment Venues,2332.2,1386.25
+Q4/2012,12-Nov,W48-2012,Office Supplies,North America,Internet,Entertainment Venues,13444.65,5687.5
+Q4/2012,12-Nov,W48-2012,Office Supplies,North America,Internet,Branded Stores,714.15,512.5
+Q4/2012,12-Nov,W48-2012,Office Supplies,North America,Internet,Retail,23152.95,26041.25
+Q4/2012,12-Nov,W48-2012,Office Supplies,North America,Retail,Entertainment Venues,195.5,153.75
+Q4/2012,12-Nov,W48-2012,Office Supplies,North America,Retail,Branded Stores,892.4,943.75
+Q4/2012,12-Nov,W48-2012,Repairs,North America,Direct,Retail,28379.7,28645
+Q4/2012,12-Nov,W48-2012,Repairs,North America,Retail,Retail,61139.75,80085
+Q4/2012,12-Nov,W48-2012,Portable Electronics,North America,Direct,Entertainment Venues,1071.8,936.25
+Q4/2012,12-Nov,W48-2012,Portable Electronics,North America,Internet,Entertainment Venues,20549.35,12507.5
+Q4/2012,12-Nov,W48-2012,Portable Electronics,North America,Internet,Retail,22680.3,17802.5
+Q4/2012,12-Nov,W48-2012,Portable Electronics,North America,Retail,Entertainment Venues,799.25,757.5
+Q4/2012,12-Nov,W48-2012,Portable Electronics,North America,Retail,Branded Stores,4982.95,7155
+Q4/2012,12-Nov,W49-2012,Computers & Tablets,North America,Internet,Entertainment Venues,8201.8,7838.75
+Q4/2012,12-Nov,W49-2012,Computers & Tablets,North America,Internet,Branded Stores,35720.15,50546.25
+Q4/2012,12-Nov,W49-2012,Computers & Tablets,North America,Retail,Entertainment Venues,25642.7,38897.5
+Q4/2012,12-Nov,W49-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,19976.65,17793.75
+Q4/2012,12-Nov,W49-2012,TV & Home Theatre,North America,Internet,Entertainment Venues,5138.2,3685
+Q4/2012,12-Nov,W49-2012,Cameras,North America,Retail,Internet Direct,5741.95,7297.5
+Q4/2012,12-Nov,W49-2012,Mobile,North America,Retail,Retail,5387.75,8688.75
+Q4/2012,12-Nov,W49-2012,Office Supplies,North America,Direct,Entertainment Venues,1825.05,1490
+Q4/2012,12-Nov,W49-2012,Office Supplies,North America,Direct,Branded Stores,9395.5,8521.25
+Q4/2012,12-Nov,W49-2012,Office Supplies,North America,Internet,Entertainment Venues,7608.4,3981.25
+Q4/2012,12-Nov,W49-2012,Office Supplies,North America,Internet,Retail,4365.4,3387.5
+Q4/2012,12-Nov,W49-2012,Portable Electronics,North America,Internet,Entertainment Venues,40958.4,28328.75
+Q4/2012,12-Nov,W49-2012,Portable Electronics,North America,Internet,Retail,158.7,183.75
+Q4/2012,12-Dec,W49-2012,Computers & Tablets,North America,Direct,Entertainment Venues,3647.8,5946.25
+Q4/2012,12-Dec,W49-2012,Computers & Tablets,North America,Direct,Retail,7640.6,23985
+Q4/2012,12-Dec,W49-2012,Computers & Tablets,North America,Retail,Entertainment Venues,647.45,743.75
+Q4/2012,12-Dec,W49-2012,TV & Home Theatre,North America,Internet,Entertainment Venues,4128.5,3295
+Q4/2012,12-Dec,W49-2012,TV & Home Theatre,North America,Retail,Entertainment Venues,558.9,973.75
+Q4/2012,12-Dec,W49-2012,Cameras,North America,Retail,Entertainment Venues,400.2,747.5
+Q4/2012,12-Dec,W49-2012,Cameras,North America,Retail,Retail,1391.5,4831.25
+Q4/2012,12-Dec,W49-2012,Mobile,North America,Internet,Entertainment Venues,1945.8,1620
+Q4/2012,12-Dec,W49-2012,Office Supplies,North America,Direct,Entertainment Venues,1298.35,780
+Q4/2012,12-Dec,W49-2012,Office Supplies,North America,Direct,Retail,427.8,676.25
+Q4/2012,12-Dec,W49-2012,Office Supplies,North America,Internet,Branded Stores,8073,3583.75
+Q4/2012,12-Dec,W49-2012,Portable Electronics,North America,Retail,Internet Direct,27920.85,20582.5
+Q4/2012,12-Dec,W50-2012,Computers & Tablets,North America,Direct,Entertainment Venues,10884.75,18275
+Q4/2012,12-Dec,W50-2012,Computers & Tablets,North America,Direct,Retail,7395.65,23192.5
+Q4/2012,12-Dec,W50-2012,Computers & Tablets,North America,Direct,Internet Direct,14204.8,17708.75
+Q4/2012,12-Dec,W50-2012,Computers & Tablets,North America,Internet,Entertainment Venues,1162.65,1007.5
+Q4/2012,12-Dec,W50-2012,Computers & Tablets,North America,Internet,Retail,2355.2,3638.75
+Q4/2012,12-Dec,W50-2012,Cameras,North America,Direct,Retail,6080.05,13931.25
+Q4/2012,12-Dec,W50-2012,Cameras,North America,Internet,Entertainment Venues,193.2,175
+Q4/2012,12-Dec,W50-2012,Cameras,North America,Internet,Branded Stores,2792.2,3247.5
+Q4/2012,12-Dec,W50-2012,Cameras,North America,Internet,Retail,24690.5,55036.25
+Q4/2012,12-Dec,W50-2012,Mobile,North America,Direct,Entertainment Venues,2646.15,2756.25
+Q4/2012,12-Dec,W50-2012,Mobile,North America,Direct,Retail,1104,2546.25
+Q4/2012,12-Dec,W50-2012,Mobile,North America,Direct,Internet Direct,4310.2,2357.5
+Q4/2012,12-Dec,W50-2012,Mobile,North America,Internet,Retail,1270.75,1836.25
+Q4/2012,12-Dec,W50-2012,Mobile,North America,Internet,Internet Direct,13259.5,5293.75
+Q4/2012,12-Dec,W50-2012,Mobile,North America,Retail,Entertainment Venues,1800.9,2770
+Q4/2012,12-Dec,W50-2012,Mobile,North America,Retail,Internet Direct,62726.75,44338.75
+Q4/2012,12-Dec,W50-2012,Office Supplies,North America,Direct,Branded Stores,1357,1232.5
+Q4/2012,12-Dec,W50-2012,Office Supplies,North America,Direct,Retail,6721.75,7753.75
+Q4/2012,12-Dec,W50-2012,Office Supplies,North America,Internet,Entertainment Venues,197.8,91.25
+Q4/2012,12-Dec,W50-2012,Office Supplies,North America,Internet,Retail,4526.4,4357.5
+Q4/2012,12-Dec,W50-2012,Repairs,North America,Direct,Entertainment Venues,9228.75,4278.75
+Q4/2012,12-Dec,W50-2012,Repairs,North America,Retail,Entertainment Venues,3119.95,2005
+Q4/2012,12-Dec,W50-2012,Portable Electronics,North America,Direct,Entertainment Venues,21698.2,19430
+Q4/2012,12-Dec,W50-2012,Portable Electronics,North America,Internet,Branded Stores,4168.75,5565
+Q4/2012,12-Dec,W50-2012,Portable Electronics,North America,Internet,Retail,196.65,285
+Q4/2012,12-Dec,W50-2012,Portable Electronics,North America,Retail,Entertainment Venues,1984.9,3150
+Q4/2012,12-Dec,W50-2012,Portable Electronics,North America,Retail,Retail,644,2106.25
+Q4/2012,12-Dec,W51-2012,Computers & Tablets,North America,Direct,Entertainment Venues,6571.1,12957.5
+Q4/2012,12-Dec,W51-2012,Computers & Tablets,North America,Internet,Retail,20948.4,48932.5
+Q4/2012,12-Dec,W51-2012,Computers & Tablets,North America,Internet,Internet Direct,8625,4740
+Q4/2012,12-Dec,W51-2012,Computers & Tablets,North America,Retail,Entertainment Venues,24538.7,32175
+Q4/2012,12-Dec,W51-2012,TV & Home Theatre,North America,Direct,Internet Direct,37258.85,30201.25
+Q4/2012,12-Dec,W51-2012,TV & Home Theatre,North America,Internet,Retail,25508.15,47012.5
+Q4/2012,12-Dec,W51-2012,TV & Home Theatre,North America,Retail,Entertainment Venues,10998.6,19860
+Q4/2012,12-Dec,W51-2012,TV & Home Theatre,North America,Retail,Retail,1576.65,4193.75
+Q4/2012,12-Dec,W51-2012,Cameras,North America,Direct,Branded Stores,28307.25,74345
+Q4/2012,12-Dec,W51-2012,Cameras,North America,Retail,Entertainment Venues,16308.15,37195
+Q4/2012,12-Dec,W51-2012,Mobile,North America,Direct,Entertainment Venues,2505.85,2253.75
+Q4/2012,12-Dec,W51-2012,Mobile,North America,Internet,Entertainment Venues,2941.7,2282.5
+Q4/2012,12-Dec,W51-2012,Mobile,North America,Retail,Entertainment Venues,2350.6,3000
+Q4/2012,12-Dec,W51-2012,Office Supplies,North America,Direct,Retail,10489.15,13406.25
+Q4/2012,12-Dec,W51-2012,Office Supplies,North America,Internet,Entertainment Venues,13410.15,8701.25
+Q4/2012,12-Dec,W51-2012,Office Supplies,North America,Retail,Entertainment Venues,1584.7,1297.5
+Q4/2012,12-Dec,W51-2012,Office Supplies,North America,Retail,Retail,30272.6,43058.75
+Q4/2012,12-Dec,W51-2012,Repairs,North America,Retail,Retail,27926.6,39448.75
+Q4/2012,12-Dec,W51-2012,Portable Electronics,North America,Direct,Entertainment Venues,9775,11661.25
+Q4/2012,12-Dec,W51-2012,Portable Electronics,North America,Direct,Retail,10222.35,17905
+Q4/2012,12-Dec,W51-2012,Portable Electronics,North America,Internet,Entertainment Venues,708.4,746.25
+Q4/2012,12-Dec,W51-2012,Portable Electronics,North America,Retail,Internet Direct,3309.7,2750
+Q4/2012,12-Dec,W52-2012,Computers & Tablets,North America,Direct,Entertainment Venues,13896.6,24942.5
+Q4/2012,12-Dec,W52-2012,Computers & Tablets,North America,Direct,Internet Direct,9892.3,13167.5
+Q4/2012,12-Dec,W52-2012,Computers & Tablets,North America,Internet,Branded Stores,12592.5,19896.25
+Q4/2012,12-Dec,W52-2012,Computers & Tablets,North America,Internet,Internet Direct,5409.6,2908.75
+Q4/2012,12-Dec,W52-2012,Computers & Tablets,North America,Retail,Entertainment Venues,19288.95,31961.25
+Q4/2012,12-Dec,W52-2012,Computers & Tablets,North America,Retail,Retail,31768.75,82625
+Q4/2012,12-Dec,W52-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,2325.3,2378.75
+Q4/2012,12-Dec,W52-2012,TV & Home Theatre,North America,Internet,Retail,1716.95,3663.75
+Q4/2012,12-Dec,W52-2012,TV & Home Theatre,North America,Retail,Entertainment Venues,19685.7,24312.5
+Q4/2012,12-Dec,W52-2012,Cameras,North America,Direct,Entertainment Venues,2425.35,3416.25
+Q4/2012,12-Dec,W52-2012,Cameras,North America,Internet,Entertainment Venues,479.55,486.25
+Q4/2012,12-Dec,W52-2012,Cameras,North America,Internet,Retail,33568.5,78612.5
+Q4/2012,12-Dec,W52-2012,Cameras,North America,Retail,Entertainment Venues,1345.5,2291.25
+Q4/2012,12-Dec,W52-2012,Cameras,North America,Retail,Branded Stores,1844.6,3913.75
+Q4/2012,12-Dec,W52-2012,Cameras,North America,Retail,Retail,14580.85,43038.75
+Q4/2012,12-Dec,W52-2012,Mobile,North America,Direct,Retail,2354.05,5222.5
+Q4/2012,12-Dec,W52-2012,Mobile,North America,Retail,Internet Direct,2057.35,1836.25
+Q4/2012,12-Dec,W52-2012,Office Supplies,North America,Direct,Entertainment Venues,1802.05,1300
+Q4/2012,12-Dec,W52-2012,Office Supplies,North America,Direct,Retail,1228.2,1763.75
+Q4/2012,12-Dec,W52-2012,Office Supplies,North America,Internet,Entertainment Venues,10125.75,6936.25
+Q4/2012,12-Dec,W52-2012,Office Supplies,North America,Internet,Branded Stores,12686.8,13657.5
+Q4/2012,12-Dec,W52-2012,Office Supplies,North America,Internet,Retail,1509.95,1561.25
+Q4/2012,12-Dec,W52-2012,Office Supplies,North America,Retail,Entertainment Venues,5951.25,5370
+Q4/2012,12-Dec,W52-2012,Repairs,North America,Direct,Retail,15096.05,11462.5
+Q4/2012,12-Dec,W52-2012,Portable Electronics,North America,Direct,Entertainment Venues,203.55,262.5
+Q4/2012,12-Dec,W52-2012,Portable Electronics,North America,Internet,Entertainment Venues,4334.35,3542.5
+Q4/2012,12-Dec,W52-2012,Portable Electronics,North America,Internet,Retail,17688.15,29552.5
+Q4/2012,12-Dec,W52-2012,Portable Electronics,North America,Retail,Entertainment Venues,7501.45,10556.25
+Q4/2012,12-Dec,W52-2012,Portable Electronics,North America,Retail,Retail,834.9,2853.75
+Q4/2012,12-Dec,W53-2012,Computers & Tablets,North America,Direct,Entertainment Venues,18195.3,37146.25
+Q4/2012,12-Dec,W53-2012,Computers & Tablets,North America,Internet,Branded Stores,3341.9,4701.25
+Q4/2012,12-Dec,W53-2012,Computers & Tablets,North America,Internet,Retail,17075.2,27703.75
+Q4/2012,12-Dec,W53-2012,TV & Home Theatre,North America,Direct,Entertainment Venues,19377.5,20396.25
+Q4/2012,12-Dec,W53-2012,TV & Home Theatre,North America,Internet,Entertainment Venues,9857.8,10687.5
+Q4/2012,12-Dec,W53-2012,TV & Home Theatre,North America,Internet,Retail,6808,12833.75
+Q4/2012,12-Dec,W53-2012,TV & Home Theatre,North America,Retail,Entertainment Venues,868.25,1487.5
+Q4/2012,12-Dec,W53-2012,Cameras,North America,Direct,Entertainment Venues,9040.15,11120
+Q4/2012,12-Dec,W53-2012,Cameras,North America,Direct,Internet Direct,24704.3,18847.5
+Q4/2012,12-Dec,W53-2012,Cameras,North America,Retail,Entertainment Venues,3594.9,9073.75
+Q4/2012,12-Dec,W53-2012,Cameras,North America,Retail,Retail,526.7,2391.25
+Q4/2012,12-Dec,W53-2012,Mobile,North America,Direct,Entertainment Venues,1620.35,1600
+Q4/2012,12-Dec,W53-2012,Mobile,North America,Direct,Branded Stores,3988.2,6720
+Q4/2012,12-Dec,W53-2012,Mobile,North America,Direct,Retail,3678.85,6216.25
+Q4/2012,12-Dec,W53-2012,Mobile,North America,Internet,Entertainment Venues,10147.6,6208.75
+Q4/2012,12-Dec,W53-2012,Mobile,North America,Internet,Retail,11088.3,16272.5
+Q4/2012,12-Dec,W53-2012,Mobile,North America,Retail,Entertainment Venues,2374.75,3225
+Q4/2012,12-Dec,W53-2012,Mobile,North America,Retail,Retail,11008.95,32516.25
+Q4/2012,12-Dec,W53-2012,Office Supplies,North America,Direct,Retail,4275.7,8188.75
+Q4/2012,12-Dec,W53-2012,Office Supplies,North America,Internet,Entertainment Venues,6727.5,3930
+Q4/2012,12-Dec,W53-2012,Office Supplies,North America,Internet,Retail,23079.35,26600
+Q4/2012,12-Dec,W53-2012,Office Supplies,North America,Retail,Retail,3960.6,6517.5
+Q4/2012,12-Dec,W53-2012,Repairs,North America,Internet,Retail,18747.3,16182.5
+Q4/2012,12-Dec,W53-2012,Portable Electronics,North America,Direct,Entertainment Venues,12058.9,11011.25
+Q4/2012,12-Dec,W53-2012,Portable Electronics,North America,Internet,Entertainment Venues,4361.95,3600
+Q4/2012,12-Dec,W53-2012,Portable Electronics,North America,Internet,Branded Stores,11401.1,10997.5
