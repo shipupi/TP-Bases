@@ -1,4 +1,4 @@
-
+-- a) Creacion de la tabla intermedia
 
 -- Borrar tabla intermedia (por si quedo de run anterior)
 
@@ -17,11 +17,9 @@ CREATE TABLE intermedia(
 	Cost FLOAT
 );
 
--- Import data
+-- b) Creacion de la tabla definitiva
 
-\copy intermedia from SalesbyRegion.csv header delimiter ',' csv;
-
--- Borrar tabla defiitiva (por si quedo de run anterior)
+-- Borrar tabla definitiva (por si quedo de run anterior)
 
 DROP TABLE IF EXISTS intermedia;
 
@@ -37,9 +35,15 @@ CREATE TABLE definitiva(
         Cost FLOAT
 );
 
+-- c) Importacion de los datos
+
+-- Import data
+
+\copy intermedia from SalesbyRegion.csv header delimiter ',' csv;
+
 INSERT INTO definitiva
 SELECT TO_DATE(month, 'yy-Mon') as sales_date, product_type, territory, sales_channel, customer_type, SUM(revenue) as revenue, cost
 FROM intermedia
 GROUP BY month, product_type, territory, sales_channel, customer_type, cost;
 
--- Seguir aca abajo
+-- d) Calculo del Margen de venta promedio
