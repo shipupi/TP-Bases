@@ -41,9 +41,20 @@ CREATE TABLE definitiva(
 
 \copy intermedia from SalesbyRegion.csv header delimiter ',' csv;
 
-INSERT INTO definitiva
-SELECT TO_DATE(month, 'yy-Mon') as sales_date, product_type, territory, sales_channel, customer_type, SUM(revenue) as revenue, cost
-FROM intermedia
-GROUP BY month, product_type, territory, sales_channel, customer_type, cost;
+CREATE OR REPLACE FUNCTION finsertaDefinitiva()
+RETURNS TRIGGER AS 
+$$
+DECLARE
+        month_format TEXT DEFAULT 'yy-Mon';
+BEGIN
+        INSERT INTO definitiva VALUES (TO_DATE(new.month, month_format), new.product_type, new.territory, new.sales_channel, new.customer_type, new.revenue, new.cost);
+END
+$$
+LANGUAGE plpgsql;
+
+CREATE TRIGGER insertaDefinitiva
+AFTER INSERT ON intermedia
+FOR EACH ROW
+EXECUTE PROCEDURE finsertaDefinitiva();
 
 -- d) Calculo del Margen de venta promedio
