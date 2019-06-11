@@ -111,7 +111,7 @@ $$
 LANGUAGE plpgsql;
 
 
-
+/*
 DO $$
 DECLARE
 	rta definitiva.Revenue%TYPE;
@@ -123,3 +123,67 @@ EXCEPTION
 		raise notice '% %', SQLSTATE, SQLERRM;
 END;
 $$
+*/
+
+-- CREANDO LA TABLA PARA EL PUNTO E
+
+DROP FUNCTION IF EXISTS ReporteVenta(integer);
+DROP FUNCTION IF EXISTS validDates(integer);
+
+CREATE OR REPLACE FUNCTION ReporteVenta(n INT) 
+RETURNS TABLE (
+        Year INT,
+        Category TEXT,
+        Revenue INT,
+        Cost INT,
+        Margin INT         
+)
+AS $$
+      
+BEGIN
+        IF (n = 0) THEN
+                Raise exception 'Cantidad de años debe ser mayor a 0' USING ERRCODE = 'RR000';
+        END IF;
+        
+        RETURN QUERY SELECT 
+                aux.year, aux.category, SUM(aux.revenue)::INT, SUM(aux.cost)::INT, SUM(aux.margin)::INT
+            FROM 
+                ((SELECT EXTRACT(YEAR FROM T1.Sales_Date)::INT as year, 'Sales Channel: ' || T1.Sales_Channel AS Category, T1.revenue::INT, T1.cost::INT, (T1.revenue-T1.cost)::INT AS margin
+                  FROM validDates(n) AS T1)   
+                     
+                UNION        
+                
+                (SELECT EXTRACT(YEAR FROM T2.Sales_Date)::INT, 'Customer Type: ' || T2.Customer_Type AS Category, T2.revenue::INT, T2.cost::INT, (T2.revenue-T2.cost)::INT AS margin
+                 FROM validDates(n) AS T2)
+            ) AS AUX
+            GROUP BY aux.year, aux.category
+            ORDER BY aux.year, aux.category DESC; 
+                                
+END;
+$$
+LANGUAGE plpgsql;
+
+
+-- AUXILIARY FUNCTION TO CREATE A TABLE WITH THE DATES TO ANALIZE
+CREATE OR REPLACE FUNCTION validDates(n INT)
+RETURNS TABLE(
+   Sales_Date DATE,
+   Sales_Channel TEXT,
+   Customer_Type TEXT,
+   Revenue FLOAT,
+   COST FLOAT
+) 
+AS $$
+
+DECLARE
+        baseYear INT := EXTRACT(YEAR FROM (SELECT MIN(definitiva.Sales_Date) FROM definitiva))::INT;
+BEGIN
+        RETURN QUERY SELECT definitiva.Sales_Date, definitiva.Sales_Channel, definitiva.Customer_Type, definitiva.Revenue, definitiva.Cost
+                     FROM definitiva
+                     WHERE EXTRACT(YEAR FROM definitiva.Sales_Date)::INT >= baseYear AND EXTRACT(YEAR FROM definitiva.Sales_Date)::INT < (baseYear + n)::INT;                 
+END;
+$$
+LANGUAGE plpgsql;
+
+-- Con esto se llama
+--SELECT * FROM ReporteVenta(1) AS rta;
