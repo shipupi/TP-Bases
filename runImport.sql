@@ -48,6 +48,7 @@ DECLARE
         month_format TEXT DEFAULT 'yy-Mon'; 
 BEGIN
         INSERT INTO definitiva VALUES (TO_DATE(new.month, month_format), new.product_type, new.territory, new.sales_channel, new.customer_type, new.revenue, new.cost);
+        RETURN new;
 END
 $$
 LANGUAGE plpgsql;
@@ -100,13 +101,55 @@ BEGIN
 	-- Me evita la excepcion de division por 0
 	IF (count == 0) THEN
 		RETURN 0.0;
-	END IF
+	END IF;
 
 	-- Return the average
 	RETURN sum/count;	
-END
+END;
 $$ LANGUAGE plpgsql
 
+SELECT EXTRACT(YEAR FROM sales_date)::INT FROM definitiva
+GROUP BY EXTRACT(YEAR FROM sales_date)
+ORDER BY EXTRACT(YEAR FROM sales_date) ASC
+
+DO $$BEGIN
+        PERFORM DBMS_OUTPUT.DISABLE();
+        PERFORM DBMS_OUTPUT.ENABLE();
+        PERFORM DBMS_OUTPUT.SERVEROUTPUT ('t');
+        PERFORM DBMS_OUTPUT.PUT_LINE ('HISTORIC SALES REPORT');
+        PERFORM DBMS_OUTPUT.PUT_LINE ('Hola');
+END; $$
+
+SELECT sales_date, SUM(revenue) as revenue, SUM(cost) as cost FROM definitiva 
+GROUP BY sales_date;
+
+CREATE OR REPLACE FUNCTION output_report(title TEXT)
+RETURNS void
+AS $$
+DECLARE records
+        CURSOR FOR
+                SELECT sales_date, SUM(revenue) as revenue, SUM(cost) as cost 
+                FROM definitiva 
+                GROUP BY sales_date;
+        record RECORD;
+BEGIN
+        PERFORM DBMS_OUTPUT.DISABLE();
+        PERFORM DBMS_OUTPUT.ENABLE();
+        PERFORM DBMS_OUTPUT.SERVEROUTPUT ('t');
+        PERFORM DBMS_OUTPUT.PUT_LINE ('HISTORIC SALES REPORT');
+        OPEN curse;
+        LOOP
+                FETCH records INTO record;
+                EXIT WHEN NOT FOUND;
+                PERFORM DBMS_OUTPUT.PUT_LINE (record.revenue || ' , ' || record.cost);
+        END LOOP;
+        CLOSE curse;
+END;
+$$ LANGUAGE plpgsql;
+
+SELECT output_report('HISTORIC SALES REPORT')
+
+SELECT * FROM definitiva;
 
 DO $$
 DECLARE
