@@ -39,8 +39,6 @@ CREATE TABLE definitiva(
 
 -- Import data
 
-\copy intermedia from SalesbyRegion.csv header delimiter ',' csv;
-
 CREATE OR REPLACE FUNCTION finsertaDefinitiva()
 RETURNS TRIGGER AS 
 $$
@@ -48,6 +46,7 @@ DECLARE
         month_format TEXT DEFAULT 'yy-Mon'; 
 BEGIN
         INSERT INTO definitiva VALUES (TO_DATE(new.month, month_format), new.product_type, new.territory, new.sales_channel, new.customer_type, new.revenue, new.cost);
+        RETURN NULL;
 END
 $$
 LANGUAGE plpgsql;
@@ -57,32 +56,35 @@ AFTER INSERT ON intermedia
 FOR EACH ROW
 EXECUTE PROCEDURE finsertaDefinitiva();
 
+\copy intermedia from SalesbyRegion.csv header delimiter ',' csv;
+
+
 -- d) Calculo del Margen de venta promedio
 
 CREATE OR REPLACE FUNCTION MargenMovil(fecha DATE, n INT)
-RETURNS definitiva.Revenue%TYPE;
-AS $$
+RETURNS definitiva.Revenue%TYPE AS 
+$$
 DECLARE 
 	sum definitiva.Revenue%TYPE;
 	count INT;
 	auxiMargen definitiva.Revenue%TYPE;
 	myCursor CURSOR FOR 
-		SELECT Sales_Date, Revenue - Cost 
+		SELECT Revenue - Cost 
 		FROM definitiva
-		WHEN Sales_Date >= (fecha - (n * '1 month'::INTERVAL)) AND Sales_Date <= fecha;
+		WHERE Sales_Date >= (fecha - (n * '1 month'::INTERVAL)) AND Sales_Date <= fecha;
 
 BEGIN
-	sum := 0;
+	sum := 0.0;
 	count := 0;
 
 	-- VALIDACIONES: Raise exception si alguno de los argumentos es invalido
 	IF (fecha IS NULL OR n IS NULL) THEN
-		Raise exception 'Argumentos no pueden ser null' USING ERRCODE = 'RR222'
-	END IF
+		Raise exception 'Argumentos no pueden ser null' USING ERRCODE = 'RR222';
+	END IF;
 
 	IF (n <= 0) THEN
 		Raise exception 'La cantidad de meses anteriores debe ser mayor a 0' USING ERRCODE = 'PP111';
-	END IF
+	END IF;
 
 	-- Argumentos correctos! Calculo el margen de ventas promedio
 	OPEN myCursor;
@@ -98,23 +100,26 @@ BEGIN
 	CLOSE myCursor;
 
 	-- Me evita la excepcion de division por 0
-	IF (count == 0) THEN
+	IF (count = 0) THEN
 		RETURN 0.0;
-	END IF
+	END IF;
 
 	-- Return the average
 	RETURN sum/count;	
 END
-$$ LANGUAGE plpgsql
+$$ 
+LANGUAGE plpgsql;
+
 
 
 DO $$
 DECLARE
-	rta definitiva.Revenue%TYPE
+	rta definitiva.Revenue%TYPE;
 BEGIN
 	rta := MargenMovil(TO_DATE('2012-11-01', 'YYYY-MM-DD'), 3);
 	raise notice '%', rta;
 EXCEPTION
 	WHEN SQLSTATE 'PP111' THEN
 		raise notice '% %', SQLSTATE, SQLERRM;
-END
+END;
+$$
