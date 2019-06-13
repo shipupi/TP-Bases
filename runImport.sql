@@ -106,7 +106,7 @@ RETURNS TABLE(
    Sales_Channel TEXT,
    Customer_Type TEXT,
    Revenue FLOAT,
-   COST FLOAT
+   Cost FLOAT
 ) 
 AS $$
 
@@ -120,12 +120,18 @@ END;
 $$
 LANGUAGE plpgsql;
 
-CREATE OR REPLACE FUNCTION ReporteVenta(n INT)
-RETURNS void
+CREATE OR REPLACE FUNCTION report(n INT)
+RETURNS TABLE(
+   year INT,
+   category TEXT,
+   category_desc TEXT,
+   revenue INT,
+   cost INT,
+   margin INT
+) 
 AS $$
-DECLARE 
-        records CURSOR FOR
-                SELECT aux.year, aux.category, aux.category_desc, SUM(aux.revenue)::INT as revenue, SUM(aux.cost)::INT as cost, SUM(aux.margin)::INT as margin
+BEGIN
+        RETURN QUERY SELECT aux.year, aux.category, aux.category_desc, SUM(aux.revenue)::INT as revenue, SUM(aux.cost)::INT as cost, SUM(aux.margin)::INT as margin
                 FROM
                         ((SELECT EXTRACT(YEAR FROM T1.Sales_Date)::INT as year, 'Sales Channel' AS Category, T1.Sales_Channel AS Category_Desc, T1.revenue::INT, T1.cost::INT, (T1.revenue-T1.cost)::INT AS margin
                         FROM validDates(n) AS T1)
@@ -135,17 +141,39 @@ DECLARE
                         FROM validDates(n) AS T2)
                 ) AS AUX
                 GROUP BY aux.year, aux.category, aux.category_desc
-                ORDER BY aux.year, aux.category DESC, aux.category_desc DESC; 
+                ORDER BY aux.year, aux.category DESC, aux.category_desc DESC;               
+END;
+$$
+LANGUAGE plpgsql;
+
+DROP TYPE IF EXISTS 
+CREATE TYPE definitiva_lens AS (year_len INT, cat_len INT, rev_len INT, cost_len INT, margin_len INT);
+
+CREATE OR REPLACE FUNCTION ReporteVenta(n INT)
+RETURNS void
+AS $$
+DECLARE 
+        separator TEXT DEFAULT ' ';
+        cat_separator TEXT DEFAULT ': ';
+        records CURSOR FOR
+                SELECT * FROM report(n);
         record RECORD;
         title TEXT DEFAULT 'HISTORIC SALES REPORT';
-        separator TEXT DEFAULT ' ';
         prev_year INT DEFAULT NULL;
         curr_year TEXT;
         total_revenue INT DEFAULT 0;
         total_cost INT DEFAULT 0;
         total_margin INT DEFAULT 0;
         category_len INT DEFAULT 35;
+        lens definitiva_lens;
 BEGIN
+        SELECT MAX(LENGTH(report.year::TEXT)) AS year_len, 
+                        MAX((LENGTH(report.category)+LENGTH(report.category_desc))) AS cat_len, 
+                        MAX(LENGTH(report.revenue::TEXT)) AS rev_len, 
+                        MAX(LENGTH(report.cost::TEXT)) AS cost_len, 
+                        MAX(LENGTH(report.margin::TEXT)) AS margin_len 
+        INTO lens.year_len, lens.cat_len, lens.cost_len, lens.margin_len
+        FROM report(n) AS report;
         PERFORM DBMS_OUTPUT.DISABLE();
         PERFORM DBMS_OUTPUT.ENABLE();
         PERFORM DBMS_OUTPUT.SERVEROUTPUT ('t');
@@ -177,4 +205,5 @@ END;
 $$ LANGUAGE plpgsql;
 
 --Test ReporteVenta
-SELECT ReporteVenta(2);
+-- SELECT ReporteVenta(2);
+-- SELECT * FROM report(2);
