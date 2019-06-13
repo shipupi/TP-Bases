@@ -79,11 +79,13 @@ $$
 BEGIN
 	-- VALIDACIONES: Raise exception si alguno de los argumentos es invalido
 	IF (fecha IS NULL OR n IS NULL) THEN
-		RAISE EXCEPTION 'Argumentos no pueden ser null' USING ERRCODE = 'RR222';
+		RAISE NOTICE 'Argumentos no pueden ser null' USING ERRCODE = 'RR222';
+		RETURN NULL;
 	END IF;
 
 	IF (n <= 0) THEN
-		RAISE EXCEPTION 'La cantidad de meses anteriores debe ser mayor a 0' USING ERRCODE = 'PP111';
+		RAISE NOTICE 'La cantidad de meses anteriores debe ser mayor a 0' USING ERRCODE = 'PP111';
+		RETURN NULL;
 	END IF;
 
 	-- Argumentos correctos! Calculo el margen de ventas promedio
@@ -113,6 +115,8 @@ AS $$
 DECLARE
         baseYear INT := EXTRACT(YEAR FROM (SELECT MIN(definitiva.Sales_Date) FROM definitiva))::INT;
 BEGIN
+        IF (n IS NULL)
+                RETURN NULL
         RETURN QUERY SELECT definitiva.Sales_Date, definitiva.Sales_Channel, definitiva.Customer_Type, definitiva.Revenue, definitiva.Cost
                      FROM definitiva
                      WHERE EXTRACT(YEAR FROM definitiva.Sales_Date)::INT >= baseYear AND EXTRACT(YEAR FROM definitiva.Sales_Date)::INT < (baseYear + n)::INT;                 
