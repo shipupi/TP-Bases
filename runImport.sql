@@ -132,19 +132,19 @@ DECLARE
         total_revenue INT DEFAULT 0;
         total_cost INT DEFAULT 0;
         total_margin INT DEFAULT 0;
-        category_len INT DEFAULT 30;
+        category_len INT DEFAULT 35;
 BEGIN
         PERFORM DBMS_OUTPUT.DISABLE();
         PERFORM DBMS_OUTPUT.ENABLE();
         PERFORM DBMS_OUTPUT.SERVEROUTPUT ('t');
         PERFORM DBMS_OUTPUT.PUT_LINE (title);
-        PERFORM DBMS_OUTPUT.PUT_LINE ('YEAR' || separator || lpad('CATEGORY', category_len, ' ') || 'REVENUE' || separator || 'COST' || separator || 'MARGIN');
+        PERFORM DBMS_OUTPUT.PUT_LINE ('YEAR' || separator || rpad('CATEGORY', category_len, ' ') || 'REVENUE' || separator || 'COST' || separator || 'MARGIN');
         OPEN records;
         LOOP
                 FETCH records INTO record;
                 EXIT WHEN NOT FOUND;
                 IF (prev_year IS NULL OR prev_year <> record.year) THEN
-                        PERFORM DBMS_OUTPUT.PUT_LINE (lpad('', LENGTH(curr_year::TEXT), ',') || separator || 'Total:' || separator || total_revenue || separator || total_cost || separator || total_margin);
+                        PERFORM DBMS_OUTPUT.PUT_LINE (lpad('', LENGTH(curr_year::TEXT), ',') || separator || rpad('Total:', category_len, ' ') || separator || total_revenue || separator || total_cost || separator || total_margin);
                         total_revenue := 0;
                         total_cost := 0;
                         total_margin := 0;
@@ -156,10 +156,10 @@ BEGIN
                 total_revenue := total_revenue + record.revenue;
                 total_cost := total_cost + record.cost;
                 total_margin := total_margin + record.margin;
-                PERFORM DBMS_OUTPUT.PUT_LINE (curr_year || separator || record.category || ': ' || separator || record.category_desc || separator || record.revenue || separator || record.cost || separator || record.margin);
+                PERFORM DBMS_OUTPUT.PUT_LINE (curr_year || separator || rpad(record.category || ': ' || separator || record.category_desc, category_len, ' ') || separator || record.revenue || separator || record.cost || separator || record.margin);
         END LOOP;
         CLOSE records;
-        PERFORM DBMS_OUTPUT.PUT_LINE (lpad('', LENGTH(curr_year::TEXT), ',') || separator || 'Total:' || separator || total_revenue || separator || total_cost || separator || total_margin);
+        PERFORM DBMS_OUTPUT.PUT_LINE (lpad('', LENGTH(curr_year::TEXT), ',') || separator || rpad('Total:', category_len, ' ') || separator || total_revenue || separator || total_cost || separator || total_margin);
         
 END;
 $$ LANGUAGE plpgsql;
