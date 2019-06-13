@@ -53,8 +53,7 @@ BEGIN
                 AND product_type = new.product_type 
                 AND territory = new.territory 
                 AND sales_channel = new.sales_channel 
-                AND customer_type = new.customer_type 
-                AND revenue = new.revenue;
+                AND customer_type = new.customer_type;
         IF NOT FOUND THEN
                 INSERT INTO definitiva 
                 VALUES (month, new.product_type, new.territory, new.sales_channel, new.customer_type, new.revenue, new.cost);
