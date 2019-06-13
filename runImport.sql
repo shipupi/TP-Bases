@@ -32,7 +32,8 @@ CREATE TABLE definitiva(
         Sales_Channel TEXT NOT NULL,
         Customer_Type TEXT NOT NULL,
         Revenue FLOAT,
-        Cost FLOAT
+        Cost FLOAT,
+        CONSTRAINT PK_Definitiva PRIMARY KEY (Sales_Date, Product_Type, Territory, Sales_Channel, Customer_Type)
 );
 
 -- c) Importacion de los datos
@@ -44,8 +45,20 @@ RETURNS TRIGGER AS
 $$
 DECLARE
         month_format TEXT DEFAULT 'yy-Mon'; 
+        month DATE DEFAULT TO_DATE(new.month, month_format);
 BEGIN
-        INSERT INTO definitiva VALUES (TO_DATE(new.month, month_format), new.product_type, new.territory, new.sales_channel, new.customer_type, new.revenue, new.cost);
+        UPDATE definitiva 
+        SET revenue = (revenue + new.revenue), cost = (cost + new.cost) 
+        WHERE sales_date = month 
+                AND product_type = new.product_type 
+                AND territory = new.territory 
+                AND sales_channel = new.sales_channel 
+                AND customer_type = new.customer_type 
+                AND revenue = new.revenue;
+        IF NOT FOUND THEN
+                INSERT INTO definitiva 
+                VALUES (month, new.product_type, new.territory, new.sales_channel, new.customer_type, new.revenue, new.cost);
+        END IF;
         RETURN NULL;
 END
 $$
@@ -67,11 +80,11 @@ $$
 BEGIN
 	-- VALIDACIONES: Raise exception si alguno de los argumentos es invalido
 	IF (fecha IS NULL OR n IS NULL) THEN
-		Raise exception 'Argumentos no pueden ser null' USING ERRCODE = 'RR222';
+		RAISE EXCEPTION 'Argumentos no pueden ser null' USING ERRCODE = 'RR222';
 	END IF;
 
 	IF (n <= 0) THEN
-		Raise exception 'La cantidad de meses anteriores debe ser mayor a 0' USING ERRCODE = 'PP111';
+		RAISE EXCEPTION 'La cantidad de meses anteriores debe ser mayor a 0' USING ERRCODE = 'PP111';
 	END IF;
 
 	-- Argumentos correctos! Calculo el margen de ventas promedio
