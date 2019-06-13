@@ -138,20 +138,20 @@ BEGIN
         PERFORM DBMS_OUTPUT.ENABLE();
         PERFORM DBMS_OUTPUT.SERVEROUTPUT ('t');
         PERFORM DBMS_OUTPUT.PUT_LINE (title);
-        PERFORM DBMS_OUTPUT.PUT_LINE ('YEAR' || separator || rpad('CATEGORY', category_len, ' ') || 'REVENUE' || separator || 'COST' || separator || 'MARGIN');
+        PERFORM DBMS_OUTPUT.PUT_LINE ('YEAR' || separator || rpad('CATEGORY', category_len, ' ') || separator || 'REVENUE' || separator || 'COST' || separator || 'MARGIN');
         OPEN records;
         LOOP
                 FETCH records INTO record;
                 EXIT WHEN NOT FOUND;
                 IF (prev_year IS NULL OR prev_year <> record.year) THEN
-                        PERFORM DBMS_OUTPUT.PUT_LINE (lpad('', LENGTH(curr_year::TEXT), ',') || separator || rpad('Total:', category_len, ' ') || separator || total_revenue || separator || total_cost || separator || total_margin);
+                        PERFORM DBMS_OUTPUT.PUT_LINE (rpad('', LENGTH(curr_year::TEXT), ' ') || separator || rpad('Total:', category_len, ' ') || separator || total_revenue || separator || total_cost || separator || total_margin);
                         total_revenue := 0;
                         total_cost := 0;
                         total_margin := 0;
                         curr_year := record.year::TEXT;
                         prev_year := record.year;
                 ELSE
-                        curr_year := lpad('', LENGTH(record.year::TEXT), ',');
+                        curr_year := rpad('', LENGTH(record.year::TEXT), ' ');
                 END IF;
                 total_revenue := total_revenue + record.revenue;
                 total_cost := total_cost + record.cost;
@@ -159,7 +159,7 @@ BEGIN
                 PERFORM DBMS_OUTPUT.PUT_LINE (curr_year || separator || rpad(record.category || ': ' || separator || record.category_desc, category_len, ' ') || separator || record.revenue || separator || record.cost || separator || record.margin);
         END LOOP;
         CLOSE records;
-        PERFORM DBMS_OUTPUT.PUT_LINE (lpad('', LENGTH(curr_year::TEXT), ',') || separator || rpad('Total:', category_len, ' ') || separator || total_revenue || separator || total_cost || separator || total_margin);
+        PERFORM DBMS_OUTPUT.PUT_LINE (rpad('', LENGTH(curr_year::TEXT), ' ') || separator || rpad('Total:', category_len, ' ') || separator || total_revenue || separator || total_cost || separator || total_margin);
         
 END;
 $$ LANGUAGE plpgsql;
