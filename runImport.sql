@@ -132,12 +132,13 @@ DECLARE
         total_revenue INT DEFAULT 0;
         total_cost INT DEFAULT 0;
         total_margin INT DEFAULT 0;
+        category_len INT DEFAULT 30        
 BEGIN
         PERFORM DBMS_OUTPUT.DISABLE();
         PERFORM DBMS_OUTPUT.ENABLE();
         PERFORM DBMS_OUTPUT.SERVEROUTPUT ('t');
         PERFORM DBMS_OUTPUT.PUT_LINE (title);
-        PERFORM DBMS_OUTPUT.PUT_LINE ('YEAR CATEGORY REVENUE COST MARGIN');
+        PERFORM DBMS_OUTPUT.PUT_LINE ('YEAR' || separator || lpad('CATEGORY', category_len) || 'REVENUE' || separator || 'COST' || separator || 'MARGIN');
         OPEN records;
         LOOP
                 FETCH records INTO record;
