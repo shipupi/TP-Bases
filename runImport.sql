@@ -199,9 +199,7 @@ DECLARE
         total_revenue INT DEFAULT 0;
         total_cost INT DEFAULT 0;
         total_margin INT DEFAULT 0;
-        category_len INT DEFAULT 35;
         lens definitiva_lens;
-        header TEXT;
 BEGIN
         SELECT MAX(LENGTH(report.year::TEXT)) AS year_len, 
                         MAX((LENGTH(report.category)+LENGTH(cat_separator)+LENGTH(report.category_desc))) AS cat_len
@@ -244,5 +242,5 @@ END;
 $$ LANGUAGE plpgsql;
 
 --Test ReporteVenta
--- SELECT reporteventa(-1);
+-- SELECT reporteventa(2);
 -- SELECT * FROM report(2);
