@@ -244,5 +244,5 @@ END;
 $$ LANGUAGE plpgsql;
 
 --Test ReporteVenta
-SELECT reporteventa(2);
+-- SELECT reporteventa(-1);
 -- SELECT * FROM report(2);
