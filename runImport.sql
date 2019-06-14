@@ -150,7 +150,7 @@ END;
 $$
 LANGUAGE plpgsql;
 
-DROP TYPE IF EXISTS 
+DROP TYPE IF EXISTS definitiva_lens;
 CREATE TYPE definitiva_lens AS (year_len INT, cat_len INT, rev_len INT, cost_len INT, margin_len INT);
 
 CREATE OR REPLACE FUNCTION ReporteVenta(n INT)
