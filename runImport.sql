@@ -146,7 +146,7 @@ BEGIN
                         FROM validDates(n) AS T2)
                 ) AS AUX
                 GROUP BY aux.year, aux.category, aux.category_desc
-                ORDER BY aux.year, aux.category DESC, aux.category_desc DESC;               
+                ORDER BY aux.year, aux.category DESC, aux.category_desc ASC;               
 END;
 $$
 LANGUAGE plpgsql;
@@ -204,43 +204,42 @@ DECLARE
         header TEXT;
 BEGIN
         SELECT MAX(LENGTH(report.year::TEXT)) AS year_len, 
-                        MAX((LENGTH(report.category)+LENGTH(cat_separator)+LENGTH(report.category_desc))) AS cat_len, 
-                        MAX(LENGTH(report.revenue::TEXT)) AS rev_len, 
-                        MAX(LENGTH(report.cost::TEXT)) AS cost_len, 
-                        MAX(LENGTH(report.margin::TEXT)) AS margin_len 
-        INTO lens.year_len, lens.cat_len, lens.rev_len, lens.cost_len, lens.margin_len
+                        MAX((LENGTH(report.category)+LENGTH(cat_separator)+LENGTH(report.category_desc))) AS cat_len
+        INTO lens.year_len, lens.cat_len
         FROM report(n) AS report;
+        SELECT LENGTH(SUM(revenue)::TEXT) as revenue, LENGTH(SUM(cost)::TEXT) as cost, LENGTH(SUM(revenue-cost)::TEXT) as margin
+        INTO lens.rev_len, lens.cost_len, lens.margin_len
+        FROM definitiva
+        GROUP BY EXTRACT(YEAR FROM Sales_Date)
+        HAVING EXTRACT(YEAR FROM Sales_Date) = MAX(EXTRACT(YEAR FROM Sales_Date));
         PERFORM DBMS_OUTPUT.DISABLE();
         PERFORM DBMS_OUTPUT.ENABLE();
         PERFORM DBMS_OUTPUT.SERVEROUTPUT ('t');
-        PERFORM DBMS_OUTPUT.PUT_LINE (title);
-        PERFORM DBMS_OUTPUT.PUT_LINE (make_report_line('YEAR', 'CATEGORY', 'REVENUE', 'COST', 'MARGIN', lens));
         OPEN records;
         LOOP
                 FETCH records INTO record;
                 EXIT WHEN NOT FOUND;
                 IF (prev_year IS NULL OR prev_year <> record.year) THEN
                         IF (prev_year IS NOT NULL) THEN
+                                SELECT SUM(revenue) as revenue, SUM(cost) as cost, SUM(revenue-cost) as margin
+                                INTO total_revenue, total_cost, total_margin
+                                FROM definitiva
+                                WHERE EXTRACT(YEAR FROM Sales_Date) = prev_year;
                                 PERFORM DBMS_OUTPUT.PUT_LINE (make_report_line('', 'Total:', total_revenue::TEXT, total_cost::TEXT, total_margin::TEXT, lens));
-                                total_revenue := 0;
-                                total_cost := 0;
-                                total_margin := 0;
+                        ELSE
+                                PERFORM DBMS_OUTPUT.PUT_LINE (title);
+                                PERFORM DBMS_OUTPUT.PUT_LINE (make_report_line('YEAR', 'CATEGORY', 'REVENUE', 'COST', 'MARGIN', lens));
                         END IF;
                         curr_year := record.year::TEXT;
                         prev_year := record.year;
                 ELSE
                         curr_year := rpad('', LENGTH(record.year::TEXT), ' ');
                 END IF;
-                total_revenue := total_revenue + record.revenue;
-                total_cost := total_cost + record.cost;
-                total_margin := total_margin + record.margin;
-                PERFORM DBMS_OUTPUT.PUT_LINE (curr_year || separator || rpad(record.category || ': ' || separator || record.category_desc, category_len, ' ') || separator || record.revenue || separator || record.cost || separator || record.margin);
+                PERFORM DBMS_OUTPUT.PUT_LINE (make_report_line(curr_year, record.category || ': ' || separator || record.category_desc, record.revenue::TEXT, record.cost::TEXT, record.margin::TEXT, lens));
         END LOOP;
         
         CLOSE records;
         PERFORM DBMS_OUTPUT.PUT_LINE (make_report_line('', 'Total:', total_revenue::TEXT, total_cost::TEXT, total_margin::TEXT, lens));
-        PERFORM DBMS_OUTPUT.PUT_LINE (rpad('', LENGTH(curr_year::TEXT), ' ') || separator || rpad('Total:', category_len, ' ') || separator || total_revenue || separator || total_cost || separator || total_margin);
-        
 END;
 $$ LANGUAGE plpgsql;
 
