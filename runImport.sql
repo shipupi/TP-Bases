@@ -115,11 +115,12 @@ AS $$
 DECLARE
         baseYear INT := EXTRACT(YEAR FROM (SELECT MIN(definitiva.Sales_Date) FROM definitiva))::INT;
 BEGIN
-        IF (n IS NULL)
-                RETURN NULL
+        IF (n IS NULL) THEN
+                RAISE EXCEPTION 'No pueden pasarse una cantidad de anios NULL' USING ERRCODE = 'QQ333';
+        END IF;
         RETURN QUERY SELECT definitiva.Sales_Date, definitiva.Sales_Channel, definitiva.Customer_Type, definitiva.Revenue, definitiva.Cost
                      FROM definitiva
-                     WHERE EXTRACT(YEAR FROM definitiva.Sales_Date)::INT >= baseYear AND EXTRACT(YEAR FROM definitiva.Sales_Date)::INT < (baseYear + n)::INT);                 
+                     WHERE EXTRACT(YEAR FROM definitiva.Sales_Date)::INT >= baseYear AND EXTRACT(YEAR FROM definitiva.Sales_Date)::INT < (baseYear + n)::INT;                 
 END;
 $$
 LANGUAGE plpgsql;
