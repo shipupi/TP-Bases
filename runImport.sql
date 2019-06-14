@@ -151,8 +151,38 @@ END;
 $$
 LANGUAGE plpgsql;
 
-DROP TYPE IF EXISTS definitiva_lens;
+DROP TYPE IF EXISTS definitiva_lens CASCADE;
 CREATE TYPE definitiva_lens AS (year_len INT, cat_len INT, rev_len INT, cost_len INT, margin_len INT);
+
+CREATE OR REPLACE FUNCTION make_report_line(year TEXT, category TEXT, revenue TEXT, cost TEXT, margin TEXT, lens definitiva_lens)
+RETURNS TEXT
+AS $$
+DECLARE
+        separator TEXT DEFAULT ' ';
+BEGIN
+        IF (year IS NULL) THEN
+                year := '';
+        END IF;
+        IF (category IS NULL) THEN
+                category := '';
+        END IF;
+        IF (revenue IS NULL) THEN
+                revenue := '';
+        END IF;
+        IF (cost IS NULL) THEN
+                cost := '';
+        END IF;
+        IF (margin IS NULL) THEN
+                margin := '';
+        END IF;
+        RETURN (rpad(year, lens.year_len, separator) || separator 
+                || rpad(category, lens.cat_len, separator) || separator 
+                || rpad(revenue, lens.rev_len, separator) || separator 
+                || rpad(cost, lens.cost_len, separator) || separator
+                || rpad(margin, lens.margin_len, separator));               
+END;
+$$
+LANGUAGE plpgsql;
 
 CREATE OR REPLACE FUNCTION ReporteVenta(n INT)
 RETURNS void
@@ -171,28 +201,31 @@ DECLARE
         total_margin INT DEFAULT 0;
         category_len INT DEFAULT 35;
         lens definitiva_lens;
+        header TEXT;
 BEGIN
         SELECT MAX(LENGTH(report.year::TEXT)) AS year_len, 
-                        MAX((LENGTH(report.category)+LENGTH(report.category_desc))) AS cat_len, 
+                        MAX((LENGTH(report.category)+LENGTH(cat_separator)+LENGTH(report.category_desc))) AS cat_len, 
                         MAX(LENGTH(report.revenue::TEXT)) AS rev_len, 
                         MAX(LENGTH(report.cost::TEXT)) AS cost_len, 
                         MAX(LENGTH(report.margin::TEXT)) AS margin_len 
-        INTO lens.year_len, lens.cat_len, lens.cost_len, lens.margin_len
+        INTO lens.year_len, lens.cat_len, lens.rev_len, lens.cost_len, lens.margin_len
         FROM report(n) AS report;
         PERFORM DBMS_OUTPUT.DISABLE();
         PERFORM DBMS_OUTPUT.ENABLE();
         PERFORM DBMS_OUTPUT.SERVEROUTPUT ('t');
         PERFORM DBMS_OUTPUT.PUT_LINE (title);
-        PERFORM DBMS_OUTPUT.PUT_LINE ('YEAR' || separator || rpad('CATEGORY', category_len, ' ') || separator || 'REVENUE' || separator || 'COST' || separator || 'MARGIN');
+        PERFORM DBMS_OUTPUT.PUT_LINE (make_report_line('YEAR', 'CATEGORY', 'REVENUE', 'COST', 'MARGIN', lens));
         OPEN records;
         LOOP
                 FETCH records INTO record;
                 EXIT WHEN NOT FOUND;
                 IF (prev_year IS NULL OR prev_year <> record.year) THEN
-                        PERFORM DBMS_OUTPUT.PUT_LINE (rpad('', LENGTH(curr_year::TEXT), ' ') || separator || rpad('Total:', category_len, ' ') || separator || total_revenue || separator || total_cost || separator || total_margin);
-                        total_revenue := 0;
-                        total_cost := 0;
-                        total_margin := 0;
+                        IF (prev_year IS NOT NULL) THEN
+                                PERFORM DBMS_OUTPUT.PUT_LINE (make_report_line('', 'Total:', total_revenue::TEXT, total_cost::TEXT, total_margin::TEXT, lens));
+                                total_revenue := 0;
+                                total_cost := 0;
+                                total_margin := 0;
+                        END IF;
                         curr_year := record.year::TEXT;
                         prev_year := record.year;
                 ELSE
@@ -203,12 +236,14 @@ BEGIN
                 total_margin := total_margin + record.margin;
                 PERFORM DBMS_OUTPUT.PUT_LINE (curr_year || separator || rpad(record.category || ': ' || separator || record.category_desc, category_len, ' ') || separator || record.revenue || separator || record.cost || separator || record.margin);
         END LOOP;
+        
         CLOSE records;
+        PERFORM DBMS_OUTPUT.PUT_LINE (make_report_line('', 'Total:', total_revenue::TEXT, total_cost::TEXT, total_margin::TEXT, lens));
         PERFORM DBMS_OUTPUT.PUT_LINE (rpad('', LENGTH(curr_year::TEXT), ' ') || separator || rpad('Total:', category_len, ' ') || separator || total_revenue || separator || total_cost || separator || total_margin);
         
 END;
 $$ LANGUAGE plpgsql;
 
 --Test ReporteVenta
--- SELECT ReporteVenta(2);
+SELECT reporteventa(2);
 -- SELECT * FROM report(2);
