@@ -89,7 +89,7 @@ BEGIN
 	END IF;
 
 	-- Argumentos correctos! Calculo el margen de ventas promedio
-	RETURN (SELECT SUM(Revenue - Cost)/COUNT(*)
+	RETURN (SELECT (SUM(Revenue - Cost)::decimal(10,2)/COUNT(Sales_Date))::decimal(10,2)
 	       FROM definitiva
                WHERE Sales_Date >= (fecha - (n * '1 month'::INTERVAL)) AND Sales_Date <= fecha);	
 
@@ -98,7 +98,7 @@ $$
 LANGUAGE plpgsql;
 
 -- Test MargenMovil
--- SELECT MargenMovil(to_date('2012-11-01','YYYY-MM-DD'), 2);
+--SELECT MargenMovil(to_date('2012-11-01','YYYY-MM-DD'), 2);
 
 -- e) Reporte de Ventas Historico
 
