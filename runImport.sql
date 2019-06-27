@@ -205,11 +205,12 @@ BEGIN
                         MAX((LENGTH(report.category)+LENGTH(cat_separator)+LENGTH(report.category_desc))) AS cat_len
         INTO lens.year_len, lens.cat_len
         FROM report(n) AS report;
-        SELECT LENGTH(SUM(revenue)::TEXT) as revenue, LENGTH(SUM(cost)::TEXT) as cost, LENGTH(SUM(revenue-cost)::TEXT) as margin
+        SELECT MAX(revenue) as revenue, MAX(cost) as cost, MAX(margin) as margin
         INTO lens.rev_len, lens.cost_len, lens.margin_len
-        FROM definitiva
-        GROUP BY EXTRACT(YEAR FROM Sales_Date)
-        HAVING EXTRACT(YEAR FROM Sales_Date) = MAX(EXTRACT(YEAR FROM Sales_Date));
+        FROM
+                (SELECT LENGTH(SUM(revenue)::TEXT) as revenue, LENGTH(SUM(cost)::TEXT) as cost, LENGTH(SUM(revenue-cost)::TEXT) as margin
+                FROM definitiva
+                GROUP BY EXTRACT(YEAR FROM Sales_Date)) as len_by_year;
         PERFORM DBMS_OUTPUT.DISABLE();
         PERFORM DBMS_OUTPUT.ENABLE();
         PERFORM DBMS_OUTPUT.SERVEROUTPUT ('t');
@@ -219,15 +220,15 @@ BEGIN
                 EXIT WHEN NOT FOUND;
                 IF (prev_year IS NULL OR prev_year <> record.year) THEN
                         IF (prev_year IS NOT NULL) THEN
-                                SELECT SUM(revenue) as revenue, SUM(cost) as cost, SUM(revenue-cost) as margin
-                                INTO total_revenue, total_cost, total_margin
-                                FROM definitiva
-                                WHERE EXTRACT(YEAR FROM Sales_Date) = prev_year;
                                 PERFORM DBMS_OUTPUT.PUT_LINE (make_report_line('', 'Total:', total_revenue::TEXT, total_cost::TEXT, total_margin::TEXT, lens));
                         ELSE
                                 PERFORM DBMS_OUTPUT.PUT_LINE (title);
                                 PERFORM DBMS_OUTPUT.PUT_LINE (make_report_line('YEAR', 'CATEGORY', 'REVENUE', 'COST', 'MARGIN', lens));
                         END IF;
+                        SELECT SUM(revenue) as revenue, SUM(cost) as cost, SUM(revenue-cost) as margin
+                                INTO total_revenue, total_cost, total_margin
+                                FROM definitiva
+                                WHERE EXTRACT(YEAR FROM Sales_Date) = record.year;
                         curr_year := record.year::TEXT;
                         prev_year := record.year;
                 ELSE
@@ -241,6 +242,7 @@ BEGIN
 END;
 $$ LANGUAGE plpgsql;
 
+
 --Test ReporteVenta
--- SELECT reporteventa(2);
+--
 -- SELECT * FROM report(2);
